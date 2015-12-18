@@ -111,7 +111,11 @@ appropriately and maintain their localization.
 
 Key associated GO terms (process ontology)
 
-* [GO:0051646][GO:0051646] (mitochondrion localization)
+[GO:0051646][GO:0051646] (mitochondrion localization)
+
+Has 3 children
+
+* [GO:0051659][GO:0051659] (maintenance of mitochondrion localization)
   * [GO:1990456][GO:1990456] (mitochondrion-ER tethering)
 * [GO:0051654][GO:0051654] (establishment of mitochondrion localization)
   * [GO:1990456][GO:1990456] (mitochondrial migration along actin filament)
@@ -125,6 +129,7 @@ Key associated GO terms (process ontology)
   * [GO:0000001][GO:0000001] (mitochondrion inheritance)
 
 [GO:0051646]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051646
+[GO:0051659]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051659
 [GO:1990456]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:1990456
 [GO:0051654]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051654
 [GO:1990456]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:1990456
