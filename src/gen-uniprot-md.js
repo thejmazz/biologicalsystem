@@ -2,7 +2,7 @@
 
 const fs = require('fs')
 
-fs.readFile(__dirname + '/../files/0047497-proteins.json', function(err, data) {
+fs.readFile(process.argv[2], function(err, data) {
   if (err) console.error(err)
 
   data = JSON.parse(data)
@@ -17,18 +17,11 @@ fs.readFile(__dirname + '/../files/0047497-proteins.json', function(err, data) {
   let produced = {}
 
   for(let i=0; i<sorted.length; i++) {
-    // let gene = {}
-    // gene[sorted[i][0]] = data[sorted[i][0]]
     produced[sorted[i][0]] = data[sorted[i][0]]
   }
 
-  let writable = fs.createWriteStream('somthing.md')
-
-
-
   Object.keys(produced).forEach(function(key) {
     const UniProtKBBaseUri = 'http://www.uniprot.org/uniprot/'
-    // console.log(`## ${key} (${produced[key].length})`)
     process.stdout.write(`\n## ${key} (${produced[key].length})\n`)
 
     produced[key].forEach(function(gene) {
@@ -40,15 +33,6 @@ fs.readFile(__dirname + '/../files/0047497-proteins.json', function(err, data) {
       }).join(', ')
 
       process.stdout.write(`* ${name}; ${links}\n`)
-
-
-      // console.log(gene.uniprot.entry[0].accession.map(function(term) { return `[${term}](${UniProtKBBaseUri + term})`).join(', '))
     })
-
-    // produced[key].forEach(function(gene) {
-    //   if (gene.organism) {
-    //     console.log(gene.organism[0].name[0]._)
-    //   }
-    // })
   })
 })

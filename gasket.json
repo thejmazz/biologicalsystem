@@ -11,5 +11,8 @@
   "get-uniprot": [
     "dat export -d go-annotations",
     "node src/get-uniprot.js > files/0047497-proteins.json"
+  ],
+  "make-markdown": [
+    "node src/gen-uniprot-md.js files/0047497-proteins.json > files/0047497-proteins.md"
   ]
 }
