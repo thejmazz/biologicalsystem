@@ -69,7 +69,7 @@ process.stdin
       const geneName = xmlJSON.uniprot.entry[0].gene[0].name[0]._.toUpperCase()
 
       if (Object.keys(filtered).indexOf(geneName) === -1) {
-        filtered[geneName] = [xmlJSON.uniprot.entry[0]]
+        filtered[geneName] = [xmlJSON]
       } else {
         filtered[geneName].push(xmlJSON)
       }

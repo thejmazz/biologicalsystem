@@ -22,11 +22,27 @@ fs.readFile(__dirname + '/../files/0047497-proteins.json', function(err, data) {
     produced[sorted[i][0]] = data[sorted[i][0]]
   }
 
+  let writable = fs.createWriteStream('somthing.md')
+
+
+
   Object.keys(produced).forEach(function(key) {
-    console.log(`## ${key} (${produced[key].length})`)
+    const UniProtKBBaseUri = 'http://www.uniprot.org/uniprot/'
+    // console.log(`## ${key} (${produced[key].length})`)
+    process.stdout.write(`## ${key} (${produced[key].length})\n`)
 
     produced[key].forEach(function(gene) {
-      console.log(gene)
+      let name = gene.uniprot.entry[0].organism[0].name[0]._
+
+      let links = gene.uniprot.entry[0].accession.map(function(id) {
+        let link = UniProtKBBaseUri + id
+        return `[${id}](${link})`
+      }).join(', ')
+
+      process.stdout.write(`* ${name}; ${links}\n`)
+
+
+      // console.log(gene.uniprot.entry[0].accession.map(function(term) { return `[${term}](${UniProtKBBaseUri + term})`).join(', '))
     })
 
     // produced[key].forEach(function(gene) {
