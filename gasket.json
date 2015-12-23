@@ -7,5 +7,10 @@
   "filter-proteins": [
     "dat export -d go-annotations",
     "node src/filter-proteins.js"
+  ],
+  "get-uniprot": [
+    "dat export -d go-annotations",
+    "ndjson -",
+    "node src/get-uniprot.js"
   ]
 }

@@ -4,9 +4,12 @@
   "description": "2015 BCH441 project.",
   "main": "index.js",
   "dependencies": {
+    "bluebird": "^3.1.1",
+    "co": "^4.6.0",
     "csv-parser": "^1.9.0",
     "ndjson": "^1.4.3",
     "request": "^2.67.0",
+    "request-promise": "^1.0.2",
     "through2": "^2.0.0",
     "xml2js": "^0.4.15"
   },
