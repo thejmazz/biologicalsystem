@@ -1,5 +1,4 @@
 const csv = require('csv-parser')
-const write = require('csv-write-stream')
 const through = require('through2')
 
 process.stdin
