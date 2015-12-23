@@ -186,7 +186,7 @@ as well.
   * *rattus norvegicus*
   * Rhot2
 
-* [H0YZL5][http://www.uniprot.org/uniprot/H0YZL5]
+* [H0YZL5](http://www.uniprot.org/uniprot/H0YZL5)
   * uncharactized protein
   * RHOT2
 
@@ -219,6 +219,10 @@ xmlJSON.uniprot.entry[0].gene[0].name[0]._
 need to remove duplicates
 * filters into arrays by gene name. but pipe ends here and need to refactor
 into smaller pipeables
+* sorts by size of array:
+
+![filtered-sorted](img/filtered-sorted.png)
+
 
 [GO:0051646]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051646
 [GO:0051659]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051659

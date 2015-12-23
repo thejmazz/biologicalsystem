@@ -43,70 +43,38 @@ process.stdin
   // can't get it to worth with this commented and `ndjson -` in gasket
   .pipe(ndjson.parse())
   .pipe(through.obj(function (obj, enc, cb) {
-    this.push(obj)
-    cb()
-  }))
-  .pipe(through.obj(function (obj, enc, cb) {
-    // console.log(obj)
+    const UniProtKBBaseUri = 'http://www.uniprot.org/uniprot/'
+    const suffix = '.xml'
+    let xml, xmlJSON
+    let throughThis = this
+
     if (obj.DB === 'UniProtKB') {
       co.wrap(function* () {
         try {
-          const UniProtKBBaseUri = 'http://www.uniprot.org/uniprot/'
-          const suffix = '.xml'
-          let xml = yield requestAsync(gUri(UniProtKBBaseUri, obj.ID, '.xml'))
-          let xmlJSON = yield xmlParseAsync(xml)
+          xml = yield requestAsync(gUri(UniProtKBBaseUri, obj.ID, '.xml'))
+          xmlJSON = yield xmlParseAsync(xml)
 
-          if (xmlJSON.uniprot.entry[0].gene) {
-            const geneName = xmlJSON.uniprot.entry[0].gene[0].name[0]._
-
-            if (Object.keys(filtered).indexOf(geneName) === -1) {
-              filtered[geneName] = [xmlJSON.uniprot.entry[0]]
-            } else {
-              filtered[geneName].push(obj)
-            }
-          }
-
-          console.log(filtered)
+          throughThis.push(xmlJSON)
         } catch (e) {
-          console.error(e)
+          // console.error(e)
+          cb()
         }
+
+        cb()
       })()
     }
-
-    this.push(JSON.stringify(obj) + '\n')
-    cb()
   }))
-  .on('end', function() {
-    console.log('wheee')
-  })
-  // .pipe(process.stdout)
+  .on('data', function(xmlJSON) {
+    if (xmlJSON.uniprot.entry[0].gene) {
+      const geneName = xmlJSON.uniprot.entry[0].gene[0].name[0]._
 
-  // .on('data', function (obj) {
-  //   if (obj.DB === 'UniProtKB') {
-  //     co.wrap(function* () {
-  //       try {
-  //         const UniProtKBBaseUri = 'http://www.uniprot.org/uniprot/'
-  //         const suffix = '.xml'
-  //         let xml = yield requestAsync(gUri(UniProtKBBaseUri, obj.ID, '.xml'))
-  //         let xmlJSON = yield xmlParseAsync(xml)
-  //
-  //         if (xmlJSON.uniprot.entry[0].gene) {
-  //           const geneName = xmlJSON.uniprot.entry[0].gene[0].name[0]._
-  //
-  //           if (Object.keys(filtered).indexOf(geneName) === -1) {
-  //             filtered[geneName] = [xmlJSON.uniprot.entry[0]]
-  //           } else {
-  //             filtered[geneName].push(obj)
-  //           }
-  //         }
-  //
-  //         console.log(filtered)
-  //       } catch (e) {
-  //         console.error(e)
-  //       }
-  //     })()
-  //   }
-  // })
-  // .on('end', function() {
-  //   console.log(filtered)
-  // })
+      if (Object.keys(filtered).indexOf(geneName) === -1) {
+        filtered[geneName] = [xmlJSON.uniprot.entry[0]]
+      } else {
+        filtered[geneName].push(xmlJSON)
+      }
+    }
+  })
+  .on('end', function() {
+    process.stdout.write(JSON.stringify(filtered) + '\n')
+  })
