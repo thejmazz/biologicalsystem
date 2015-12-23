@@ -163,4 +163,14 @@ Some good looking non-human genes:
 
 ## Compiling a list of genes (12 points)
 
+### [GO:0047497][GO:0047497] (mitochondrion transport along microtubule)
+
+```
+The directed movement of a mitochondrion along a microtubule, mediated by
+motor proteins
+```
+
+
+
+
 ## Documentation (9 points)

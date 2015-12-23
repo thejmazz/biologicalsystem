@@ -146,6 +146,8 @@ in neurons.
   postsynaptic membrane where they are needed to provide calcium buffering and
   to provide ATP to pump out ions that enter through synaptic channels
 
+![miro1](img/miro1.png)
+
 
 ## 2015/12/20
 
@@ -159,3 +161,11 @@ More studying and exam.
 ## 2015/19/22
 
 * went through notebook, notes on papers
+* observed QuickGO "protein annotation tab". Can't handle not working
+  programmatically - thankfully QuickGO provides
+  [REST web services][quickgo-rest]
+* Made [bionode-quickgo][bionode-quickgo] to scratch my itch. Can now use
+  QuickGO API with semantic ease through a Promise or Stream
+
+[quickgo-rest]: http://www.ebi.ac.uk/QuickGO/WebServices.html
+[bionode-quickgo]: https://github.com/thejmazz/bionode-quickgo
