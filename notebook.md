@@ -217,6 +217,8 @@ xmlJSON.uniprot.entry[0].gene[0].name[0]._
 
 * Among the names I see RHOT2, KIF1B, MAP1B, MAPT, Miro, RHOT1, ... just
 need to remove duplicates
+* filters into arrays by gene name. but pipe ends here and need to refactor
+into smaller pipeables
 
 [GO:0051646]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051646
 [GO:0051659]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051659

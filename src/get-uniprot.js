@@ -12,9 +12,9 @@ const through = require('through2') // wrapper around streams3
  * @param  {String} str the xml String
  * @return {Function}     resolve(result) or reject(err)
  */
-const xmlParseAsync = function(str) {
-  return new Promise( (resolve, reject) => {
-    xmlParse(str, function(err, result) {
+const xmlParseAsync = function (str) {
+  return new Promise((resolve, reject) => {
+    xmlParse(str, function (err, result) {
       if (err) reject(err)
 
       resolve(result)
@@ -42,6 +42,8 @@ function gUri(base, id, suffix) {
 
 const UniProtKBBaseUri = 'http://www.uniprot.org/uniprot/'
 const suffix = '.xml'
+
+let filtered = {}
 
 // take Object stream of parsed ndjson of QuickGO annotations
 process.stdin
@@ -71,21 +73,30 @@ process.stdin
   // }))
   // .pipe(process.stdout)
   .pipe(ndjson.parse())
-  .on('data', function(obj) {
+  .on('data', function (obj) {
     if (obj.DB === 'UniProtKB') {
       co.wrap(function* () {
         try {
           let xml = yield requestAsync(UniProtKBBaseUri + obj.ID + '.xml')
-          // console.log(xml)
+            // console.log(xml)
           let xmlJSON = yield xmlParseAsync(xml)
-          // console.log(xmlJSON)
-          // console.log(xmlJSON.uniprot.entry[0])
+            // console.log(xmlJSON)
+            // console.log(xmlJSON.uniprot.entry[0])
 
           // console.log(xmlJSON.uniprot.entry.gene)
           if (xmlJSON.uniprot.entry[0].gene) {
-              console.log(xmlJSON.uniprot.entry[0].gene[0].name[0]._)
+            // console.log(xmlJSON.uniprot.entry[0].gene[0].name[0]._)
+            const geneName = xmlJSON.uniprot.entry[0].gene[0].name[0]._
+            // console.log(geneName)
+
+            if (Object.keys(filtered).indexOf(geneName) === -1) {
+              filtered[geneName] = [xmlJSON.uniprot.entry[0]]
+            } else {
+              filtered[geneName].push(obj)
+            }
           }
 
+          console.log(filtered)
 
           // console.log('data', JSON.stringify(xmlJSON) + '\n')
 
@@ -95,9 +106,12 @@ process.stdin
           // }
 
           // console.log(xmlJSON.uniprot.entry.gene[0].name[0]._)
-        } catch(e) {
+        } catch (e) {
           console.error(e)
         }
       })()
     }
+  })
+  .on('end', function() {
+    console.log(filtered)
   })
