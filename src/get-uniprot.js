@@ -76,8 +76,25 @@ process.stdin
       co.wrap(function* () {
         try {
           let xml = yield requestAsync(UniProtKBBaseUri + obj.ID + '.xml')
+          // console.log(xml)
           let xmlJSON = yield xmlParseAsync(xml)
-          console.log('data', JSON.stringify(xmlJSON) + '\n')
+          // console.log(xmlJSON)
+          // console.log(xmlJSON.uniprot.entry[0])
+
+          // console.log(xmlJSON.uniprot.entry.gene)
+          if (xmlJSON.uniprot.entry[0].gene) {
+              console.log(xmlJSON.uniprot.entry[0].gene[0].name[0]._)
+          }
+
+
+          // console.log('data', JSON.stringify(xmlJSON) + '\n')
+
+          // console.log(xmlJSON.entry)
+          // if (xmlJSON.entry.uniprot.gene !== 'undefined') {
+          //   console.log(xmlJSON.entry.uniprot.gene)
+          // }
+
+          // console.log(xmlJSON.uniprot.entry.gene[0].name[0]._)
         } catch(e) {
           console.error(e)
         }

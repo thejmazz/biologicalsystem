@@ -193,6 +193,7 @@ as well.
 [quickgo-rest]: http://www.ebi.ac.uk/QuickGO/WebServices.html
 [bionode-quickgo]: https://github.com/thejmazz/bionode-quickgo
 
+## 2015/19/23
 
 * Observed that the first 20 or so, when checking manually by copy pasting
 from an array of IDs arranged by most-refs to least-refs, where all the
@@ -205,6 +206,17 @@ began inspecting from where to retrieve the "name" attribute:
 
 [xml2js]: https://www.npmjs.com/package/xml2js
 [hihat]: https://www.npmjs.com/package/hihat
+
+* finally got xml parsing pipeline to output "name" of gene. Would be nice
+to post-process the xmlJSON output to convert single-length arrays to
+their object..was frustrating parsing this data
+
+```js
+xmlJSON.uniprot.entry[0].gene[0].name[0]._
+```
+
+* Among the names I see RHOT2, KIF1B, MAP1B, MAPT, Miro, RHOT1, ... just
+need to remove duplicates
 
 [GO:0051646]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051646
 [GO:0051659]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051659
