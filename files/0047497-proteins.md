@@ -1,3 +1,4 @@
+
 ## RHOT2 (99)
 * Papio anubis; [A0A096NKH4](http://www.uniprot.org/uniprot/A0A096NKH4)
 * Papio anubis; [A0A096NKH4](http://www.uniprot.org/uniprot/A0A096NKH4)
@@ -98,6 +99,7 @@
 * Ophiophagus hannah; [V8NMM0](http://www.uniprot.org/uniprot/V8NMM0)
 * Ovis aries; [W5QFY3](http://www.uniprot.org/uniprot/W5QFY3)
 * Ovis aries; [W5QFY3](http://www.uniprot.org/uniprot/W5QFY3)
+
 ## RHOT1 (38)
 * Papio anubis; [A0A096P3R7](http://www.uniprot.org/uniprot/A0A096P3R7)
 * Rattus norvegicus; [A0A0G2K777](http://www.uniprot.org/uniprot/A0A0G2K777)
@@ -137,6 +139,7 @@
 * Anas platyrhynchos; [U3IHD1](http://www.uniprot.org/uniprot/U3IHD1)
 * Ficedula albicollis; [U3JHY1](http://www.uniprot.org/uniprot/U3JHY1)
 * Ovis aries; [W5PP34](http://www.uniprot.org/uniprot/W5PP34)
+
 ## MAPT (33)
 * Papio anubis; [A0A096P681](http://www.uniprot.org/uniprot/A0A096P681)
 * Gallus gallus; [B0LVG0](http://www.uniprot.org/uniprot/B0LVG0), [F1NUN1](http://www.uniprot.org/uniprot/F1NUN1)
@@ -171,6 +174,7 @@
 * Anas platyrhynchos; [U3IKL9](http://www.uniprot.org/uniprot/U3IKL9)
 * Ficedula albicollis; [U3JQD1](http://www.uniprot.org/uniprot/U3JQD1)
 * Ovis aries; [W5PNU3](http://www.uniprot.org/uniprot/W5PNU3)
+
 ## MAP1B (31)
 * Papio anubis; [A0A096NBM8](http://www.uniprot.org/uniprot/A0A096NBM8)
 * Ailuropoda melanoleuca; [D2HGU8](http://www.uniprot.org/uniprot/D2HGU8)
@@ -203,6 +207,7 @@
 * Homo sapiens; [P46821](http://www.uniprot.org/uniprot/P46821), [A2BDK5](http://www.uniprot.org/uniprot/A2BDK5)
 * Ficedula albicollis; [U3K6V0](http://www.uniprot.org/uniprot/U3K6V0)
 * Ovis aries; [W5P564](http://www.uniprot.org/uniprot/W5P564)
+
 ## KIF1B (30)
 * Bos taurus; [E1BBN7](http://www.uniprot.org/uniprot/E1BBN7)
 * Canis lupus familiaris; [E2R9C4](http://www.uniprot.org/uniprot/E2R9C4)
@@ -234,6 +239,7 @@
 * Anas platyrhynchos; [U3IGK7](http://www.uniprot.org/uniprot/U3IGK7)
 * Ficedula albicollis; [U3JXP6](http://www.uniprot.org/uniprot/U3JXP6)
 * Ovis aries; [W5P6Z9](http://www.uniprot.org/uniprot/W5P6Z9)
+
 ## UBB (10)
 * Sus scrofa; [A7U5U2](http://www.uniprot.org/uniprot/A7U5U2)
 * Callithrix jacchus; [F6Q8N3](http://www.uniprot.org/uniprot/F6Q8N3)
@@ -245,6 +251,7 @@
 * Mus musculus; [P0CG49](http://www.uniprot.org/uniprot/P0CG49), [P02248](http://www.uniprot.org/uniprot/P02248), [P02249](http://www.uniprot.org/uniprot/P02249), [P02250](http://www.uniprot.org/uniprot/P02250), [P62991](http://www.uniprot.org/uniprot/P62991), [Q29120](http://www.uniprot.org/uniprot/Q29120), [Q62317](http://www.uniprot.org/uniprot/Q62317), [Q64223](http://www.uniprot.org/uniprot/Q64223), [Q8VCH1](http://www.uniprot.org/uniprot/Q8VCH1), [Q91887](http://www.uniprot.org/uniprot/Q91887), [Q91888](http://www.uniprot.org/uniprot/Q91888), [Q9CXY4](http://www.uniprot.org/uniprot/Q9CXY4), [Q9CZM0](http://www.uniprot.org/uniprot/Q9CZM0), [Q9D1R5](http://www.uniprot.org/uniprot/Q9D1R5), [Q9D8D9](http://www.uniprot.org/uniprot/Q9D8D9), [Q9ET23](http://www.uniprot.org/uniprot/Q9ET23), [Q9ET24](http://www.uniprot.org/uniprot/Q9ET24), [Q9Z0H9](http://www.uniprot.org/uniprot/Q9Z0H9)
 * Gorilla gorilla gorilla; [P0CG67](http://www.uniprot.org/uniprot/P0CG67), [Q867C2](http://www.uniprot.org/uniprot/Q867C2), [Q867C6](http://www.uniprot.org/uniprot/Q867C6)
 * Mus musculus; [Q78XY9](http://www.uniprot.org/uniprot/Q78XY9)
+
 ## DIDUM (6)
 * Drosophila melanogaster; [A1Z6Z8](http://www.uniprot.org/uniprot/A1Z6Z8)
 * Drosophila melanogaster; [A1Z6Z9](http://www.uniprot.org/uniprot/A1Z6Z9)
@@ -252,151 +259,222 @@
 * Drosophila melanogaster; [O97417](http://www.uniprot.org/uniprot/O97417)
 * Drosophila melanogaster; [Q7YU40](http://www.uniprot.org/uniprot/Q7YU40)
 * Drosophila melanogaster; [Q94882](http://www.uniprot.org/uniprot/Q94882), [O01381](http://www.uniprot.org/uniprot/O01381)
+
 ## OCBIM_22017563MG (2)
 * Octopus bimaculoides; [A0A0L8HCJ1](http://www.uniprot.org/uniprot/A0A0L8HCJ1)
 * Octopus bimaculoides; [A0A0L8HCW9](http://www.uniprot.org/uniprot/A0A0L8HCW9)
+
 ## MIRO2 (2)
 * Rhinolophus ferrumequinum; [B2KHX1](http://www.uniprot.org/uniprot/B2KHX1)
 * Neovison vison; [U6D2Z6](http://www.uniprot.org/uniprot/U6D2Z6)
+
 ## MIRO-1 (2)
 * Caenorhabditis briggsae; [Q623S8](http://www.uniprot.org/uniprot/Q623S8), [A8WQY7](http://www.uniprot.org/uniprot/A8WQY7)
 * Caenorhabditis elegans; [Q94263](http://www.uniprot.org/uniprot/Q94263)
+
 ## UBBP4 (2)
 * Canis lupus familiaris; [F1PDG4](http://www.uniprot.org/uniprot/F1PDG4)
 * Nomascus leucogenys; [G1RIK9](http://www.uniprot.org/uniprot/G1RIK9)
+
 ## UBC (2)
 * Monodelphis domestica; [F7E910](http://www.uniprot.org/uniprot/F7E910)
 * Oryctolagus cuniculus; [G1SF46](http://www.uniprot.org/uniprot/G1SF46)
+
 ## MIRO (2)
 * Drosophila pseudoobscura pseudoobscura; [Q298L5](http://www.uniprot.org/uniprot/Q298L5)
 * Drosophila melanogaster; [Q8IMX7](http://www.uniprot.org/uniprot/Q8IMX7), [Q8IMX6](http://www.uniprot.org/uniprot/Q8IMX6), [Q95TT1](http://www.uniprot.org/uniprot/Q95TT1)
+
 ## V1G144500 (1)
 * Nematostella vectensis; [A7T3M6](http://www.uniprot.org/uniprot/A7T3M6)
+
 ## N333_06614 (1)
 * Nestor notabilis; [A0A091S4R7](http://www.uniprot.org/uniprot/A0A091S4R7)
+
 ## N334_06715 (1)
 * Pelecanus crispus; [A0A091SKS9](http://www.uniprot.org/uniprot/A0A091SKS9)
+
 ## Y956_05281 (1)
 * Nipponia nippon; [A0A091US71](http://www.uniprot.org/uniprot/A0A091US71)
+
 ## M959_15097 (1)
 * Chaetura pelagica; [A0A093BES2](http://www.uniprot.org/uniprot/A0A093BES2)
+
 ## N339_04838 (1)
 * Pterocles gutturalis; [A0A093C1W4](http://www.uniprot.org/uniprot/A0A093C1W4)
+
 ## N328_04486 (1)
 * Gavia stellata; [A0A093EUL8](http://www.uniprot.org/uniprot/A0A093EUL8)
+
 ## N307_01610 (1)
 * Picoides pubescens; [A0A093GD14](http://www.uniprot.org/uniprot/A0A093GD14)
+
 ## N308_01515 (1)
 * Struthio camelus australis; [A0A093I2W2](http://www.uniprot.org/uniprot/A0A093I2W2)
+
 ## N326_04260 (1)
 * Eurypyga helias; [A0A093JES6](http://www.uniprot.org/uniprot/A0A093JES6)
+
 ## N327_04483 (1)
 * Fulmarus glacialis; [A0A093KVJ3](http://www.uniprot.org/uniprot/A0A093KVJ3)
+
 ## AS28_14547 (1)
 * Pygoscelis adeliae; [A0A093NHZ8](http://www.uniprot.org/uniprot/A0A093NHZ8)
+
 ## N305_01219 (1)
 * Manacus vitellinus; [A0A093PFQ9](http://www.uniprot.org/uniprot/A0A093PFQ9)
+
 ## N336_04147 (1)
 * Phalacrocorax carbo; [A0A093SC43](http://www.uniprot.org/uniprot/A0A093SC43)
+
 ## GSONMT00078389001 (1)
 * Oncorhynchus mykiss; [A0A060VUV1](http://www.uniprot.org/uniprot/A0A060VUV1)
+
 ## N312_08203 (1)
 * Balearica regulorum gibbericeps; [A0A087VLB5](http://www.uniprot.org/uniprot/A0A087VLB5)
+
 ## H920_03797 (1)
 * Fukomys damarensis; [A0A091DRL7](http://www.uniprot.org/uniprot/A0A091DRL7)
+
 ## H920_03798 (1)
 * Fukomys damarensis; [A0A091DWX0](http://www.uniprot.org/uniprot/A0A091DWX0)
+
 ## N309_09959 (1)
 * Tinamus guttatus; [A0A099Z4X1](http://www.uniprot.org/uniprot/A0A099Z4X1)
+
 ## N301_16766 (1)
 * Charadrius vociferus; [A0A099ZXA7](http://www.uniprot.org/uniprot/A0A099ZXA7)
+
 ## MIRO-2 (1)
 * Sparus aurata; [A0A0B4KJI3](http://www.uniprot.org/uniprot/A0A0B4KJI3)
+
 ## ORF82542 (1)
 * Arion vulgaris; [A0A0B6ZV50](http://www.uniprot.org/uniprot/A0A0B6ZV50)
+
 ## ORF82537 (1)
 * Arion vulgaris; [A0A0B6ZV92](http://www.uniprot.org/uniprot/A0A0B6ZV92)
+
 ## N302_12969 (1)
 * Corvus brachyrhynchos; [A0A091FPX0](http://www.uniprot.org/uniprot/A0A091FPX0)
+
 ## N303_04397 (1)
 * Cuculus canorus; [A0A091GAP3](http://www.uniprot.org/uniprot/A0A091GAP3)
+
 ## V1G113475 (1)
 * Nematostella vectensis; [A7SCK4](http://www.uniprot.org/uniprot/A7SCK4)
+
 ## AS27_07083 (1)
 * Aptenodytes forsteri; [A0A087QIA7](http://www.uniprot.org/uniprot/A0A087QIA7)
+
 ## N320_08830 (1)
 * Buceros rhinoceros silvestris; [A0A091H0R7](http://www.uniprot.org/uniprot/A0A091H0R7)
+
 ## Z169_01996 (1)
 * Egretta garzetta; [A0A091IQ37](http://www.uniprot.org/uniprot/A0A091IQ37)
+
 ## ISCW_ISCW002009 (1)
 * Ixodes scapularis; [B7PAT4](http://www.uniprot.org/uniprot/B7PAT4)
+
 ## BRAFLDRAFT_93126 (1)
 * Branchiostoma floridae; [C3YJ97](http://www.uniprot.org/uniprot/C3YJ97)
+
 ## PANDA_008933 (1)
 * Ailuropoda melanoleuca; [D2HDW8](http://www.uniprot.org/uniprot/D2HDW8)
+
 ## LOC100483436 (1)
 * Ailuropoda melanoleuca; [D2HFP2](http://www.uniprot.org/uniprot/D2HFP2)
+
 ## PANDA_017259 (1)
 * Ailuropoda melanoleuca; [D2HXB8](http://www.uniprot.org/uniprot/D2HXB8)
+
 ## N300_14007 (1)
 * Calypte anna; [A0A091ITZ1](http://www.uniprot.org/uniprot/A0A091ITZ1)
+
 ## GGA.48506 (1)
 * Gallus gallus; [E1C889](http://www.uniprot.org/uniprot/E1C889)
+
 ## N323_12501 (1)
 * Cathartes aura; [A0A091L7Q6](http://www.uniprot.org/uniprot/A0A091L7Q6)
+
 ## N311_06801 (1)
 * Apaloderma vittatum; [A0A091NQY6](http://www.uniprot.org/uniprot/A0A091NQY6)
+
 ## ISG15 (1)
 * Ornithorhynchus anatinus; [F7G4U0](http://www.uniprot.org/uniprot/F7G4U0)
+
 ## I79_007891 (1)
 * Cricetulus griseus; [G3HBU1](http://www.uniprot.org/uniprot/G3HBU1)
+
 ## GW7_12979 (1)
 * Heterocephalus glaber; [G5BXW2](http://www.uniprot.org/uniprot/G5BXW2)
+
 ## EGK_12301 (1)
 * Macaca mulatta; [G7NQE3](http://www.uniprot.org/uniprot/G7NQE3)
+
 ## EGM_11282 (1)
 * Macaca fascicularis; [G7Q031](http://www.uniprot.org/uniprot/G7Q031)
+
 ## UBB-2 (1)
 * Taeniopygia guttata; [H0Z8Y5](http://www.uniprot.org/uniprot/H0Z8Y5)
+
 ## LOC101070493 (1)
 * Takifugu rubripes; [H2UR24](http://www.uniprot.org/uniprot/H2UR24)
+
 ## GM20683 (1)
 * Mus musculus; [H3BKJ1](http://www.uniprot.org/uniprot/H3BKJ1)
+
 ## LOC100694117 (1)
 * Oreochromis niloticus; [I3KVM5](http://www.uniprot.org/uniprot/I3KVM5)
+
 ## LOC103889580 (1)
 * Pongo abelii; [J9JIJ3](http://www.uniprot.org/uniprot/J9JIJ3)
+
 ## PAL_GLEAN10011784 (1)
 * Pteropus alecto; [L5KGP9](http://www.uniprot.org/uniprot/L5KGP9)
+
 ## MDA_GLEAN10007616 (1)
 * Myotis davidii; [L5LQZ0](http://www.uniprot.org/uniprot/L5LQZ0)
+
 ## M91_08795 (1)
 * Bos mutus; [L8J2F5](http://www.uniprot.org/uniprot/L8J2F5)
+
 ## GL (1)
 * Drosophila melanogaster; [P13496](http://www.uniprot.org/uniprot/P13496), [B5X0J0](http://www.uniprot.org/uniprot/B5X0J0), [Q8MT52](http://www.uniprot.org/uniprot/Q8MT52), [Q9VUA1](http://www.uniprot.org/uniprot/Q9VUA1)
+
 ## KHC (1)
 * Drosophila melanogaster; [P17210](http://www.uniprot.org/uniprot/P17210), [Q9V7L9](http://www.uniprot.org/uniprot/Q9V7L9)
+
 ## DHC64C (1)
 * Drosophila melanogaster; [P37276](http://www.uniprot.org/uniprot/P37276), [Q8IRA5](http://www.uniprot.org/uniprot/Q8IRA5), [Q961M8](http://www.uniprot.org/uniprot/Q961M8), [Q9VZ83](http://www.uniprot.org/uniprot/Q9VZ83)
+
 ## LRPPRC (1)
 * Homo sapiens; [P42704](http://www.uniprot.org/uniprot/P42704), [A0PJE3](http://www.uniprot.org/uniprot/A0PJE3), [A8K1V1](http://www.uniprot.org/uniprot/A8K1V1), [Q53PC0](http://www.uniprot.org/uniprot/Q53PC0), [Q53QN7](http://www.uniprot.org/uniprot/Q53QN7), [Q6ZUD8](http://www.uniprot.org/uniprot/Q6ZUD8), [Q7Z7A6](http://www.uniprot.org/uniprot/Q7Z7A6), [Q96D84](http://www.uniprot.org/uniprot/Q96D84)
+
 ## JAR (1)
 * Drosophila melanogaster; [Q01989](http://www.uniprot.org/uniprot/Q01989), [A4V3C6](http://www.uniprot.org/uniprot/A4V3C6), [Q59DV3](http://www.uniprot.org/uniprot/Q59DV3), [Q59DV4](http://www.uniprot.org/uniprot/Q59DV4), [Q9VCA4](http://www.uniprot.org/uniprot/Q9VCA4)
+
 ## PINK1 (1)
 * Drosophila melanogaster; [Q0KHV6](http://www.uniprot.org/uniprot/Q0KHV6)
+
 ## N330_10489 (1)
 * Leptosomus discolor; [A0A091Q2P4](http://www.uniprot.org/uniprot/A0A091Q2P4)
+
 ## GSTENG00024065001 (1)
 * Tetraodon nigroviridis; [Q4S4S0](http://www.uniprot.org/uniprot/Q4S4S0)
+
 ## DKFZP459P0951 (1)
 * Pongo abelii; [Q5RBC2](http://www.uniprot.org/uniprot/Q5RBC2)
+
 ## N331_05983 (1)
 * Merops nubicus; [A0A091QUC2](http://www.uniprot.org/uniprot/A0A091QUC2)
+
 ## MAP1S (1)
 * Homo sapiens; [Q66K74](http://www.uniprot.org/uniprot/Q66K74), [B4DH53](http://www.uniprot.org/uniprot/B4DH53), [Q27QB1](http://www.uniprot.org/uniprot/Q27QB1), [Q6NXF1](http://www.uniprot.org/uniprot/Q6NXF1), [Q8N3L8](http://www.uniprot.org/uniprot/Q8N3L8), [Q8N3W5](http://www.uniprot.org/uniprot/Q8N3W5), [Q8NI88](http://www.uniprot.org/uniprot/Q8NI88), [Q96H94](http://www.uniprot.org/uniprot/Q96H94), [Q96IT4](http://www.uniprot.org/uniprot/Q96IT4), [Q96SP8](http://www.uniprot.org/uniprot/Q96SP8), [Q9BRC6](http://www.uniprot.org/uniprot/Q9BRC6), [Q9H928](http://www.uniprot.org/uniprot/Q9H928), [Q9NVK7](http://www.uniprot.org/uniprot/Q9NVK7)
+
 ## RHOT1A (1)
 * Danio rerio; [Q6NVC5](http://www.uniprot.org/uniprot/Q6NVC5), [Q803L2](http://www.uniprot.org/uniprot/Q803L2)
+
 ## UXT (1)
 * Homo sapiens; [Q9UBK9](http://www.uniprot.org/uniprot/Q9UBK9), [B2R561](http://www.uniprot.org/uniprot/B2R561), [Q5JZG3](http://www.uniprot.org/uniprot/Q5JZG3), [Q9Y6E5](http://www.uniprot.org/uniprot/Q9Y6E5)
+
 ## D623_10017198 (1)
 * Myotis brandtii; [S7N2R5](http://www.uniprot.org/uniprot/S7N2R5)

@@ -29,7 +29,7 @@ fs.readFile(__dirname + '/../files/0047497-proteins.json', function(err, data) {
   Object.keys(produced).forEach(function(key) {
     const UniProtKBBaseUri = 'http://www.uniprot.org/uniprot/'
     // console.log(`## ${key} (${produced[key].length})`)
-    process.stdout.write(`## ${key} (${produced[key].length})\n`)
+    process.stdout.write(`\n## ${key} (${produced[key].length})\n`)
 
     produced[key].forEach(function(gene) {
       let name = gene.uniprot.entry[0].organism[0].name[0]._
