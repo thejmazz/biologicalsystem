@@ -10,7 +10,6 @@
   ],
   "get-uniprot": [
     "dat export -d go-annotations",
-    "ndjson -",
     "node src/get-uniprot.js"
   ]
 }

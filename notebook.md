@@ -190,15 +190,21 @@ as well.
   * uncharactized protein
   * RHOT2
 
-
-
-
-
-
 [quickgo-rest]: http://www.ebi.ac.uk/QuickGO/WebServices.html
 [bionode-quickgo]: https://github.com/thejmazz/bionode-quickgo
 
 
+* Observed that the first 20 or so, when checking manually by copy pasting
+from an array of IDs arranged by most-refs to least-refs, where all the
+Rot2 gene (with the exception of Rot1 also present in *mus musculus*)
+* They are all the same gene!(?)
+* So, using the Uniprot URI "api" and [xml2js][xml2js] and [hihat][hihat] I
+began inspecting from where to retrieve the "name" attribute:
+
+![hihat01](img/hihat.png)
+
+[xml2js]: https://www.npmjs.com/package/xml2js
+[hihat]: https://www.npmjs.com/package/hihat
 
 [GO:0051646]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051646
 [GO:0051659]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051659

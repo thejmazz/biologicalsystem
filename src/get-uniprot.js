@@ -40,6 +40,9 @@ function gUri(base, id, suffix) {
 }
 
 
+const UniProtKBBaseUri = 'http://www.uniprot.org/uniprot/'
+const suffix = '.xml'
+
 // take Object stream of parsed ndjson of QuickGO annotations
 process.stdin
   // .pipe(through.obj(function (obj, enc, cb) {
@@ -61,22 +64,23 @@ process.stdin
   //   this.push(JSON.stringify(obj) + '\n')
   //   cb()
   // }))
-  .pipe(through.obj(function (chunk, enc, cb) {
-    this.push(typeof(chunk))
-    console.log(chunk)
-    // cb()
-  }))
-  .pipe(process.stdout)
-  // .on('data', function(obj) {
-  //   if (obj.DB === 'UniProtKB') {
-  //     co.wrap(function* () {
-  //       try {
-  //         let xml = yield requestAsync(UniProtKBBaseUri + obj.ID + '.xml')
-  //         let xmlJSON = yield xmlParseAsync(xml)
-  //         this.emit('data', JSON.stringify(xmlJSON) + '\n')
-  //       } catch(e) {
-  //         console.error(e)
-  //       }
-  //     })()
-  //   }
-  // })
+  // .pipe(through.obj(function (chunk, enc, cb) {
+  //   this.push(typeof(chunk))
+  //   console.log(chunk)
+  //   // cb()
+  // }))
+  // .pipe(process.stdout)
+  .pipe(ndjson.parse())
+  .on('data', function(obj) {
+    if (obj.DB === 'UniProtKB') {
+      co.wrap(function* () {
+        try {
+          let xml = yield requestAsync(UniProtKBBaseUri + obj.ID + '.xml')
+          let xmlJSON = yield xmlParseAsync(xml)
+          console.log('data', JSON.stringify(xmlJSON) + '\n')
+        } catch(e) {
+          console.error(e)
+        }
+      })()
+    }
+  })
