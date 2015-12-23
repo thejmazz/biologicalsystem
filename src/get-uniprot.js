@@ -40,8 +40,14 @@ let filtered = {}
 
 // take Object stream of parsed ndjson of QuickGO annotations
 process.stdin
+  // can't get it to worth with this commented and `ndjson -` in gasket
   .pipe(ndjson.parse())
-  .on('data', function (obj) {
+  .pipe(through.obj(function (obj, enc, cb) {
+    this.push(obj)
+    cb()
+  }))
+  .pipe(through.obj(function (obj, enc, cb) {
+    // console.log(obj)
     if (obj.DB === 'UniProtKB') {
       co.wrap(function* () {
         try {
@@ -66,7 +72,41 @@ process.stdin
         }
       })()
     }
-  })
+
+    this.push(JSON.stringify(obj) + '\n')
+    cb()
+  }))
   .on('end', function() {
-    console.log(filtered)
+    console.log('wheee')
   })
+  // .pipe(process.stdout)
+
+  // .on('data', function (obj) {
+  //   if (obj.DB === 'UniProtKB') {
+  //     co.wrap(function* () {
+  //       try {
+  //         const UniProtKBBaseUri = 'http://www.uniprot.org/uniprot/'
+  //         const suffix = '.xml'
+  //         let xml = yield requestAsync(gUri(UniProtKBBaseUri, obj.ID, '.xml'))
+  //         let xmlJSON = yield xmlParseAsync(xml)
+  //
+  //         if (xmlJSON.uniprot.entry[0].gene) {
+  //           const geneName = xmlJSON.uniprot.entry[0].gene[0].name[0]._
+  //
+  //           if (Object.keys(filtered).indexOf(geneName) === -1) {
+  //             filtered[geneName] = [xmlJSON.uniprot.entry[0]]
+  //           } else {
+  //             filtered[geneName].push(obj)
+  //           }
+  //         }
+  //
+  //         console.log(filtered)
+  //       } catch (e) {
+  //         console.error(e)
+  //       }
+  //     })()
+  //   }
+  // })
+  // .on('end', function() {
+  //   console.log(filtered)
+  // })
