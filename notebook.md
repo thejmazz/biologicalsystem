@@ -83,11 +83,6 @@ So, tomorrow I plan on going through each of these terms and their children (9
 total), and finding (5-10?) representative genes for each term. Human when
 possible.
 
-[GO:0051646]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051646
-[GO:0051659]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051659
-[GO:0051654]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051654
-[GO:0048311]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0048311
-
 **Readings**
 
 * [Localization of mitochondria in living cells with rhodamine 123](http://www.pnas.org/content/77/2/990.full.pdf)
@@ -166,6 +161,55 @@ More studying and exam.
   [REST web services][quickgo-rest]
 * Made [bionode-quickgo][bionode-quickgo] to scratch my itch. Can now use
   QuickGO API with semantic ease through a Promise or Stream
+* Small gasket pipeline which gets tsv of a given go term from quickgo, converts
+  it to csv
+* gasket pipeline imports and exports from dat
+* exported dataset gets filtered by protein ids, 347 results down to 304 proteins
+* these 33 extra results seem to be all from proteins with more than one ref, most
+have 2, some have 3
+* sorting by number of refs, I retrieved `Q7TSA0`, `Q8BG51`, and `Q8BG51` as the
+top three for [GO:0047497][GO:0047497]. I also notice the first two letters of
+each ID appear to form a "prefix" of sorts - perhaps it best to filter by these
+as well.
+
+### [GO:0047497][[GO:0047497]] mitochondrion transport along microtubule
+
+**Mitochondrial Rho GTPase 2**
+
+* *mus musculus*
+  * [Q8BG51](http://www.uniprot.org/uniprot/Q8BG51)
+    * Rhot1
+  * [Q8JZN7](http://www.uniprot.org/uniprot/Q8JZN7)
+    * Rhot2
+
+* [Q7TSA0](http://www.uniprot.org/uniprot/Q7TSA0)
+  * *rattus norvegicus*
+  * Rhot2
+
+* [H0YZL5][http://www.uniprot.org/uniprot/H0YZL5]
+  * uncharactized protein
+  * RHOT2
+
+
+
+
+
 
 [quickgo-rest]: http://www.ebi.ac.uk/QuickGO/WebServices.html
 [bionode-quickgo]: https://github.com/thejmazz/bionode-quickgo
+
+
+
+[GO:0051646]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051646
+[GO:0051659]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051659
+[GO:1990456]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:1990456
+[GO:0051654]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051654
+[GO:1990456]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:1990456
+[GO:0034643]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0034643
+[GO:0034640]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0034640
+[GO:0047497]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0047497
+[GO:0090146]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0090146
+[GO:0090147]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0090147
+[GO:0048311]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0048311
+[GO:0048312]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0048312
+[GO:0000001]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0000001

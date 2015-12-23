@@ -5,7 +5,10 @@
   "main": "index.js",
   "dependencies": {
     "csv-parser": "^1.9.0",
-    "through2": "^2.0.0"
+    "ndjson": "^1.4.3",
+    "request": "^2.67.0",
+    "through2": "^2.0.0",
+    "xml2js": "^0.4.15"
   },
   "devDependencies": {},
   "scripts": {
@@ -20,5 +23,11 @@
   "bugs": {
     "url": "https://github.com/thejmazz/biologicalsystem/issues"
   },
-  "homepage": "https://github.com/thejmazz/biologicalsystem#readme"
+  "homepage": "https://github.com/thejmazz/biologicalsystem#readme",
+  "dat": {
+    "name": "NA",
+    "description": "NA",
+    "publisher": "NA"
+  },
+  "publisher": "NA"
 }

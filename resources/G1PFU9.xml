@@ -1,0 +1,404 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2011-10-19" modified="2015-12-09" version="33">
+<accession>G1PFU9</accession>
+<name>G1PFU9_MYOLU</name>
+<protein>
+<submittedName>
+<fullName evidence="5">Uncharacterized protein</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="5">RHOT2</name>
+</gene>
+<organism evidence="5 6">
+<name type="scientific">Myotis lucifugus</name>
+<name type="common">Little brown bat</name>
+<dbReference type="NCBI Taxonomy" id="59463"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Laurasiatheria</taxon>
+<taxon>Chiroptera</taxon>
+<taxon>Microchiroptera</taxon>
+<taxon>Vespertilionidae</taxon>
+<taxon>Myotis</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="5">
+<citation type="submission" date="2010-07" db="EMBL/GenBank/DDBJ databases">
+<title>The genome sequence of Myotis lucifugus (Bat).</title>
+<authorList>
+<person name="Di Palma F."/>
+<person name="Heiman D."/>
+<person name="Young S."/>
+<person name="Johnson J."/>
+<person name="Lander E.S."/>
+<person name="Lindblad-Toh K."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="2" evidence="6">
+<citation type="journal article" date="2011" name="Nature" volume="478" first="476" last="482">
+<title>A high-resolution map of human evolutionary constraint using 29 mammals.</title>
+<authorList>
+<person name="Lindblad-Toh K."/>
+<person name="Garber M."/>
+<person name="Zuk O."/>
+<person name="Lin M.F."/>
+<person name="Parker B.J."/>
+<person name="Washietl S."/>
+<person name="Kheradpour P."/>
+<person name="Ernst J."/>
+<person name="Jordan G."/>
+<person name="Mauceli E."/>
+<person name="Ward L.D."/>
+<person name="Lowe C.B."/>
+<person name="Holloway A.K."/>
+<person name="Clamp M."/>
+<person name="Gnerre S."/>
+<person name="Alfoldi J."/>
+<person name="Beal K."/>
+<person name="Chang J."/>
+<person name="Clawson H."/>
+<person name="Cuff J."/>
+<person name="Di Palma F."/>
+<person name="Fitzgerald S."/>
+<person name="Flicek P."/>
+<person name="Guttman M."/>
+<person name="Hubisz M.J."/>
+<person name="Jaffe D.B."/>
+<person name="Jungreis I."/>
+<person name="Kent W.J."/>
+<person name="Kostka D."/>
+<person name="Lara M."/>
+<person name="Martins A.L."/>
+<person name="Massingham T."/>
+<person name="Moltke I."/>
+<person name="Raney B.J."/>
+<person name="Rasmussen M.D."/>
+<person name="Robinson J."/>
+<person name="Stark A."/>
+<person name="Vilella A.J."/>
+<person name="Wen J."/>
+<person name="Xie X."/>
+<person name="Zody M.C."/>
+<person name="Baldwin J."/>
+<person name="Bloom T."/>
+<person name="Chin C.W."/>
+<person name="Heiman D."/>
+<person name="Nicol R."/>
+<person name="Nusbaum C."/>
+<person name="Young S."/>
+<person name="Wilkinson J."/>
+<person name="Worley K.C."/>
+<person name="Kovar C.L."/>
+<person name="Muzny D.M."/>
+<person name="Gibbs R.A."/>
+<person name="Cree A."/>
+<person name="Dihn H.H."/>
+<person name="Fowler G."/>
+<person name="Jhangiani S."/>
+<person name="Joshi V."/>
+<person name="Lee S."/>
+<person name="Lewis L.R."/>
+<person name="Nazareth L.V."/>
+<person name="Okwuonu G."/>
+<person name="Santibanez J."/>
+<person name="Warren W.C."/>
+<person name="Mardis E.R."/>
+<person name="Weinstock G.M."/>
+<person name="Wilson R.K."/>
+<person name="Delehaunty K."/>
+<person name="Dooling D."/>
+<person name="Fronik C."/>
+<person name="Fulton L."/>
+<person name="Fulton B."/>
+<person name="Graves T."/>
+<person name="Minx P."/>
+<person name="Sodergren E."/>
+<person name="Birney E."/>
+<person name="Margulies E.H."/>
+<person name="Herrero J."/>
+<person name="Green E.D."/>
+<person name="Haussler D."/>
+<person name="Siepel A."/>
+<person name="Goldman N."/>
+<person name="Pollard K.S."/>
+<person name="Pedersen J.S."/>
+<person name="Lander E.S."/>
+<person name="Kellis M."/>
+</authorList>
+<dbReference type="PubMed" id="21993624"/>
+<dbReference type="DOI" id="10.1038/nature10530"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="3" evidence="5">
+<citation type="submission" date="2011-09" db="UniProtKB">
+<authorList>
+<consortium name="Ensembl"/>
+</authorList>
+</citation>
+<scope>IDENTIFICATION</scope>
+</reference>
+<comment type="caution">
+<text evidence="5">The sequence shown here is derived from an Ensembl automatic analysis pipeline and should be considered as preliminary data.</text>
+</comment>
+<dbReference type="EMBL" id="AAPE02047852">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AAPE02047853">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="ProteinModelPortal" id="G1PFU9"/>
+<dbReference type="STRING" id="59463.ENSMLUP00000009477"/>
+<dbReference type="Ensembl" id="ENSMLUT00000010398">
+<property type="protein sequence ID" value="ENSMLUP00000009477"/>
+<property type="gene ID" value="ENSMLUG00000010389"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XRHW">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="eggNOG" id="KOG1707">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00390000014374"/>
+<dbReference type="InParanoid" id="G1PFU9"/>
+<dbReference type="OMA" id="SDAELNC"/>
+<dbReference type="OrthoDB" id="EOG7PK8Z0"/>
+<dbReference type="TreeFam" id="TF300814"/>
+<dbReference type="Proteomes" id="UP000001074">
+<property type="component" value="Unassembled WGS sequence"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070062">
+<property type="term" value="C:extracellular exosome"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031307">
+<property type="term" value="C:integral component of mitochondrial outer membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005509">
+<property type="term" value="F:calcium ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005525">
+<property type="term" value="F:GTP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003924">
+<property type="term" value="F:GTPase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019725">
+<property type="term" value="P:cellular homeostasis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097345">
+<property type="term" value="P:mitochondrial outer membrane permeabilization"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0047497">
+<property type="term" value="P:mitochondrion transport along microtubule"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007264">
+<property type="term" value="P:small GTPase mediated signal transduction"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.238.10">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.300">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011992">
+<property type="entry name" value="EF-hand-dom_pair"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018247">
+<property type="entry name" value="EF_Hand_1_Ca_BS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013566">
+<property type="entry name" value="EF_hand_assoc_1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013567">
+<property type="entry name" value="EF_hand_assoc_2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002048">
+<property type="entry name" value="EF_hand_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020860">
+<property type="entry name" value="MIRO_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR021181">
+<property type="entry name" value="Mt_Rho_GTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029506">
+<property type="entry name" value="Rho_GTPase_2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001806">
+<property type="entry name" value="Small_GTPase"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR24072:SF70">
+<property type="entry name" value="PTHR24072:SF70"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08355">
+<property type="entry name" value="EF_assoc_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08356">
+<property type="entry name" value="EF_assoc_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00071">
+<property type="entry name" value="Ras"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF037488">
+<property type="entry name" value="Mt_Rho_GTPase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00054">
+<property type="entry name" value="EFh"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47473">
+<property type="entry name" value="SSF47473"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00018">
+<property type="entry name" value="EF_HAND_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50222">
+<property type="entry name" value="EF_HAND_2"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51423">
+<property type="entry name" value="MIRO"/>
+<property type="match status" value="2"/>
+</dbReference>
+<proteinExistence type="predicted"/>
+<keyword id="KW-0175" evidence="1">Coiled coil</keyword>
+<keyword id="KW-0181" evidence="6">Complete proteome</keyword>
+<keyword id="KW-0472" evidence="2">Membrane</keyword>
+<keyword id="KW-1185" evidence="6">Reference proteome</keyword>
+<keyword id="KW-0812" evidence="2">Transmembrane</keyword>
+<keyword id="KW-1133" evidence="2">Transmembrane helix</keyword>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="600"/>
+<end position="625"/>
+</location>
+</feature>
+<feature type="domain" description="Miro" evidence="4">
+<location>
+<begin position="1"/>
+<end position="184"/>
+</location>
+</feature>
+<feature type="domain" description="EF-hand" evidence="3">
+<location>
+<begin position="191"/>
+<end position="226"/>
+</location>
+</feature>
+<feature type="domain" description="EF-hand" evidence="3">
+<location>
+<begin position="311"/>
+<end position="346"/>
+</location>
+</feature>
+<feature type="domain" description="Miro" evidence="4">
+<location>
+<begin position="418"/>
+<end position="629"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="1">
+<location>
+<begin position="65"/>
+<end position="85"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="5">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="Coils"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="Phobius"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50222"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS51423"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000313">
+<source>
+<dbReference type="Ensembl" id="ENSMLUP00000009477"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000001074"/>
+</source>
+</evidence>
+<sequence length="629" mass="69995" checksum="A6D143996F2BE0D9" modified="2011-10-19" version="1" fragment="single">
+RPCGRGRKSPLGCSLFRTSPRYGNFLYIFLVGRNDFPQKVPPPGERDTIPGGETLRKGAL
+PFFCLLKAEQMVEELQDEINKANVVCVVYDVSEEATIEKIRTKWIPLVNGGTEKGPRVPI
+ILVGNKSDLRPGSSMEAVLPIMSQFPEIETCVECSARNLRNISELFYYAQKAVLHPTAPL
+YDPETKQLKPACTQALTRIFRLSDQDLDQALSDEELNAFQKSCFGHPLAPQALEDVKMVV
+RKNVAGGVRDDRLTLDGFLFLNTLFIQRGRHETTWTILRRFGYGDTLELSTDYLFPLLHV
+PPGCSTELNHFGYQFVQRVFEKHDQDHDGALSLAELQDLFSVSPAPPWGPQFLQEVRTEA
+GRLPLHGYLCQWTLVTYLDVRRCLEHLGYLGYPTLCKQDSQTHAITVTREKRLDQEKGQT
+HRNVLLCKVVGARGVGKSAFLQAFLGRGLGHPDTRELHKTPAIYAINTVQVNGQEKYLIL
+CEVNADSLLSSASDAACDVACLMFDGSDPQSFALCTSIYKRHYMDGQTPCLFVSSKADLP
+EGVPLPGLSPAEFCRRHRLPAPVPFSCAGPGEPGTAVFTRLATMATFPYLVHGELHTTSF
+WLRVTLGAFGAAVAAILSFSLYRVLVKSR
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

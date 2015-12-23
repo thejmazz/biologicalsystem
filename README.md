@@ -7,7 +7,7 @@
 You will need some global modules:
 
 ```bash
-npm install -g gasket csv-parser
+npm install -g gasket dat
 ```
 
 (Not on npm yet)
