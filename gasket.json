@@ -10,6 +10,6 @@
   ],
   "get-uniprot": [
     "dat export -d go-annotations",
-    "node src/get-uniprot.js > 0047497-proteins.json"
+    "node src/get-uniprot.js > files/0047497-proteins.json"
   ]
 }
