@@ -1,0 +1,6 @@
+{
+  "get-annotations": [
+    "bionode-quickgo -a --goid GO:0047497 --format tsv",
+    "node src/parse-tsv.js"
+  ]
+}

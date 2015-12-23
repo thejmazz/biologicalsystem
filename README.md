@@ -2,6 +2,21 @@
 
 2015 BCH441 project.
 
+## Run it!
+
+You will need some global modules:
+
+```bash
+npm install -g gasket csv-parser
+```
+
+(Not on npm yet)
+```bash
+git clone https://github.com/thejmazz/bionode-quickgo
+cd bionode-quickgo
+npm link
+```
+
 ## Task
 
 *Adapted (heavily) from [Bioinformatics Project: Defining a System][project-page]*
@@ -169,7 +184,6 @@ Some good looking non-human genes:
 The directed movement of a mitochondrion along a microtubule, mediated by
 motor proteins
 ```
-
 
 
 
