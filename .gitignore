@@ -3,3 +3,4 @@ gene_association.goa_human
 go-basic.obo
 node_modules
 data.dat
+files/*-proteins.json
