@@ -363,7 +363,26 @@ Fly: [Q960V3](http://www.uniprot.org/uniprot/Q960V3)
 
 ![milt-string](img/milt-string.png)
 
+### [GO:1990456][GO:1990456] (mitochondrion-ER tethering) [108]
 
+**MMM1**
+
+Maintenance of mitochondrial morphology protein 1
+
+* Component of the ERMES/MDM complex, which serves as a molecular tether to connect the endoplasmic reticulum and mitochondria. Components of this complex are involved in the control of mitochondrial shape and protein biogenesis and may function in phospholipid exchange. The MDM12-MMM1 subcomplex functions in the major beta-barrel assembly pathway that is responsible for biogenesis of all outer membrane beta-barrel proteins, and acts in a late step after the SAM complex. The MDM10-MDM12-MMM1 subcomplex further acts in the TOM40-specific pathway after the action of the MDM12-MMM1 complex. Essential for establishing and maintaining the structure of mitochondria and maintenance of mtDNA nucleoids [UNIPROT]
+* ER membrane
+
+**MDM12**
+
+Mitochondrial distribution and morphology protein 12
+
+Yeast: [Q92328](http://www.uniprot.org/uniprot/Q92328)
+
+**MDM10**
+
+Mitochondrial distribution and morphology protein 10
+
+Yeast: [P18409][http://www.uniprot.org/uniprot/P18409]
 
 
 [GO:0051646]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051646
@@ -371,6 +390,7 @@ Fly: [Q960V3](http://www.uniprot.org/uniprot/Q960V3)
 [GO:1990456]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:1990456
 [GO:0051654]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051654
 [GO:1990456]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:1990456
+[GO:0034642]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0034642
 [GO:0034643]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0034643
 [GO:0034640]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0034640
 [GO:0047497]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0047497
