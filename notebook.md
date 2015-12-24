@@ -277,3 +277,14 @@ Human: [Q8IXI2](http://www.uniprot.org/uniprot/Q8IXI2)
 * colocalizes with MGARP and RHOT2 at the mitochondria
 
 ![rhot1-string](img/rhot1-string)
+
+**MAPT**
+
+Microtubule-associated protein tau
+
+* Promotes microtubule assembly and stability, and might be involved in the establishment and maintenance of neuronal polarity. The C-terminus binds axonal microtubules while the N-terminus binds neural plasma membrane components, suggesting that tau functions as a linker protein between both. Axonal polarity is predetermined by TAU/MAPT localization (in the neuronal cell) in the domain of the cell body defined by the centrosome. The short isoforms allow plasticity of the cytoskeleton whereas the longer isoforms may preferentially play a role in its stabilization. [UNIPROT]
+* in a lot of biological processes
+* cytosol, cell membrane, cytoskeleton
+* Interacts with PSMC2 through SQSTM1 (By similarity). Interacts with SQSTM1 when polyubiquitinated. Interacts with FKBP4 (By similarity). Binds to CSNK1D. Interacts with SGK1. Interacts with EPM2A; the interaction dephosphorylates MAPT at Ser-396. [UNIPROT]
+
+![mapt-string](img/mapt-string.png)
