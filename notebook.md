@@ -237,3 +237,7 @@ into smaller pipeables
 [GO:0048311]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0048311
 [GO:0048312]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0048312
 [GO:0000001]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0000001
+
+Generated [0047497-proteins.md](https://github.com/thejmazz/biologicalsystem/blob/master/files/0047497-proteins.md) markdown.
+
+Some GO terms have no protein annotations!

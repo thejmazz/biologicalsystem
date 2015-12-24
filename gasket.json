@@ -1,18 +1,18 @@
 {
   "get-annotations": [
-    "bionode-quickgo -a --goid GO:0047497 --format tsv",
+    "bionode-quickgo -a --goid GO:0034640 --format tsv",
     "node src/parse-tsv.js",
-    "dat import - -d go-annotations"
+    "dat import - -d GO0034640-annotations"
   ],
   "filter-proteins": [
-    "dat export -d go-annotations",
+    "dat export -d GO:0034640-annotations",
     "node src/filter-proteins.js"
   ],
   "get-uniprot": [
-    "dat export -d go-annotations",
-    "node src/get-uniprot.js > files/0047497-proteins.json"
+    "dat export -d GO0034640-annotations",
+    "node src/get-uniprot.js > files/0034640-proteins.json"
   ],
   "make-markdown": [
-    "node src/gen-uniprot-md.js files/0047497-proteins.json > files/0047497-proteins.md"
+    "node src/gen-uniprot-md.js files/0034640-proteins.json > files/0034640-proteins.md"
   ]
 }
