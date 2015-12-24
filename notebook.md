@@ -484,8 +484,12 @@ and via further inspection (and added notes for new ones):
 | MGARP       | Mitochondrion ([Zhou, 2011][zhou2011]), Mitochondrion outer membrane (by similarity)                | Topological domain in cytop;asm and inner mitochondrial membrane                                                    | RHOT1/Miro-1, TRAK1, TRAK2 (similarity). Rhot2/MIRO-2 ([Li, 2009][li2009])                                                                                                                                                  | [ID:0000008] localize compontents; [ID:0000020] regulate                             |
 | TRAK1/TRAK2 | Predominantly associated w/ early endosome. Colocalizes w/ MGARP at mitochondrion.                  | trafficking ([Webber. 2008][webber2008])                                                                            | O-GlcNAc transferase, Rhot1/Miro-1, Rhot2/Miro2 [Fransson, 2006][fransson2006], HGS, KIF5C                                                                                                                                  | [ID:0000021] output, [ID:0000017] transmit                                           |
 | MAPT        | cytosol, axons (mostly), association w/ membrane ([Maas, 2000][maas2000])                           | C binds axonal microtubules, N binds PM                                                                             | SGK1 ([Yang, 2006][yang2006])                                                                                                                                                                                               | disassemble, localize, set                                                           |
-| MAP1B       | cytoskeleton, cytoplasm ([Harrison, 2008][harrison2008]), synapse, dendritic spine (by similarity)  | binds two tubulin, nucleating microtubule polymerization, stablizing microtubulues ([Harrison, 2008][harrison2008]) | ANP32A, TIAM2, tubulin tyrosine TTL, GAN, ([Allen, 2005](allen2005)), **DAPK1** ([Harrison, 2008][harrison2008]), THEM185A ([Maurer, 2004][maureer2004])                                                                    | assebmle, integrate signals                                                          |
+| MAP1B       | cytoskeleton, cytoplasm ([Harrison, 2008][harrison2008]), synapse, dendritic spine (by similarity)  | binds two tubulin, nucleating microtubule polymerization, stablizing microtubulues ([Harrison, 2008][harrison2008]) | ANP32A, TIAM2, tubulin tyrosine TTL, GAN, ([Allen, 2005](allen2005)), DAPK1 ([Harrison, 2008][harrison2008]), THEM185A ([Maurer, 2004][maureer2004])                                                                        | assebmle, integrate signals                                                          |
+| TIAM2       | cytoplasm, localizes to PM in neurites                                                              | modulates activity of RHO-like proteins. accumulation of actin along PM when overexpressed                          | MAP1A, MAP1B, PARP1, YWHAE. CD44, PARD3, MAPK8IP2                                                                                                                                                                           | localize, modify, integrate signals                                                  |
+| TTL         |                                                                                                     | Mg2+, K+ binding sites, catalyzes addition of tyrosine to C end of detryosinated alpha-tubulin                      | MAP1B, RFX1, MTFMT, CLIP1 [String]                                                                                                                                                                                          | modify, assemble                                                                     |
+| GAN         | cytoplasm, cytoskeleton                                                                             | degredation of MAP1B and MAP1S                                                                                      | part of CUL3, RBX1, GAN complex. ([Zhang, 2005][zhang2005]) MAP1B ([Allen, 2005][allen2005])                                                                                                                                | decompose, tag, regulat                                                              |
 
+[zhang2005]: http://dx.doi.org/10.1074/jbc.M501279200
 [allen2005]: http://dx.doi.org/10.1038/nature04256
 [maureer2004]: http://dx.doi.org/10.1111/j.1471-4159.2004.02799.x
 [harrison2008]: http://dx.doi.org/10.1074/jbc.M706040200
@@ -524,6 +528,18 @@ High expression in spinal cord. ([Zhang, 2009][zhang2009])
 [zhang2009]: http://dx.doi.org/10.1016/j.canlet.2008.09.031
 
 Discovered new GO term: [axon transport of mitochondrion](http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0019896)
+
+**TIAM2**
+
+Modulates the activity of RHO-like proteins and connects extracellular signals
+to cytoskeletal activities. Acts as a GDP-dissociation stimulator protein that
+stimulates the GDP-GTP exchange activity of RHO-like GTPases and activates them.
+Mediates extracellular laminin signals to activate Rac1, contributing to neurite
+growth. Involved in lamellipodial formation and advancement of the growth cone
+of embryonic hippocampal neurons. Promotes migration of neurons in the cerebral
+cortex. When overexpressed, induces membrane ruffling accompanied by the
+accumulation of actin filaments along the altered plasma membrane (By
+similarity). Activates specifically RAC1, but not CDC42 and RHOA [UNIPROT]
 
 
 
