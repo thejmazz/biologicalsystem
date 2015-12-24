@@ -276,7 +276,7 @@ Human: [Q8IXI2](http://www.uniprot.org/uniprot/Q8IXI2)
 
 * colocalizes with MGARP and RHOT2 at the mitochondria
 
-![rhot1-string](img/rhot1-string)
+![rhot1-string](img/rhot1-string.png)
 
 **MAPT**
 
@@ -302,3 +302,14 @@ Human: [P46821](http://www.uniprot.org/uniprot/P46821)
 * 3 different light chains, LC1, LC2 and LC3, can associate with MAP1A and MAP1B proteins. LC1 interacts with the amino-terminal region of MAP1B. Interacts with ANP32A and TIAM2. Interacts with the tubulin tyrosine TTL (By similarity). Interacts (via C-terminus) with GAN (via Kelch domains). Interacts (via N-terminus) with DAPK1. Interacts with TMEM185A. Interacts with MAP1LC3B
 
 ![map1b-string](img/map1b-string.png)
+
+**KIF1B**
+
+Kinesin-like protein
+
+* Motor for anterograde transport of mitochondria. Has a microtubule plus end-directed motility. Isoform 2 is required for induction of neuronal apoptosis [UNIPROT]
+* ctyoplasmic vesicle, cytoskeleton, mitochondrion
+* Colocalizes with synaptophysin at synaptic cytoplasmic transport vesicles in the neurites of hippocampal neurons
+* Interacts (via C-terminus end of the kinesin-motor domain) with CHP1; the interaction occurs in a calcium-dependent manner (By similarity). Interacts with KBP
+
+![kif1b-string](img/kif1b-string.png)
