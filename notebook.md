@@ -424,7 +424,7 @@ Human: [I3L2B0](http://www.uniprot.org/uniprot/I3L2B0)
 [string](http://string-db.org/newstring_cgi/show_network_section.pl?identifier=9606.ENSP00000388872)
 KIAA0664 below:
 
-![cluh-string](img/cluh-string)
+![cluh-string](img/cluh-string.png)
 
 **LRRK2**
 
@@ -451,7 +451,7 @@ Human: [A0A024R670](http://www.uniprot.org/uniprot/A0A024R670)
 
 * TM domain
 
-!(synj2bp-string)[img/SYNJ2BP-string.png]
+![synj2bp-string](img/SYNJ2BP-string.png)
 
 ### [GO:0000001][GO:0000001] (mitochondrion inheritance)
 
@@ -487,6 +487,44 @@ Actin-related protein 2
 Yeast: [P32381](http://www.uniprot.org/uniprot/P32381)
 
 * Functions as ATP-binding component of the Arp2/3 complex which is involved in regulation of actin polymerization and together with an activating nucleation-promoting factor (NPF) mediates the formation of branched actin networks. Seems to contact the pointed end of the daughter actin filament (By similarity). [UNIPROT]
+
+### [GO:0048311][GO:0048311] (mitochondrion distribution)
+
+**MTM1**
+
+Myotubularin
+
+Human: [Q13496](http://www.uniprot.org/uniprot/Q13496)
+
+* Lipid phosphatase which dephosphorylates phosphatidylinositol 3-monophosphate (PI3P) and phosphatidylinositol 3,5-bisphosphate (PI(3,5)P2). Has also been shown to dephosphorylate phosphotyrosine- and phosphoserine-containing peptides. Negatively regulates EGFR degradation through regulation of EGFR trafficking from the late endosome to the lysosome. Plays a role in vacuolar formation and morphology. Regulates desmin intermediate filament assembly and architecture. Plays a role in mitochondrial morphology and positioning. Required for skeletal muscle maintenance but not for myogenesis. [UNIPROT]
+
+![mtm1-string](img/mtm1-string.png)
+
+**MEF2A**
+
+Myocyte-specific enhancer factor 2A
+
+Human: [Q02078](http://www.uniprot.org/uniprot/Q02078)
+
+* Transcriptional activator which binds specifically to the MEF2 element, 5'-YTA[AT]4TAR-3', found in numerous muscle-specific genes. Also involved in the activation of numerous growth factor- and stress-induced genes. Mediates cellular functions not only in skeletal and cardiac muscle development, but also in neuronal differentiation and survival. Plays diverse roles in the control of cell growth, survival and apoptosis via p38 MAPK signaling in muscle-specific and/or growth factor-related transcription. In cerebellar granule neurons, phosphorylated and sumoylated MEF2A represses transcription of NUR77 promoting synaptic differentiation. Associates with chromatin to the ZNF16 promoter. [UNIPROT]
+
+**MSTO1**
+
+Protein misato homolog 1
+
+Human: [Q9BUK6](http://www.uniprot.org/uniprot/Q9BUK6)
+
+* Involved in the regulation of mitochondrial distribution and morphology [UNIPROT]
+
+![msto1-string](img/msto1-string.png)
+
+**ATCAY**
+
+Caytaxin
+
+Human: [http://www.uniprot.org/uniprot/Q86WG3](http://www.uniprot.org/uniprot/Q86WG3)
+
+* Functions in the development of neural tissues, particularly the postnatal maturation of the cerebellar cortex. May play a role in neurotransmission through regulation of glutaminase/GLS, an enzyme responsible for the production in neurons of the glutamate neurotransmitter. Alternatively, may regulate the localization of mitochondria within axons and dendrites. [UNIPROT]
 
 [GO:0051646]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051646
 [GO:0051659]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051659
