@@ -282,9 +282,23 @@ Human: [Q8IXI2](http://www.uniprot.org/uniprot/Q8IXI2)
 
 Microtubule-associated protein tau
 
+Human: [P10636](http://www.uniprot.org/uniprot/P10636)
+
 * Promotes microtubule assembly and stability, and might be involved in the establishment and maintenance of neuronal polarity. The C-terminus binds axonal microtubules while the N-terminus binds neural plasma membrane components, suggesting that tau functions as a linker protein between both. Axonal polarity is predetermined by TAU/MAPT localization (in the neuronal cell) in the domain of the cell body defined by the centrosome. The short isoforms allow plasticity of the cytoskeleton whereas the longer isoforms may preferentially play a role in its stabilization. [UNIPROT]
 * in a lot of biological processes
 * cytosol, cell membrane, cytoskeleton
 * Interacts with PSMC2 through SQSTM1 (By similarity). Interacts with SQSTM1 when polyubiquitinated. Interacts with FKBP4 (By similarity). Binds to CSNK1D. Interacts with SGK1. Interacts with EPM2A; the interaction dephosphorylates MAPT at Ser-396. [UNIPROT]
 
 ![mapt-string](img/mapt-string.png)
+
+**MAP1B**
+
+Microtubule-associated protein 1B
+
+Human: [P46821](http://www.uniprot.org/uniprot/P46821)
+
+* Facilitates tyrosination of alpha-tubulin in **neuronal** microtubules (By similarity). Phosphorylated MAP1B may play a role in the cytoskeletal changes that accompany neurite extension. Possibly MAP1B binds to at least two tubulin subunits in the polymer, and this bridging of subunits might be involved in nucleating microtubule polymerization and in stabilizing microtubules. Acts as a positive cofactor in DAPK1-mediated autophagic vesicle formation and membrane blebbing [UNIPROT]
+* cytoplasm, cytoskeleton, synapse, dendritic spine
+* 3 different light chains, LC1, LC2 and LC3, can associate with MAP1A and MAP1B proteins. LC1 interacts with the amino-terminal region of MAP1B. Interacts with ANP32A and TIAM2. Interacts with the tubulin tyrosine TTL (By similarity). Interacts (via C-terminus) with GAN (via Kelch domains). Interacts (via N-terminus) with DAPK1. Interacts with TMEM185A. Interacts with MAP1LC3B
+
+![map1b-string](img/map1b-string.png)
