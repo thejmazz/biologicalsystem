@@ -133,15 +133,15 @@ Has 3 children
 * [GO:0051659][GO:0051659] (maintenance of mitochondrion localization) [25]
   * [GO:1990456][GO:1990456] (mitochondrion-ER tethering) [108]
 * [GO:0051654][GO:0051654] (establishment of mitochondrion localization) [457]
-  * [GO:0034642][GO:0034642] (mitochondrial migration along actin filament)
-  * [GO:0034643][GO:0034643] (establishment of mitochondrial localization, microtubule mediated)
+  * [GO:0034642][GO:0034642] (mitochondrial migration along actin filament) [3]
+  * [GO:0034643][GO:0034643] (establishment of mitochondrial localization, microtubule mediated) [25]
     * [GO:0034640][GO:0034640] (establishment of mitochondrion localization by microtubule attachment) [0]
     * [GO:0047497][GO:0047497] (mitochondrion transport along microtubule) [304]
-  * [GO:0090146][GO:0090146] (establishment of mitochondrial localization involved in mitochondrial fission)
-    * [GO:0090147][GO:0090147] (regulation of establishment of mitochondrion localization involved in mitochondrial fission)
-* [GO:0048311][GO:0048311] (mitochondrion distribution)
-  * [GO:0048312][GO:0048312] (intracellular distribution of mitochondria)
-  * [GO:0000001][GO:0000001] (mitochondrion inheritance)
+  * [GO:0090146][GO:0090146] (establishment of mitochondrial localization involved in mitochondrial fission) [0]
+    * [GO:0090147][GO:0090147] (regulation of establishment of mitochondrion localization involved in mitochondrial fission) [0]
+* [GO:0048311][GO:0048311] (mitochondrion distribution) [1382]
+  * [GO:0048312][GO:0048312] (intracellular distribution of mitochondria) [835]
+  * [GO:0000001][GO:0000001] (mitochondrion inheritance) [373]
 
 [GO:0051646]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051646
 [GO:0051659]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051659
