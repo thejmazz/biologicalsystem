@@ -1,0 +1,846 @@
+
+## RHOT2 (101)
+* Papio anubis; [A0A096NKH4](http://www.uniprot.org/uniprot/A0A096NKH4)
+* Papio anubis; [A0A096NKH4](http://www.uniprot.org/uniprot/A0A096NKH4)
+* Chlorocebus sabaeus; [A0A0D9RIU9](http://www.uniprot.org/uniprot/A0A0D9RIU9)
+* Canis lupus familiaris; [E2R5Q0](http://www.uniprot.org/uniprot/E2R5Q0)
+* Canis lupus familiaris; [E2R5Q0](http://www.uniprot.org/uniprot/E2R5Q0)
+* Dicentrarchus labrax; [E6ZGX3](http://www.uniprot.org/uniprot/E6ZGX3)
+* Bos taurus; [F1N6Q3](http://www.uniprot.org/uniprot/F1N6Q3)
+* Bos taurus; [F1N6Q3](http://www.uniprot.org/uniprot/F1N6Q3)
+* Gallus gallus; [F1P578](http://www.uniprot.org/uniprot/F1P578)
+* Gallus gallus; [F1P578](http://www.uniprot.org/uniprot/F1P578)
+* Sus scrofa; [F1RG56](http://www.uniprot.org/uniprot/F1RG56)
+* Sus scrofa; [F1RG56](http://www.uniprot.org/uniprot/F1RG56)
+* Macaca mulatta; [F6RI93](http://www.uniprot.org/uniprot/F6RI93)
+* Macaca mulatta; [F6RI93](http://www.uniprot.org/uniprot/F6RI93)
+* Equus caballus; [F6SXK8](http://www.uniprot.org/uniprot/F6SXK8)
+* Equus caballus; [F6SXK8](http://www.uniprot.org/uniprot/F6SXK8)
+* Xenopus tropicalis; [F6W9X1](http://www.uniprot.org/uniprot/F6W9X1)
+* Callithrix jacchus; [F6YTK3](http://www.uniprot.org/uniprot/F6YTK3)
+* Callithrix jacchus; [F6YTK3](http://www.uniprot.org/uniprot/F6YTK3)
+* Monodelphis domestica; [F7BZ68](http://www.uniprot.org/uniprot/F7BZ68)
+* Monodelphis domestica; [F7BZ68](http://www.uniprot.org/uniprot/F7BZ68)
+* Ornithorhynchus anatinus; [F7FLX5](http://www.uniprot.org/uniprot/F7FLX5)
+* Ornithorhynchus anatinus; [F7FLX5](http://www.uniprot.org/uniprot/F7FLX5)
+* Ailuropoda melanoleuca; [G1LL58](http://www.uniprot.org/uniprot/G1LL58)
+* Ailuropoda melanoleuca; [G1LL58](http://www.uniprot.org/uniprot/G1LL58)
+* Meleagris gallopavo; [G1NBM4](http://www.uniprot.org/uniprot/G1NBM4)
+* Meleagris gallopavo; [G1NBM4](http://www.uniprot.org/uniprot/G1NBM4)
+* Myotis lucifugus; [G1PFU9](http://www.uniprot.org/uniprot/G1PFU9)
+* Myotis lucifugus; [G1PFU9](http://www.uniprot.org/uniprot/G1PFU9)
+* Nomascus leucogenys; [G1R9P4](http://www.uniprot.org/uniprot/G1R9P4)
+* Nomascus leucogenys; [G1R9P4](http://www.uniprot.org/uniprot/G1R9P4)
+* Gorilla gorilla gorilla; [G3RDA3](http://www.uniprot.org/uniprot/G3RDA3)
+* Gorilla gorilla gorilla; [G3RDA3](http://www.uniprot.org/uniprot/G3RDA3)
+* Loxodonta africana; [G3TVD5](http://www.uniprot.org/uniprot/G3TVD5)
+* Loxodonta africana; [G3U1J5](http://www.uniprot.org/uniprot/G3U1J5)
+* Loxodonta africana; [G3U1J5](http://www.uniprot.org/uniprot/G3U1J5)
+* Sarcophilus harrisii; [G3W9Z8](http://www.uniprot.org/uniprot/G3W9Z8)
+* Sarcophilus harrisii; [G3W9Z8](http://www.uniprot.org/uniprot/G3W9Z8)
+* Sarcophilus harrisii; [G3W9Z9](http://www.uniprot.org/uniprot/G3W9Z9)
+* Cavia porcellus; [H0UYG1](http://www.uniprot.org/uniprot/H0UYG1)
+* Cavia porcellus; [H0UYG1](http://www.uniprot.org/uniprot/H0UYG1)
+* Otolemur garnettii; [H0WS09](http://www.uniprot.org/uniprot/H0WS09)
+* Otolemur garnettii; [H0WS09](http://www.uniprot.org/uniprot/H0WS09)
+* Taeniopygia guttata; [H0YZL5](http://www.uniprot.org/uniprot/H0YZL5)
+* Taeniopygia guttata; [H0YZL5](http://www.uniprot.org/uniprot/H0YZL5)
+* Oryzias latipes; [H2LU00](http://www.uniprot.org/uniprot/H2LU00)
+* Pongo abelii; [H2NPK9](http://www.uniprot.org/uniprot/H2NPK9)
+* Pongo abelii; [H2NPK9](http://www.uniprot.org/uniprot/H2NPK9)
+* Pan troglodytes; [H2QA78](http://www.uniprot.org/uniprot/H2QA78)
+* Pan troglodytes; [H2QA78](http://www.uniprot.org/uniprot/H2QA78)
+* Latimeria chalumnae; [H2ZV29](http://www.uniprot.org/uniprot/H2ZV29)
+* Mus musculus; [H3BKL2](http://www.uniprot.org/uniprot/H3BKL2)
+* Mus musculus; [H3BL14](http://www.uniprot.org/uniprot/H3BL14)
+* Homo sapiens; [H3BMP9](http://www.uniprot.org/uniprot/H3BMP9)
+* Homo sapiens; [H3BUX4](http://www.uniprot.org/uniprot/H3BUX4)
+* Homo sapiens; [H3BVI5](http://www.uniprot.org/uniprot/H3BVI5)
+* Macaca mulatta; [H9G1H4](http://www.uniprot.org/uniprot/H9G1H4)
+* Anolis carolinensis; [H9G4K2](http://www.uniprot.org/uniprot/H9G4K2)
+* Anolis carolinensis; [H9G4K2](http://www.uniprot.org/uniprot/H9G4K2)
+* Macaca mulatta; [I2CTJ0](http://www.uniprot.org/uniprot/I2CTJ0)
+* Ictidomys tridecemlineatus; [I3M3B4](http://www.uniprot.org/uniprot/I3M3B4)
+* Ictidomys tridecemlineatus; [I3M3B4](http://www.uniprot.org/uniprot/I3M3B4)
+* Canis lupus familiaris; [J9NUN4](http://www.uniprot.org/uniprot/J9NUN4)
+* Pan troglodytes; [K6ZVR3](http://www.uniprot.org/uniprot/K6ZVR3)
+* Pan troglodytes; [K7CQT6](http://www.uniprot.org/uniprot/K7CQT6)
+* Pelodiscus sinensis; [K7G6L0](http://www.uniprot.org/uniprot/K7G6L0)
+* Pelodiscus sinensis; [K7G6L0](http://www.uniprot.org/uniprot/K7G6L0)
+* Felis catus; [M3W4B0](http://www.uniprot.org/uniprot/M3W4B0)
+* Felis catus; [M3W4B0](http://www.uniprot.org/uniprot/M3W4B0)
+* Mustela putorius furo; [M3YX20](http://www.uniprot.org/uniprot/M3YX20)
+* Mustela putorius furo; [M3YX20](http://www.uniprot.org/uniprot/M3YX20)
+* Bos taurus; [M5FKC9](http://www.uniprot.org/uniprot/M5FKC9)
+* Danio rerio; [Q32LU1](http://www.uniprot.org/uniprot/Q32LU1)
+* Danio rerio; [Q32LU1](http://www.uniprot.org/uniprot/Q32LU1)
+* Bos taurus; [Q5E9M9](http://www.uniprot.org/uniprot/Q5E9M9), [A6H7G4](http://www.uniprot.org/uniprot/A6H7G4), [Q7YSE6](http://www.uniprot.org/uniprot/Q7YSE6)
+* Bos taurus; [Q5E9M9](http://www.uniprot.org/uniprot/Q5E9M9), [A6H7G4](http://www.uniprot.org/uniprot/A6H7G4), [Q7YSE6](http://www.uniprot.org/uniprot/Q7YSE6)
+* Gallus gallus; [Q5ZM83](http://www.uniprot.org/uniprot/Q5ZM83)
+* Gallus gallus; [Q5ZM83](http://www.uniprot.org/uniprot/Q5ZM83)
+* Xenopus tropicalis; [Q6DIS1](http://www.uniprot.org/uniprot/Q6DIS1)
+* Xenopus tropicalis; [Q6DIS1](http://www.uniprot.org/uniprot/Q6DIS1)
+* Rattus norvegicus; [Q7TSA0](http://www.uniprot.org/uniprot/Q7TSA0)
+* Rattus norvegicus; [Q7TSA0](http://www.uniprot.org/uniprot/Q7TSA0)
+* Rattus norvegicus; [Q7TSA0](http://www.uniprot.org/uniprot/Q7TSA0)
+* Sus scrofa; [Q864R5](http://www.uniprot.org/uniprot/Q864R5)
+* Sus scrofa; [Q864R5](http://www.uniprot.org/uniprot/Q864R5)
+* Homo sapiens; [Q8IXI1](http://www.uniprot.org/uniprot/Q8IXI1), [A2IDC2](http://www.uniprot.org/uniprot/A2IDC2), [Q8NF53](http://www.uniprot.org/uniprot/Q8NF53), [Q96C13](http://www.uniprot.org/uniprot/Q96C13), [Q96S17](http://www.uniprot.org/uniprot/Q96S17), [Q9BT60](http://www.uniprot.org/uniprot/Q9BT60), [Q9H7M8](http://www.uniprot.org/uniprot/Q9H7M8)
+* Homo sapiens; [Q8IXI1](http://www.uniprot.org/uniprot/Q8IXI1), [A2IDC2](http://www.uniprot.org/uniprot/A2IDC2), [Q8NF53](http://www.uniprot.org/uniprot/Q8NF53), [Q96C13](http://www.uniprot.org/uniprot/Q96C13), [Q96S17](http://www.uniprot.org/uniprot/Q96S17), [Q9BT60](http://www.uniprot.org/uniprot/Q9BT60), [Q9H7M8](http://www.uniprot.org/uniprot/Q9H7M8)
+* Mus musculus; [Q8JZN7](http://www.uniprot.org/uniprot/Q8JZN7)
+* Mus musculus; [Q8JZN7](http://www.uniprot.org/uniprot/Q8JZN7)
+* Mus musculus; [Q8JZN7](http://www.uniprot.org/uniprot/Q8JZN7)
+* Mus musculus; [Q8R581](http://www.uniprot.org/uniprot/Q8R581)
+* Anolis carolinensis; [R4GCC6](http://www.uniprot.org/uniprot/R4GCC6)
+* Callithrix jacchus; [U3D3G7](http://www.uniprot.org/uniprot/U3D3G7)
+* Anas platyrhynchos; [U3I7C4](http://www.uniprot.org/uniprot/U3I7C4)
+* Anas platyrhynchos; [U3I7C4](http://www.uniprot.org/uniprot/U3I7C4)
+* Ficedula albicollis; [U3JPK6](http://www.uniprot.org/uniprot/U3JPK6)
+* Ficedula albicollis; [U3JPK6](http://www.uniprot.org/uniprot/U3JPK6)
+* Ophiophagus hannah; [V8NMM0](http://www.uniprot.org/uniprot/V8NMM0)
+* Ovis aries; [W5QFY3](http://www.uniprot.org/uniprot/W5QFY3)
+* Ovis aries; [W5QFY3](http://www.uniprot.org/uniprot/W5QFY3)
+* Ictalurus punctatus; [W5UIY9](http://www.uniprot.org/uniprot/W5UIY9)
+
+## RHOT1 (38)
+* Papio anubis; [A0A096P3R7](http://www.uniprot.org/uniprot/A0A096P3R7)
+* Rattus norvegicus; [A0A0G2K777](http://www.uniprot.org/uniprot/A0A0G2K777)
+* Gallus gallus; [F1NSQ4](http://www.uniprot.org/uniprot/F1NSQ4)
+* Canis lupus familiaris; [F1PP14](http://www.uniprot.org/uniprot/F1PP14)
+* Sus scrofa; [F1RKW4](http://www.uniprot.org/uniprot/F1RKW4)
+* Macaca mulatta; [F6V3N6](http://www.uniprot.org/uniprot/F6V3N6)
+* Equus caballus; [F7BQG6](http://www.uniprot.org/uniprot/F7BQG6)
+* Ornithorhynchus anatinus; [F7ENK1](http://www.uniprot.org/uniprot/F7ENK1)
+* Monodelphis domestica; [F7FMB3](http://www.uniprot.org/uniprot/F7FMB3)
+* Callithrix jacchus; [F7I725](http://www.uniprot.org/uniprot/F7I725)
+* Bos taurus; [G1K237](http://www.uniprot.org/uniprot/G1K237)
+* Ailuropoda melanoleuca; [G1LGA4](http://www.uniprot.org/uniprot/G1LGA4)
+* Myotis lucifugus; [G1PKX2](http://www.uniprot.org/uniprot/G1PKX2)
+* Nomascus leucogenys; [G1R1V1](http://www.uniprot.org/uniprot/G1R1V1)
+* Oryctolagus cuniculus; [G1T3H3](http://www.uniprot.org/uniprot/G1T3H3)
+* Gorilla gorilla gorilla; [G3QUU7](http://www.uniprot.org/uniprot/G3QUU7)
+* Loxodonta africana; [G3TJM3](http://www.uniprot.org/uniprot/G3TJM3)
+* Meleagris gallopavo; [G3UNY2](http://www.uniprot.org/uniprot/G3UNY2)
+* Sarcophilus harrisii; [G3X2V8](http://www.uniprot.org/uniprot/G3X2V8)
+* Cavia porcellus; [H0VB69](http://www.uniprot.org/uniprot/H0VB69)
+* Otolemur garnettii; [H0WI36](http://www.uniprot.org/uniprot/H0WI36)
+* Taeniopygia guttata; [H0Z3A5](http://www.uniprot.org/uniprot/H0Z3A5)
+* Pan troglodytes; [H2R9L5](http://www.uniprot.org/uniprot/H2R9L5)
+* Ictidomys tridecemlineatus; [I3MHX3](http://www.uniprot.org/uniprot/I3MHX3)
+* Pongo abelii; [K7EU55](http://www.uniprot.org/uniprot/K7EU55)
+* Pelodiscus sinensis; [K7GBS5](http://www.uniprot.org/uniprot/K7GBS5)
+* Felis catus; [M3WMH4](http://www.uniprot.org/uniprot/M3WMH4)
+* Mustela putorius furo; [M3YTD4](http://www.uniprot.org/uniprot/M3YTD4)
+* Bos taurus; [Q2HJF8](http://www.uniprot.org/uniprot/Q2HJF8)
+* Gallus gallus; [Q5ZM73](http://www.uniprot.org/uniprot/Q5ZM73)
+* Mus musculus; [Q8BG51](http://www.uniprot.org/uniprot/Q8BG51), [Q3TJB7](http://www.uniprot.org/uniprot/Q3TJB7), [Q3UGU4](http://www.uniprot.org/uniprot/Q3UGU4), [Q5SYC3](http://www.uniprot.org/uniprot/Q5SYC3), [Q5SYC6](http://www.uniprot.org/uniprot/Q5SYC6), [Q8BLW3](http://www.uniprot.org/uniprot/Q8BLW3), [Q8BMH1](http://www.uniprot.org/uniprot/Q8BMH1), [Q922N0](http://www.uniprot.org/uniprot/Q922N0), [Q9D2R1](http://www.uniprot.org/uniprot/Q9D2R1), [Q9JKB9](http://www.uniprot.org/uniprot/Q9JKB9)
+* Mus musculus; [Q8BG51](http://www.uniprot.org/uniprot/Q8BG51), [Q3TJB7](http://www.uniprot.org/uniprot/Q3TJB7), [Q3UGU4](http://www.uniprot.org/uniprot/Q3UGU4), [Q5SYC3](http://www.uniprot.org/uniprot/Q5SYC3), [Q5SYC6](http://www.uniprot.org/uniprot/Q5SYC6), [Q8BLW3](http://www.uniprot.org/uniprot/Q8BLW3), [Q8BMH1](http://www.uniprot.org/uniprot/Q8BMH1), [Q922N0](http://www.uniprot.org/uniprot/Q922N0), [Q9D2R1](http://www.uniprot.org/uniprot/Q9D2R1), [Q9JKB9](http://www.uniprot.org/uniprot/Q9JKB9)
+* Mus musculus; [Q8BG51](http://www.uniprot.org/uniprot/Q8BG51), [Q3TJB7](http://www.uniprot.org/uniprot/Q3TJB7), [Q3UGU4](http://www.uniprot.org/uniprot/Q3UGU4), [Q5SYC3](http://www.uniprot.org/uniprot/Q5SYC3), [Q5SYC6](http://www.uniprot.org/uniprot/Q5SYC6), [Q8BLW3](http://www.uniprot.org/uniprot/Q8BLW3), [Q8BMH1](http://www.uniprot.org/uniprot/Q8BMH1), [Q922N0](http://www.uniprot.org/uniprot/Q922N0), [Q9D2R1](http://www.uniprot.org/uniprot/Q9D2R1), [Q9JKB9](http://www.uniprot.org/uniprot/Q9JKB9)
+* Homo sapiens; [Q8IXI2](http://www.uniprot.org/uniprot/Q8IXI2), [A4FVB6](http://www.uniprot.org/uniprot/A4FVB6), [A6NFV0](http://www.uniprot.org/uniprot/A6NFV0), [B4DG48](http://www.uniprot.org/uniprot/B4DG48), [J9JIH9](http://www.uniprot.org/uniprot/J9JIH9), [Q6NUR3](http://www.uniprot.org/uniprot/Q6NUR3), [Q6P9F8](http://www.uniprot.org/uniprot/Q6P9F8), [Q6PJG1](http://www.uniprot.org/uniprot/Q6PJG1), [Q6YMW8](http://www.uniprot.org/uniprot/Q6YMW8), [Q86UB0](http://www.uniprot.org/uniprot/Q86UB0), [Q8IW28](http://www.uniprot.org/uniprot/Q8IW28), [Q8IXJ7](http://www.uniprot.org/uniprot/Q8IXJ7), [Q9H067](http://www.uniprot.org/uniprot/Q9H067), [Q9H9N8](http://www.uniprot.org/uniprot/Q9H9N8), [Q9NUZ2](http://www.uniprot.org/uniprot/Q9NUZ2)
+* Anolis carolinensis; [R4GCA6](http://www.uniprot.org/uniprot/R4GCA6)
+* Anas platyrhynchos; [U3IHD1](http://www.uniprot.org/uniprot/U3IHD1)
+* Ficedula albicollis; [U3JHY1](http://www.uniprot.org/uniprot/U3JHY1)
+* Ovis aries; [W5PP34](http://www.uniprot.org/uniprot/W5PP34)
+
+## MAPT (33)
+* Papio anubis; [A0A096P681](http://www.uniprot.org/uniprot/A0A096P681)
+* Gallus gallus; [B0LVG0](http://www.uniprot.org/uniprot/B0LVG0), [F1NUN1](http://www.uniprot.org/uniprot/F1NUN1)
+* Rattus norvegicus; [D4A1Q2](http://www.uniprot.org/uniprot/D4A1Q2)
+* Canis lupus familiaris; [E2R3H9](http://www.uniprot.org/uniprot/E2R3H9)
+* Sus scrofa; [F1RRS8](http://www.uniprot.org/uniprot/F1RRS8)
+* Macaca mulatta; [F6R387](http://www.uniprot.org/uniprot/F6R387)
+* Callithrix jacchus; [F6UXK3](http://www.uniprot.org/uniprot/F6UXK3)
+* Equus caballus; [F6WJP3](http://www.uniprot.org/uniprot/F6WJP3)
+* Monodelphis domestica; [F7BCC0](http://www.uniprot.org/uniprot/F7BCC0)
+* Ornithorhynchus anatinus; [F7DLY4](http://www.uniprot.org/uniprot/F7DLY4)
+* Anolis carolinensis; [G1KTS4](http://www.uniprot.org/uniprot/G1KTS4)
+* Ailuropoda melanoleuca; [G1M7S8](http://www.uniprot.org/uniprot/G1M7S8)
+* Meleagris gallopavo; [G1MSJ9](http://www.uniprot.org/uniprot/G1MSJ9)
+* Myotis lucifugus; [G1P3J3](http://www.uniprot.org/uniprot/G1P3J3)
+* Oryctolagus cuniculus; [G1T176](http://www.uniprot.org/uniprot/G1T176)
+* Gorilla gorilla gorilla; [G3RMH3](http://www.uniprot.org/uniprot/G3RMH3)
+* Loxodonta africana; [G3SS28](http://www.uniprot.org/uniprot/G3SS28)
+* Sarcophilus harrisii; [G3WX26](http://www.uniprot.org/uniprot/G3WX26)
+* Cavia porcellus; [H0VMS7](http://www.uniprot.org/uniprot/H0VMS7)
+* Otolemur garnettii; [H0WKW1](http://www.uniprot.org/uniprot/H0WKW1)
+* Taeniopygia guttata; [H0YUJ8](http://www.uniprot.org/uniprot/H0YUJ8)
+* Pongo abelii; [H2NTQ1](http://www.uniprot.org/uniprot/H2NTQ1)
+* Ictidomys tridecemlineatus; [I3N2F8](http://www.uniprot.org/uniprot/I3N2F8)
+* Pelodiscus sinensis; [K7FNJ0](http://www.uniprot.org/uniprot/K7FNJ0)
+* Felis catus; [M3W6D2](http://www.uniprot.org/uniprot/M3W6D2)
+* Mustela putorius furo; [M3Y9Q3](http://www.uniprot.org/uniprot/M3Y9Q3)
+* Homo sapiens; [P10636](http://www.uniprot.org/uniprot/P10636), [P18518](http://www.uniprot.org/uniprot/P18518), [Q14799](http://www.uniprot.org/uniprot/Q14799), [Q15549](http://www.uniprot.org/uniprot/Q15549), [Q15550](http://www.uniprot.org/uniprot/Q15550), [Q15551](http://www.uniprot.org/uniprot/Q15551), [Q1RMF6](http://www.uniprot.org/uniprot/Q1RMF6), [Q53YB1](http://www.uniprot.org/uniprot/Q53YB1), [Q5CZI7](http://www.uniprot.org/uniprot/Q5CZI7), [Q5XWF0](http://www.uniprot.org/uniprot/Q5XWF0), [Q6QT54](http://www.uniprot.org/uniprot/Q6QT54), [Q9UDJ3](http://www.uniprot.org/uniprot/Q9UDJ3), [Q9UMH0](http://www.uniprot.org/uniprot/Q9UMH0), [Q9UQ96](http://www.uniprot.org/uniprot/Q9UQ96)
+* Mus musculus; [P10637](http://www.uniprot.org/uniprot/P10637), [A2A5Y9](http://www.uniprot.org/uniprot/A2A5Y9), [P10638](http://www.uniprot.org/uniprot/P10638), [Q60684](http://www.uniprot.org/uniprot/Q60684), [Q60685](http://www.uniprot.org/uniprot/Q60685), [Q60686](http://www.uniprot.org/uniprot/Q60686), [Q62286](http://www.uniprot.org/uniprot/Q62286), [Q91WK4](http://www.uniprot.org/uniprot/Q91WK4)
+* Bos taurus; [P29172](http://www.uniprot.org/uniprot/P29172), [P29173](http://www.uniprot.org/uniprot/P29173), [Q28185](http://www.uniprot.org/uniprot/Q28185), [Q28186](http://www.uniprot.org/uniprot/Q28186), [Q28187](http://www.uniprot.org/uniprot/Q28187), [Q28188](http://www.uniprot.org/uniprot/Q28188), [Q28189](http://www.uniprot.org/uniprot/Q28189), [Q28190](http://www.uniprot.org/uniprot/Q28190), [Q32KT2](http://www.uniprot.org/uniprot/Q32KT2)
+* Pan troglodytes; [Q5YCW1](http://www.uniprot.org/uniprot/Q5YCW1)
+* Anas platyrhynchos; [U3IKL9](http://www.uniprot.org/uniprot/U3IKL9)
+* Ficedula albicollis; [U3JQD1](http://www.uniprot.org/uniprot/U3JQD1)
+* Ovis aries; [W5PNU3](http://www.uniprot.org/uniprot/W5PNU3)
+
+## MAP1B (31)
+* Papio anubis; [A0A096NBM8](http://www.uniprot.org/uniprot/A0A096NBM8)
+* Ailuropoda melanoleuca; [D2HGU8](http://www.uniprot.org/uniprot/D2HGU8)
+* Gallus gallus; [E1C1Q2](http://www.uniprot.org/uniprot/E1C1Q2)
+* Rattus norvegicus; [F1LRL9](http://www.uniprot.org/uniprot/F1LRL9)
+* Bos taurus; [F1N1S2](http://www.uniprot.org/uniprot/F1N1S2)
+* Sus scrofa; [F1SK12](http://www.uniprot.org/uniprot/F1SK12)
+* Callithrix jacchus; [F6RH40](http://www.uniprot.org/uniprot/F6RH40)
+* Monodelphis domestica; [F6SQ13](http://www.uniprot.org/uniprot/F6SQ13)
+* Ornithorhynchus anatinus; [F6T312](http://www.uniprot.org/uniprot/F6T312)
+* Canis lupus familiaris; [F6XQD6](http://www.uniprot.org/uniprot/F6XQD6)
+* Equus caballus; [F6ZNZ4](http://www.uniprot.org/uniprot/F6ZNZ4)
+* Macaca mulatta; [F7F0Z0](http://www.uniprot.org/uniprot/F7F0Z0)
+* Anolis carolinensis; [G1KJG5](http://www.uniprot.org/uniprot/G1KJG5)
+* Meleagris gallopavo; [G1MZQ4](http://www.uniprot.org/uniprot/G1MZQ4)
+* Myotis lucifugus; [G1P4P5](http://www.uniprot.org/uniprot/G1P4P5)
+* Oryctolagus cuniculus; [G1U3X5](http://www.uniprot.org/uniprot/G1U3X5)
+* Gorilla gorilla gorilla; [G3SIG4](http://www.uniprot.org/uniprot/G3SIG4)
+* Loxodonta africana; [G3TZ55](http://www.uniprot.org/uniprot/G3TZ55)
+* Cavia porcellus; [H0V795](http://www.uniprot.org/uniprot/H0V795)
+* Otolemur garnettii; [H0XQ77](http://www.uniprot.org/uniprot/H0XQ77)
+* Taeniopygia guttata; [H0Z5J8](http://www.uniprot.org/uniprot/H0Z5J8)
+* Pongo abelii; [H2PFT4](http://www.uniprot.org/uniprot/H2PFT4)
+* Pan troglodytes; [H2QR17](http://www.uniprot.org/uniprot/H2QR17)
+* Ictidomys tridecemlineatus; [I3M021](http://www.uniprot.org/uniprot/I3M021)
+* Pelodiscus sinensis; [K7G806](http://www.uniprot.org/uniprot/K7G806)
+* Felis catus; [M3W427](http://www.uniprot.org/uniprot/M3W427)
+* Mustela putorius furo; [M3YSI9](http://www.uniprot.org/uniprot/M3YSI9)
+* Mus musculus; [P14873](http://www.uniprot.org/uniprot/P14873), [E9QM11](http://www.uniprot.org/uniprot/E9QM11)
+* Homo sapiens; [P46821](http://www.uniprot.org/uniprot/P46821), [A2BDK5](http://www.uniprot.org/uniprot/A2BDK5)
+* Ficedula albicollis; [U3K6V0](http://www.uniprot.org/uniprot/U3K6V0)
+* Ovis aries; [W5P564](http://www.uniprot.org/uniprot/W5P564)
+
+## KIF1B (30)
+* Bos taurus; [E1BBN7](http://www.uniprot.org/uniprot/E1BBN7)
+* Canis lupus familiaris; [E2R9C4](http://www.uniprot.org/uniprot/E2R9C4)
+* Sus scrofa; [F1RIF9](http://www.uniprot.org/uniprot/F1RIF9)
+* Macaca mulatta; [F6U8D8](http://www.uniprot.org/uniprot/F6U8D8)
+* Equus caballus; [F6YPB7](http://www.uniprot.org/uniprot/F6YPB7)
+* Ornithorhynchus anatinus; [F7AC28](http://www.uniprot.org/uniprot/F7AC28)
+* Monodelphis domestica; [F7EJI5](http://www.uniprot.org/uniprot/F7EJI5)
+* Callithrix jacchus; [F7H1W9](http://www.uniprot.org/uniprot/F7H1W9)
+* Ailuropoda melanoleuca; [G1LJJ7](http://www.uniprot.org/uniprot/G1LJJ7)
+* Meleagris gallopavo; [G1MZ09](http://www.uniprot.org/uniprot/G1MZ09)
+* Myotis lucifugus; [G1NSP5](http://www.uniprot.org/uniprot/G1NSP5)
+* Oryctolagus cuniculus; [G1SIA1](http://www.uniprot.org/uniprot/G1SIA1)
+* Gorilla gorilla gorilla; [G3SEL4](http://www.uniprot.org/uniprot/G3SEL4)
+* Loxodonta africana; [G3UHG2](http://www.uniprot.org/uniprot/G3UHG2)
+* Sarcophilus harrisii; [G3VW41](http://www.uniprot.org/uniprot/G3VW41)
+* Cavia porcellus; [H0VB12](http://www.uniprot.org/uniprot/H0VB12)
+* Otolemur garnettii; [H0X481](http://www.uniprot.org/uniprot/H0X481)
+* Taeniopygia guttata; [H0YZ93](http://www.uniprot.org/uniprot/H0YZ93)
+* Pongo abelii; [H2N960](http://www.uniprot.org/uniprot/H2N960)
+* Pan troglodytes; [H2PXZ5](http://www.uniprot.org/uniprot/H2PXZ5)
+* Ictidomys tridecemlineatus; [I3LWD7](http://www.uniprot.org/uniprot/I3LWD7)
+* Pelodiscus sinensis; [K7FPY0](http://www.uniprot.org/uniprot/K7FPY0)
+* Felis catus; [M3WKZ1](http://www.uniprot.org/uniprot/M3WKZ1)
+* Mustela putorius furo; [M3YYD9](http://www.uniprot.org/uniprot/M3YYD9)
+* Homo sapiens; [O60333](http://www.uniprot.org/uniprot/O60333), [A6NFS8](http://www.uniprot.org/uniprot/A6NFS8), [A6NKQ4](http://www.uniprot.org/uniprot/A6NKQ4), [Q4VXC3](http://www.uniprot.org/uniprot/Q4VXC3), [Q4VXC4](http://www.uniprot.org/uniprot/Q4VXC4), [Q4VXC5](http://www.uniprot.org/uniprot/Q4VXC5), [Q4VXC6](http://www.uniprot.org/uniprot/Q4VXC6), [Q96Q94](http://www.uniprot.org/uniprot/Q96Q94), [Q9BV80](http://www.uniprot.org/uniprot/Q9BV80), [Q9P280](http://www.uniprot.org/uniprot/Q9P280)
+* Rattus norvegicus; [O88658](http://www.uniprot.org/uniprot/O88658), [Q65Z71](http://www.uniprot.org/uniprot/Q65Z71), [Q8R524](http://www.uniprot.org/uniprot/Q8R524)
+* Mus musculus; [Q60575](http://www.uniprot.org/uniprot/Q60575), [Q9R0B4](http://www.uniprot.org/uniprot/Q9R0B4), [Q9WVE5](http://www.uniprot.org/uniprot/Q9WVE5), [Q9Z119](http://www.uniprot.org/uniprot/Q9Z119)
+* Anas platyrhynchos; [U3IGK7](http://www.uniprot.org/uniprot/U3IGK7)
+* Ficedula albicollis; [U3JXP6](http://www.uniprot.org/uniprot/U3JXP6)
+* Ovis aries; [W5P6Z9](http://www.uniprot.org/uniprot/W5P6Z9)
+
+## PVRL2 (23)
+* Papio anubis; [A0A0A0MU66](http://www.uniprot.org/uniprot/A0A0A0MU66)
+* Canis lupus familiaris; [F1PWL4](http://www.uniprot.org/uniprot/F1PWL4)
+* Monodelphis domestica; [F6QG96](http://www.uniprot.org/uniprot/F6QG96)
+* Equus caballus; [F6YWH3](http://www.uniprot.org/uniprot/F6YWH3)
+* Macaca mulatta; [F7BSK9](http://www.uniprot.org/uniprot/F7BSK9)
+* Callithrix jacchus; [F7GND2](http://www.uniprot.org/uniprot/F7GND2)
+* Ailuropoda melanoleuca; [G1M2B9](http://www.uniprot.org/uniprot/G1M2B9)
+* Myotis lucifugus; [G1QEX8](http://www.uniprot.org/uniprot/G1QEX8)
+* Oryctolagus cuniculus; [G1TEJ1](http://www.uniprot.org/uniprot/G1TEJ1)
+* Gorilla gorilla gorilla; [G3QU36](http://www.uniprot.org/uniprot/G3QU36)
+* Loxodonta africana; [G3TAK9](http://www.uniprot.org/uniprot/G3TAK9)
+* Cavia porcellus; [H0VYA5](http://www.uniprot.org/uniprot/H0VYA5)
+* Otolemur garnettii; [H0X7P2](http://www.uniprot.org/uniprot/H0X7P2)
+* Pongo abelii; [H2NZ63](http://www.uniprot.org/uniprot/H2NZ63)
+* Pan troglodytes; [H2R608](http://www.uniprot.org/uniprot/H2R608)
+* Ictidomys tridecemlineatus; [I3MCQ7](http://www.uniprot.org/uniprot/I3MCQ7)
+* Felis catus; [M3W2U9](http://www.uniprot.org/uniprot/M3W2U9)
+* Mustela putorius furo; [M3Y4H3](http://www.uniprot.org/uniprot/M3Y4H3)
+* Mus musculus; [P32507](http://www.uniprot.org/uniprot/P32507), [Q62096](http://www.uniprot.org/uniprot/Q62096)
+* Bos taurus; [Q17QC7](http://www.uniprot.org/uniprot/Q17QC7)
+* Rattus norvegicus; [Q5FVC5](http://www.uniprot.org/uniprot/Q5FVC5)
+* Homo sapiens; [Q92692](http://www.uniprot.org/uniprot/Q92692), [A8K5L5](http://www.uniprot.org/uniprot/A8K5L5), [O75455](http://www.uniprot.org/uniprot/O75455), [Q6IBI6](http://www.uniprot.org/uniprot/Q6IBI6), [Q96J29](http://www.uniprot.org/uniprot/Q96J29)
+* Ovis aries; [W5PHY6](http://www.uniprot.org/uniprot/W5PHY6)
+
+## MDM10 (17)
+* Gibberella zeae; [A0A016PYY2](http://www.uniprot.org/uniprot/A0A016PYY2)
+* Komagataella pastoris (strain GS115 / ATCC 20864); [C4QWJ4](http://www.uniprot.org/uniprot/C4QWJ4)
+* Nectria haematococca (strain 77-13-4 / ATCC MYA-4622 / FGSC 9596 / MPVI); [C7Z9M3](http://www.uniprot.org/uniprot/C7Z9M3)
+* Puccinia graminis f. sp. tritici (strain CRL 75-36-700-3 / race SCCL); [E3K8T7](http://www.uniprot.org/uniprot/E3K8T7)
+* Colletotrichum graminicola (strain M1.001 / M2 / FGSC 10212); [E3Q2D2](http://www.uniprot.org/uniprot/E3Q2D2)
+* Leptosphaeria maculans (strain JN3 / isolate v23.1.3 / race Av1-4-5-6-7-8); [E4ZZ76](http://www.uniprot.org/uniprot/E4ZZ76)
+* Melampsora larici-populina (strain 98AG31 / pathotype 3-4-7); [F4S1G3](http://www.uniprot.org/uniprot/F4S1G3)
+* Zymoseptoria tritici (strain CBS 115943 / IPO323); [F9X4C9](http://www.uniprot.org/uniprot/F9X4C9)
+* Hypocrea virens (strain Gv29-8 / FGSC 10586); [G9MVX8](http://www.uniprot.org/uniprot/G9MVX8)
+* Colletotrichum higginsianum (strain IMI 349063); [H1VN63](http://www.uniprot.org/uniprot/H1VN63)
+* Gibberella zeae (strain PH-1 / ATCC MYA-4620 / FGSC 9075 / NRRL 31084); [I1RFV0](http://www.uniprot.org/uniprot/I1RFV0)
+* Fusarium pseudograminearum (strain CS3096); [K3VET1](http://www.uniprot.org/uniprot/K3VET1)
+* Blumeria graminis f. sp. hordei (strain DH14); [N1JHI9](http://www.uniprot.org/uniprot/N1JHI9)
+* Colletotrichum orbiculare (strain 104-T / ATCC 96160 / CBS 514.97 / LARS 414 / MAFF 240422); [N4VVG2](http://www.uniprot.org/uniprot/N4VVG2)
+* Saccharomyces cerevisiae (strain ATCC 204508 / S288c); [P18409](http://www.uniprot.org/uniprot/P18409), [D6VPK8](http://www.uniprot.org/uniprot/D6VPK8)
+* Ustilago maydis (strain 521 / FGSC 9021); [Q4PEP6](http://www.uniprot.org/uniprot/Q4PEP6), [A0A0D1CER6](http://www.uniprot.org/uniprot/A0A0D1CER6)
+* Gibberella fujikuroi (strain CBS 195.34 / IMI 58289 / NRRL A-6831); [S0E372](http://www.uniprot.org/uniprot/S0E372)
+
+## UBB (10)
+* Sus scrofa; [A7U5U2](http://www.uniprot.org/uniprot/A7U5U2)
+* Callithrix jacchus; [F6Q8N3](http://www.uniprot.org/uniprot/F6Q8N3)
+* Macaca mulatta; [F6W348](http://www.uniprot.org/uniprot/F6W348)
+* Otolemur garnettii; [H0XJL7](http://www.uniprot.org/uniprot/H0XJL7)
+* Felis catus; [M3WE01](http://www.uniprot.org/uniprot/M3WE01)
+* Homo sapiens; [P0CG47](http://www.uniprot.org/uniprot/P0CG47), [P02248](http://www.uniprot.org/uniprot/P02248), [P02249](http://www.uniprot.org/uniprot/P02249), [P02250](http://www.uniprot.org/uniprot/P02250), [P62988](http://www.uniprot.org/uniprot/P62988), [Q29120](http://www.uniprot.org/uniprot/Q29120), [Q6LBL4](http://www.uniprot.org/uniprot/Q6LBL4), [Q6LDU5](http://www.uniprot.org/uniprot/Q6LDU5), [Q8WYN8](http://www.uniprot.org/uniprot/Q8WYN8), [Q91887](http://www.uniprot.org/uniprot/Q91887), [Q91888](http://www.uniprot.org/uniprot/Q91888), [Q9BWD6](http://www.uniprot.org/uniprot/Q9BWD6), [Q9BX98](http://www.uniprot.org/uniprot/Q9BX98), [Q9UEF2](http://www.uniprot.org/uniprot/Q9UEF2), [Q9UEG1](http://www.uniprot.org/uniprot/Q9UEG1), [Q9UEK8](http://www.uniprot.org/uniprot/Q9UEK8), [Q9UPK7](http://www.uniprot.org/uniprot/Q9UPK7)
+* Mus musculus; [P0CG49](http://www.uniprot.org/uniprot/P0CG49), [P02248](http://www.uniprot.org/uniprot/P02248), [P02249](http://www.uniprot.org/uniprot/P02249), [P02250](http://www.uniprot.org/uniprot/P02250), [P62991](http://www.uniprot.org/uniprot/P62991), [Q29120](http://www.uniprot.org/uniprot/Q29120), [Q62317](http://www.uniprot.org/uniprot/Q62317), [Q64223](http://www.uniprot.org/uniprot/Q64223), [Q8VCH1](http://www.uniprot.org/uniprot/Q8VCH1), [Q91887](http://www.uniprot.org/uniprot/Q91887), [Q91888](http://www.uniprot.org/uniprot/Q91888), [Q9CXY4](http://www.uniprot.org/uniprot/Q9CXY4), [Q9CZM0](http://www.uniprot.org/uniprot/Q9CZM0), [Q9D1R5](http://www.uniprot.org/uniprot/Q9D1R5), [Q9D8D9](http://www.uniprot.org/uniprot/Q9D8D9), [Q9ET23](http://www.uniprot.org/uniprot/Q9ET23), [Q9ET24](http://www.uniprot.org/uniprot/Q9ET24), [Q9Z0H9](http://www.uniprot.org/uniprot/Q9Z0H9)
+* Mus musculus; [P0CG49](http://www.uniprot.org/uniprot/P0CG49), [P02248](http://www.uniprot.org/uniprot/P02248), [P02249](http://www.uniprot.org/uniprot/P02249), [P02250](http://www.uniprot.org/uniprot/P02250), [P62991](http://www.uniprot.org/uniprot/P62991), [Q29120](http://www.uniprot.org/uniprot/Q29120), [Q62317](http://www.uniprot.org/uniprot/Q62317), [Q64223](http://www.uniprot.org/uniprot/Q64223), [Q8VCH1](http://www.uniprot.org/uniprot/Q8VCH1), [Q91887](http://www.uniprot.org/uniprot/Q91887), [Q91888](http://www.uniprot.org/uniprot/Q91888), [Q9CXY4](http://www.uniprot.org/uniprot/Q9CXY4), [Q9CZM0](http://www.uniprot.org/uniprot/Q9CZM0), [Q9D1R5](http://www.uniprot.org/uniprot/Q9D1R5), [Q9D8D9](http://www.uniprot.org/uniprot/Q9D8D9), [Q9ET23](http://www.uniprot.org/uniprot/Q9ET23), [Q9ET24](http://www.uniprot.org/uniprot/Q9ET24), [Q9Z0H9](http://www.uniprot.org/uniprot/Q9Z0H9)
+* Gorilla gorilla gorilla; [P0CG67](http://www.uniprot.org/uniprot/P0CG67), [Q867C2](http://www.uniprot.org/uniprot/Q867C2), [Q867C6](http://www.uniprot.org/uniprot/Q867C6)
+* Mus musculus; [Q78XY9](http://www.uniprot.org/uniprot/Q78XY9)
+
+## MDMB (8)
+* Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1); [A1CBT0](http://www.uniprot.org/uniprot/A1CBT0)
+* Aspergillus niger (strain CBS 513.88 / FGSC A1513); [A2R3N6](http://www.uniprot.org/uniprot/A2R3N6)
+* Neosartorya fumigata (strain CEA10 / CBS 144.89 / FGSC A1163); [B0Y240](http://www.uniprot.org/uniprot/B0Y240)
+* Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / NRRL 3357 / JCM 12722 / SRRC 167); [B8NM08](http://www.uniprot.org/uniprot/B8NM08)
+* Aspergillus terreus (strain NIH 2624 / FGSC A1156); [Q0CJH2](http://www.uniprot.org/uniprot/Q0CJH2)
+* Aspergillus oryzae (strain ATCC 42149 / RIB 40); [Q2U5V7](http://www.uniprot.org/uniprot/Q2U5V7)
+* Neosartorya fumigata (strain ATCC MYA-4609 / Af293 / CBS 101355 / FGSC A1100); [Q4WVV6](http://www.uniprot.org/uniprot/Q4WVV6)
+* Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139); [Q8J0L4](http://www.uniprot.org/uniprot/Q8J0L4), [C8V2X8](http://www.uniprot.org/uniprot/C8V2X8), [Q5AXS9](http://www.uniprot.org/uniprot/Q5AXS9)
+
+## DIDUM (6)
+* Drosophila melanogaster; [A1Z6Z8](http://www.uniprot.org/uniprot/A1Z6Z8)
+* Drosophila melanogaster; [A1Z6Z9](http://www.uniprot.org/uniprot/A1Z6Z9)
+* Drosophila melanogaster; [A1Z700](http://www.uniprot.org/uniprot/A1Z700)
+* Drosophila melanogaster; [O97417](http://www.uniprot.org/uniprot/O97417)
+* Drosophila melanogaster; [Q7YU40](http://www.uniprot.org/uniprot/Q7YU40)
+* Drosophila melanogaster; [Q94882](http://www.uniprot.org/uniprot/Q94882), [O01381](http://www.uniprot.org/uniprot/O01381)
+
+## MILT (4)
+* Drosophila melanogaster; [Q960V3](http://www.uniprot.org/uniprot/Q960V3), [Q0E8S6](http://www.uniprot.org/uniprot/Q0E8S6), [Q8SWX2](http://www.uniprot.org/uniprot/Q8SWX2), [Q95NI8](http://www.uniprot.org/uniprot/Q95NI8)
+* Drosophila melanogaster; [Q960V3](http://www.uniprot.org/uniprot/Q960V3), [Q0E8S6](http://www.uniprot.org/uniprot/Q0E8S6), [Q8SWX2](http://www.uniprot.org/uniprot/Q8SWX2), [Q95NI8](http://www.uniprot.org/uniprot/Q95NI8)
+* Drosophila melanogaster; [Q960V3](http://www.uniprot.org/uniprot/Q960V3), [Q0E8S6](http://www.uniprot.org/uniprot/Q0E8S6), [Q8SWX2](http://www.uniprot.org/uniprot/Q8SWX2), [Q95NI8](http://www.uniprot.org/uniprot/Q95NI8)
+* Drosophila melanogaster; [Q960V3](http://www.uniprot.org/uniprot/Q960V3), [Q0E8S6](http://www.uniprot.org/uniprot/Q0E8S6), [Q8SWX2](http://www.uniprot.org/uniprot/Q8SWX2), [Q95NI8](http://www.uniprot.org/uniprot/Q95NI8)
+
+## FEZ1 (3)
+* Rattus norvegicus; [P97577](http://www.uniprot.org/uniprot/P97577), [Q62922](http://www.uniprot.org/uniprot/Q62922)
+* Mus musculus; [Q8K0X8](http://www.uniprot.org/uniprot/Q8K0X8), [Q3YE74](http://www.uniprot.org/uniprot/Q3YE74)
+* Homo sapiens; [Q99689](http://www.uniprot.org/uniprot/Q99689), [O00679](http://www.uniprot.org/uniprot/O00679), [O00728](http://www.uniprot.org/uniprot/O00728), [Q6IBI7](http://www.uniprot.org/uniprot/Q6IBI7)
+
+## MIRO (3)
+* Drosophila pseudoobscura pseudoobscura; [Q298L5](http://www.uniprot.org/uniprot/Q298L5)
+* Drosophila melanogaster; [Q8IMX7](http://www.uniprot.org/uniprot/Q8IMX7), [Q8IMX6](http://www.uniprot.org/uniprot/Q8IMX6), [Q95TT1](http://www.uniprot.org/uniprot/Q95TT1)
+* Drosophila melanogaster; [Q8IMX7](http://www.uniprot.org/uniprot/Q8IMX7), [Q8IMX6](http://www.uniprot.org/uniprot/Q8IMX6), [Q95TT1](http://www.uniprot.org/uniprot/Q95TT1)
+
+## PRR2 (2)
+* Sus scrofa; [B3TFD9](http://www.uniprot.org/uniprot/B3TFD9), [F1RM43](http://www.uniprot.org/uniprot/F1RM43)
+* Tursiops truncatus; [Q8HYT2](http://www.uniprot.org/uniprot/Q8HYT2)
+
+## OCBIM_22017563MG (2)
+* Octopus bimaculoides; [A0A0L8HCJ1](http://www.uniprot.org/uniprot/A0A0L8HCJ1)
+* Octopus bimaculoides; [A0A0L8HCW9](http://www.uniprot.org/uniprot/A0A0L8HCW9)
+
+## MIRO2 (2)
+* Rhinolophus ferrumequinum; [B2KHX1](http://www.uniprot.org/uniprot/B2KHX1)
+* Neovison vison; [U6D2Z6](http://www.uniprot.org/uniprot/U6D2Z6)
+
+## UBC (2)
+* Monodelphis domestica; [F7E910](http://www.uniprot.org/uniprot/F7E910)
+* Oryctolagus cuniculus; [G1SF46](http://www.uniprot.org/uniprot/G1SF46)
+
+## MIRO-1 (2)
+* Caenorhabditis briggsae; [Q623S8](http://www.uniprot.org/uniprot/Q623S8), [A8WQY7](http://www.uniprot.org/uniprot/A8WQY7)
+* Caenorhabditis elegans; [Q94263](http://www.uniprot.org/uniprot/Q94263)
+
+## UBBP4 (2)
+* Canis lupus familiaris; [F1PDG4](http://www.uniprot.org/uniprot/F1PDG4)
+* Nomascus leucogenys; [G1RIK9](http://www.uniprot.org/uniprot/G1RIK9)
+
+## N339_04838 (1)
+* Pterocles gutturalis; [A0A093C1W4](http://www.uniprot.org/uniprot/A0A093C1W4)
+
+## N328_04486 (1)
+* Gavia stellata; [A0A093EUL8](http://www.uniprot.org/uniprot/A0A093EUL8)
+
+## N307_01610 (1)
+* Picoides pubescens; [A0A093GD14](http://www.uniprot.org/uniprot/A0A093GD14)
+
+## N308_01515 (1)
+* Struthio camelus australis; [A0A093I2W2](http://www.uniprot.org/uniprot/A0A093I2W2)
+
+## N326_04260 (1)
+* Eurypyga helias; [A0A093JES6](http://www.uniprot.org/uniprot/A0A093JES6)
+
+## N327_04483 (1)
+* Fulmarus glacialis; [A0A093KVJ3](http://www.uniprot.org/uniprot/A0A093KVJ3)
+
+## AS28_14547 (1)
+* Pygoscelis adeliae; [A0A093NHZ8](http://www.uniprot.org/uniprot/A0A093NHZ8)
+
+## N305_01219 (1)
+* Manacus vitellinus; [A0A093PFQ9](http://www.uniprot.org/uniprot/A0A093PFQ9)
+
+## N336_04147 (1)
+* Phalacrocorax carbo; [A0A093SC43](http://www.uniprot.org/uniprot/A0A093SC43)
+
+## FVEG_11158 (1)
+* Gibberella moniliformis (strain M3125 / FGSC 7600); [W7MLP2](http://www.uniprot.org/uniprot/W7MLP2)
+
+## AS27_07083 (1)
+* Aptenodytes forsteri; [A0A087QIA7](http://www.uniprot.org/uniprot/A0A087QIA7)
+
+## N312_08203 (1)
+* Balearica regulorum gibbericeps; [A0A087VLB5](http://www.uniprot.org/uniprot/A0A087VLB5)
+
+## H920_03797 (1)
+* Fukomys damarensis; [A0A091DRL7](http://www.uniprot.org/uniprot/A0A091DRL7)
+
+## N309_09959 (1)
+* Tinamus guttatus; [A0A099Z4X1](http://www.uniprot.org/uniprot/A0A099Z4X1)
+
+## N301_16766 (1)
+* Charadrius vociferus; [A0A099ZXA7](http://www.uniprot.org/uniprot/A0A099ZXA7)
+
+## H920_03798 (1)
+* Fukomys damarensis; [A0A091DWX0](http://www.uniprot.org/uniprot/A0A091DWX0)
+
+## MIRO-2 (1)
+* Sparus aurata; [A0A0B4KJI3](http://www.uniprot.org/uniprot/A0A0B4KJI3)
+
+## ORF82542 (1)
+* Arion vulgaris; [A0A0B6ZV50](http://www.uniprot.org/uniprot/A0A0B6ZV50)
+
+## ORF82537 (1)
+* Arion vulgaris; [A0A0B6ZV92](http://www.uniprot.org/uniprot/A0A0B6ZV92)
+
+## N302_12969 (1)
+* Corvus brachyrhynchos; [A0A091FPX0](http://www.uniprot.org/uniprot/A0A091FPX0)
+
+## ACLA_003470 (1)
+* Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1); [A1C5G6](http://www.uniprot.org/uniprot/A1C5G6)
+
+## ACLA_042880 (1)
+* Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1); [A1C8D3](http://www.uniprot.org/uniprot/A1C8D3)
+
+## N303_04397 (1)
+* Cuculus canorus; [A0A091GAP3](http://www.uniprot.org/uniprot/A0A091GAP3)
+
+## ACLA_022100 (1)
+* Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1); [A1CPC5](http://www.uniprot.org/uniprot/A1CPC5)
+
+## NFIA_096530 (1)
+* Neosartorya fischeri (strain ATCC 1020 / DSM 3700 / FGSC A1164 / NRRL 181); [A1DAZ1](http://www.uniprot.org/uniprot/A1DAZ1)
+
+## N320_08830 (1)
+* Buceros rhinoceros silvestris; [A0A091H0R7](http://www.uniprot.org/uniprot/A0A091H0R7)
+
+## AN03G06950 (1)
+* Aspergillus niger (strain CBS 513.88 / FGSC A1513); [A2QHI2](http://www.uniprot.org/uniprot/A2QHI2)
+
+## AN08G06400 (1)
+* Aspergillus niger (strain CBS 513.88 / FGSC A1513); [A2QRK9](http://www.uniprot.org/uniprot/A2QRK9)
+
+## AN16G01570 (1)
+* Aspergillus niger (strain CBS 513.88 / FGSC A1513); [A2R6X8](http://www.uniprot.org/uniprot/A2R6X8)
+
+## SS1G_01608 (1)
+* Sclerotinia sclerotiorum (strain ATCC 18683 / 1980 / Ss-1); [A7E8I0](http://www.uniprot.org/uniprot/A7E8I0)
+
+## V1G113475 (1)
+* Nematostella vectensis; [A7SCK4](http://www.uniprot.org/uniprot/A7SCK4)
+
+## V1G144500 (1)
+* Nematostella vectensis; [A7T3M6](http://www.uniprot.org/uniprot/A7T3M6)
+
+## Z169_01996 (1)
+* Egretta garzetta; [A0A091IQ37](http://www.uniprot.org/uniprot/A0A091IQ37)
+
+## AFUB_012820 (1)
+* Neosartorya fumigata (strain CEA10 / CBS 144.89 / FGSC A1163); [B0XRC0](http://www.uniprot.org/uniprot/B0XRC0)
+
+## AFUB_050390 (1)
+* Neosartorya fumigata (strain CEA10 / CBS 144.89 / FGSC A1163); [B0Y1Z7](http://www.uniprot.org/uniprot/B0Y1Z7)
+
+## AFUB_083750 (1)
+* Neosartorya fumigata (strain CEA10 / CBS 144.89 / FGSC A1163); [B0YA83](http://www.uniprot.org/uniprot/B0YA83)
+
+## N300_14007 (1)
+* Calypte anna; [A0A091ITZ1](http://www.uniprot.org/uniprot/A0A091ITZ1)
+
+## PTRG_00644 (1)
+* Pyrenophora tritici-repentis (strain Pt-1C-BFP); [B2VSE0](http://www.uniprot.org/uniprot/B2VSE0)
+
+## PTRG_06002 (1)
+* Pyrenophora tritici-repentis (strain Pt-1C-BFP); [B2W864](http://www.uniprot.org/uniprot/B2W864)
+
+## PTRG_08097 (1)
+* Pyrenophora tritici-repentis (strain Pt-1C-BFP); [B2WDN8](http://www.uniprot.org/uniprot/B2WDN8)
+
+## PTRG_09867 (1)
+* Pyrenophora tritici-repentis (strain Pt-1C-BFP); [B2WIQ8](http://www.uniprot.org/uniprot/B2WIQ8)
+
+## N323_12501 (1)
+* Cathartes aura; [A0A091L7Q6](http://www.uniprot.org/uniprot/A0A091L7Q6)
+
+## SJAG_01964 (1)
+* Schizosaccharomyces japonicus (strain yFS275 / FY16936); [B6JZD3](http://www.uniprot.org/uniprot/B6JZD3)
+
+## SJAG_02848 (1)
+* Schizosaccharomyces japonicus (strain yFS275 / FY16936); [B6K1C3](http://www.uniprot.org/uniprot/B6K1C3)
+
+## SJAG_03086 (1)
+* Schizosaccharomyces japonicus (strain yFS275 / FY16936); [B6K3A2](http://www.uniprot.org/uniprot/B6K3A2)
+
+## ISCW_ISCW002009 (1)
+* Ixodes scapularis; [B7PAT4](http://www.uniprot.org/uniprot/B7PAT4)
+
+## AFLA_024950 (1)
+* Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / NRRL 3357 / JCM 12722 / SRRC 167); [B8N2X1](http://www.uniprot.org/uniprot/B8N2X1)
+
+## AFLA_018090 (1)
+* Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / NRRL 3357 / JCM 12722 / SRRC 167); [B8N4V0](http://www.uniprot.org/uniprot/B8N4V0)
+
+## AFLA_122710 (1)
+* Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / NRRL 3357 / JCM 12722 / SRRC 167); [B8NX83](http://www.uniprot.org/uniprot/B8NX83)
+
+## BRAFLDRAFT_93126 (1)
+* Branchiostoma floridae; [C3YJ97](http://www.uniprot.org/uniprot/C3YJ97)
+
+## PAS_CHR3_0238 (1)
+* Komagataella pastoris (strain GS115 / ATCC 20864); [C4R3Y8](http://www.uniprot.org/uniprot/C4R3Y8)
+
+## PAS_CHR3_0751 (1)
+* Komagataella pastoris (strain GS115 / ATCC 20864); [C4R5G4](http://www.uniprot.org/uniprot/C4R5G4)
+
+## NECHADRAFT_65401 (1)
+* Nectria haematococca (strain 77-13-4 / ATCC MYA-4622 / FGSC 9596 / MPVI); [C7YK16](http://www.uniprot.org/uniprot/C7YK16)
+
+## NECHADRAFT_56908 (1)
+* Nectria haematococca (strain 77-13-4 / ATCC MYA-4622 / FGSC 9596 / MPVI); [C7YW23](http://www.uniprot.org/uniprot/C7YW23)
+
+## ARP2108 (1)
+* Nectria haematococca (strain 77-13-4 / ATCC MYA-4622 / FGSC 9596 / MPVI); [C7YZX9](http://www.uniprot.org/uniprot/C7YZX9)
+
+## ANIA_08065 (1)
+* Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139); [C8V680](http://www.uniprot.org/uniprot/C8V680)
+
+## ANIA_00673 (1)
+* Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139); [C8VRS3](http://www.uniprot.org/uniprot/C8VRS3)
+
+## PANDA_008933 (1)
+* Ailuropoda melanoleuca; [D2HDW8](http://www.uniprot.org/uniprot/D2HDW8)
+
+## LOC100483436 (1)
+* Ailuropoda melanoleuca; [D2HFP2](http://www.uniprot.org/uniprot/D2HFP2)
+
+## PANDA_017259 (1)
+* Ailuropoda melanoleuca; [D2HXB8](http://www.uniprot.org/uniprot/D2HXB8)
+
+## GSTUM_00001624001 (1)
+* Tuber melanosporum (strain Mel28); [D5G5Y3](http://www.uniprot.org/uniprot/D5G5Y3)
+
+## N311_06801 (1)
+* Apaloderma vittatum; [A0A091NQY6](http://www.uniprot.org/uniprot/A0A091NQY6)
+
+## GGA.48506 (1)
+* Gallus gallus; [E1C889](http://www.uniprot.org/uniprot/E1C889)
+
+## PGTG_02218 (1)
+* Puccinia graminis f. sp. tritici (strain CRL 75-36-700-3 / race SCCL); [E3JXI2](http://www.uniprot.org/uniprot/E3JXI2)
+
+## PGTG_04336 (1)
+* Puccinia graminis f. sp. tritici (strain CRL 75-36-700-3 / race SCCL); [E3K211](http://www.uniprot.org/uniprot/E3K211)
+
+## GLRG_06243 (1)
+* Colletotrichum graminicola (strain M1.001 / M2 / FGSC 10212); [E3QJR1](http://www.uniprot.org/uniprot/E3QJR1)
+
+## GLRG_06619 (1)
+* Colletotrichum graminicola (strain M1.001 / M2 / FGSC 10212); [E3QKT7](http://www.uniprot.org/uniprot/E3QKT7)
+
+## PTT_08270 (1)
+* Pyrenophora teres f. teres (strain 0-1); [E3RJE7](http://www.uniprot.org/uniprot/E3RJE7)
+
+## LEMA_P080250.1 (1)
+* Leptosphaeria maculans (strain JN3 / isolate v23.1.3 / race Av1-4-5-6-7-8); [E5A588](http://www.uniprot.org/uniprot/E5A588)
+
+## LEMA_P022740.1 (1)
+* Leptosphaeria maculans (strain JN3 / isolate v23.1.3 / race Av1-4-5-6-7-8); [E5ABV3](http://www.uniprot.org/uniprot/E5ABV3)
+
+## SR16366 (1)
+* Sporisorium reilianum (strain SRZ2); [E6ZSF4](http://www.uniprot.org/uniprot/E6ZSF4)
+
+## SR10493 (1)
+* Sporisorium reilianum (strain SRZ2); [E6ZU50](http://www.uniprot.org/uniprot/E6ZU50)
+
+## GSONMT00078389001 (1)
+* Oncorhynchus mykiss; [A0A060VUV1](http://www.uniprot.org/uniprot/A0A060VUV1)
+
+## N330_10489 (1)
+* Leptosomus discolor; [A0A091Q2P4](http://www.uniprot.org/uniprot/A0A091Q2P4)
+
+## MELLADRAFT_41749 (1)
+* Melampsora larici-populina (strain 98AG31 / pathotype 3-4-7); [F4R5B5](http://www.uniprot.org/uniprot/F4R5B5)
+
+## MELLADRAFT_116410 (1)
+* Melampsora larici-populina (strain 98AG31 / pathotype 3-4-7); [F4RKV7](http://www.uniprot.org/uniprot/F4RKV7)
+
+## MELLADRAFT_36292 (1)
+* Melampsora larici-populina (strain 98AG31 / pathotype 3-4-7); [F4RMM8](http://www.uniprot.org/uniprot/F4RMM8)
+
+## N331_05983 (1)
+* Merops nubicus; [A0A091QUC2](http://www.uniprot.org/uniprot/A0A091QUC2)
+
+## ISG15 (1)
+* Ornithorhynchus anatinus; [F7G4U0](http://www.uniprot.org/uniprot/F7G4U0)
+
+## ARP2401 (1)
+* Zymoseptoria tritici (strain CBS 115943 / IPO323); [F9WY19](http://www.uniprot.org/uniprot/F9WY19)
+
+## MYCGRDRAFT_75163 (1)
+* Zymoseptoria tritici (strain CBS 115943 / IPO323); [F9XH39](http://www.uniprot.org/uniprot/F9XH39)
+
+## TRIREDRAFT_57508 (1)
+* Hypocrea jecorina (strain QM6a); [G0RDN7](http://www.uniprot.org/uniprot/G0RDN7)
+
+## VDAG_03003 (1)
+* Verticillium dahliae (strain VdLs.17 / ATCC MYA-4575 / FGSC 10137); [G2WZY0](http://www.uniprot.org/uniprot/G2WZY0)
+
+## I79_007891 (1)
+* Cricetulus griseus; [G3HBU1](http://www.uniprot.org/uniprot/G3HBU1)
+
+## MGG_06361 (1)
+* Magnaporthe oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958); [G4N7U4](http://www.uniprot.org/uniprot/G4N7U4)
+
+## MGG_00307 (1)
+* Magnaporthe oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958); [G4ND09](http://www.uniprot.org/uniprot/G4ND09)
+
+## GW7_12979 (1)
+* Heterocephalus glaber; [G5BXW2](http://www.uniprot.org/uniprot/G5BXW2)
+
+## EGK_12301 (1)
+* Macaca mulatta; [G7NQE3](http://www.uniprot.org/uniprot/G7NQE3)
+
+## EGM_11282 (1)
+* Macaca fascicularis; [G7Q031](http://www.uniprot.org/uniprot/G7Q031)
+
+## TRIVIDRAFT_79414 (1)
+* Hypocrea virens (strain Gv29-8 / FGSC 10586); [G9MJZ4](http://www.uniprot.org/uniprot/G9MJZ4)
+
+## TRIVIDRAFT_41279 (1)
+* Hypocrea virens (strain Gv29-8 / FGSC 10586); [G9N953](http://www.uniprot.org/uniprot/G9N953)
+
+## TRIVIDRAFT_87505 (1)
+* Hypocrea virens (strain Gv29-8 / FGSC 10586); [G9NB52](http://www.uniprot.org/uniprot/G9NB52)
+
+## UBB-2 (1)
+* Taeniopygia guttata; [H0Z8Y5](http://www.uniprot.org/uniprot/H0Z8Y5)
+
+## CH063_09271 (1)
+* Colletotrichum higginsianum (strain IMI 349063); [H1VCZ2](http://www.uniprot.org/uniprot/H1VCZ2)
+
+## LOC101070493 (1)
+* Takifugu rubripes; [H2UR24](http://www.uniprot.org/uniprot/H2UR24)
+
+## GM20683 (1)
+* Mus musculus; [H3BKJ1](http://www.uniprot.org/uniprot/H3BKJ1)
+
+## FGSG_01320 (1)
+* Gibberella zeae (strain PH-1 / ATCC MYA-4620 / FGSC 9075 / NRRL 31084); [I1RCK2](http://www.uniprot.org/uniprot/I1RCK2)
+
+## FGSG_04485 (1)
+* Gibberella zeae (strain PH-1 / ATCC MYA-4620 / FGSC 9075 / NRRL 31084); [I1RKR9](http://www.uniprot.org/uniprot/I1RKR9)
+
+## FGSG_11977 (1)
+* Gibberella zeae (strain PH-1 / ATCC MYA-4620 / FGSC 9075 / NRRL 31084); [I1S559](http://www.uniprot.org/uniprot/I1S559)
+
+## LOC100694117 (1)
+* Oreochromis niloticus; [I3KVM5](http://www.uniprot.org/uniprot/I3KVM5)
+
+## GGTG_01256 (1)
+* Gaeumannomyces graminis var. tritici (strain R3-111a-1); [J3NJ22](http://www.uniprot.org/uniprot/J3NJ22)
+
+## LOC103889580 (1)
+* Pongo abelii; [J9JIJ3](http://www.uniprot.org/uniprot/J9JIJ3)
+
+## FPSE_08278 (1)
+* Fusarium pseudograminearum (strain CS3096); [K3VCA8](http://www.uniprot.org/uniprot/K3VCA8)
+
+## FPSE_04882 (1)
+* Fusarium pseudograminearum (strain CS3096); [K3W0Y1](http://www.uniprot.org/uniprot/K3W0Y1)
+
+## CGGC5_13899 (1)
+* Colletotrichum gloeosporioides (strain Nara gc5); [L2FEM0](http://www.uniprot.org/uniprot/L2FEM0)
+
+## CGGC5_2713 (1)
+* Colletotrichum gloeosporioides (strain Nara gc5); [L2GJ63](http://www.uniprot.org/uniprot/L2GJ63)
+
+## PAL_GLEAN10011784 (1)
+* Pteropus alecto; [L5KGP9](http://www.uniprot.org/uniprot/L5KGP9)
+
+## MDA_GLEAN10007616 (1)
+* Myotis davidii; [L5LQZ0](http://www.uniprot.org/uniprot/L5LQZ0)
+
+## M91_08795 (1)
+* Bos mutus; [L8J2F5](http://www.uniprot.org/uniprot/L8J2F5)
+
+## BGHDH14_BGH00994 (1)
+* Blumeria graminis f. sp. hordei (strain DH14); [N1J8F0](http://www.uniprot.org/uniprot/N1J8F0)
+
+## BGHDH14_BGH02900 (1)
+* Blumeria graminis f. sp. hordei (strain DH14); [N1JGD2](http://www.uniprot.org/uniprot/N1JGD2)
+
+## DOTSEDRAFT_67583 (1)
+* Dothistroma septosporum (strain NZE10 / CBS 128990); [N1Q296](http://www.uniprot.org/uniprot/N1Q296)
+
+## COB_09228 (1)
+* Colletotrichum orbiculare (strain 104-T / ATCC 96160 / CBS 514.97 / LARS 414 / MAFF 240422); [N4V2E4](http://www.uniprot.org/uniprot/N4V2E4)
+
+## COB_07242 (1)
+* Colletotrichum orbiculare (strain 104-T / ATCC 96160 / CBS 514.97 / LARS 414 / MAFF 240422); [N4VQ32](http://www.uniprot.org/uniprot/N4VQ32)
+
+## COB_03882 (1)
+* Colletotrichum orbiculare (strain 104-T / ATCC 96160 / CBS 514.97 / LARS 414 / MAFF 240422); [N4W2V3](http://www.uniprot.org/uniprot/N4W2V3)
+
+## GL (1)
+* Drosophila melanogaster; [P13496](http://www.uniprot.org/uniprot/P13496), [B5X0J0](http://www.uniprot.org/uniprot/B5X0J0), [Q8MT52](http://www.uniprot.org/uniprot/Q8MT52), [Q9VUA1](http://www.uniprot.org/uniprot/Q9VUA1)
+
+## KHC (1)
+* Drosophila melanogaster; [P17210](http://www.uniprot.org/uniprot/P17210), [Q9V7L9](http://www.uniprot.org/uniprot/Q9V7L9)
+
+## ARP2 (1)
+* Saccharomyces cerevisiae (strain ATCC 204508 / S288c); [P32381](http://www.uniprot.org/uniprot/P32381), [D6VRW3](http://www.uniprot.org/uniprot/D6VRW3)
+
+## DHC64C (1)
+* Drosophila melanogaster; [P37276](http://www.uniprot.org/uniprot/P37276), [Q8IRA5](http://www.uniprot.org/uniprot/Q8IRA5), [Q961M8](http://www.uniprot.org/uniprot/Q961M8), [Q9VZ83](http://www.uniprot.org/uniprot/Q9VZ83)
+
+## AIM21 (1)
+* Saccharomyces cerevisiae (strain ATCC 204508 / S288c); [P40563](http://www.uniprot.org/uniprot/P40563), [D6VVT3](http://www.uniprot.org/uniprot/D6VVT3)
+
+## LRPPRC (1)
+* Homo sapiens; [P42704](http://www.uniprot.org/uniprot/P42704), [A0PJE3](http://www.uniprot.org/uniprot/A0PJE3), [A8K1V1](http://www.uniprot.org/uniprot/A8K1V1), [Q53PC0](http://www.uniprot.org/uniprot/Q53PC0), [Q53QN7](http://www.uniprot.org/uniprot/Q53QN7), [Q6ZUD8](http://www.uniprot.org/uniprot/Q6ZUD8), [Q7Z7A6](http://www.uniprot.org/uniprot/Q7Z7A6), [Q96D84](http://www.uniprot.org/uniprot/Q96D84)
+
+## JSN1 (1)
+* Saccharomyces cerevisiae (strain ATCC 204508 / S288c); [P47135](http://www.uniprot.org/uniprot/P47135), [D6VWQ9](http://www.uniprot.org/uniprot/D6VWQ9)
+
+## N333_06614 (1)
+* Nestor notabilis; [A0A091S4R7](http://www.uniprot.org/uniprot/A0A091S4R7)
+
+## JAR (1)
+* Drosophila melanogaster; [Q01989](http://www.uniprot.org/uniprot/Q01989), [A4V3C6](http://www.uniprot.org/uniprot/A4V3C6), [Q59DV3](http://www.uniprot.org/uniprot/Q59DV3), [Q59DV4](http://www.uniprot.org/uniprot/Q59DV4), [Q9VCA4](http://www.uniprot.org/uniprot/Q9VCA4)
+
+## ARC18 (1)
+* Saccharomyces cerevisiae (strain ATCC 204508 / S288c); [Q05933](http://www.uniprot.org/uniprot/Q05933), [D6VZ07](http://www.uniprot.org/uniprot/D6VZ07)
+
+## DNM1 (1)
+* Schizosaccharomyces pombe (strain 972 / ATCC 24843); [Q09748](http://www.uniprot.org/uniprot/Q09748)
+
+## ATEG_09806 (1)
+* Aspergillus terreus (strain NIH 2624 / FGSC A1156); [Q0C928](http://www.uniprot.org/uniprot/Q0C928)
+
+## ATEG_00536 (1)
+* Aspergillus terreus (strain NIH 2624 / FGSC A1156); [Q0D0J8](http://www.uniprot.org/uniprot/Q0D0J8)
+
+## PINK1 (1)
+* Drosophila melanogaster; [Q0KHV6](http://www.uniprot.org/uniprot/Q0KHV6)
+
+## SNOG_15180 (1)
+* Phaeosphaeria nodorum (strain SN15 / ATCC MYA-4574 / FGSC 10173); [Q0TZ50](http://www.uniprot.org/uniprot/Q0TZ50)
+
+## N334_06715 (1)
+* Pelecanus crispus; [A0A091SKS9](http://www.uniprot.org/uniprot/A0A091SKS9)
+
+## AO090010000776 (1)
+* Aspergillus oryzae (strain ATCC 42149 / RIB 40); [Q2TVY0](http://www.uniprot.org/uniprot/Q2TVY0)
+
+## AO090012000548 (1)
+* Aspergillus oryzae (strain ATCC 42149 / RIB 40); [Q2UCK6](http://www.uniprot.org/uniprot/Q2UCK6)
+
+## AO090003001338 (1)
+* Aspergillus oryzae (strain ATCC 42149 / RIB 40); [Q2UJ67](http://www.uniprot.org/uniprot/Q2UJ67)
+
+## GSTENG00024065001 (1)
+* Tetraodon nigroviridis; [Q4S4S0](http://www.uniprot.org/uniprot/Q4S4S0)
+
+## AFUA_8G02840 (1)
+* Neosartorya fumigata (strain ATCC MYA-4609 / Af293 / CBS 101355 / FGSC A1100); [Q4WBM7](http://www.uniprot.org/uniprot/Q4WBM7)
+
+## AFUA_5G01860 (1)
+* Neosartorya fumigata (strain ATCC MYA-4609 / Af293 / CBS 101355 / FGSC A1100); [Q4WE59](http://www.uniprot.org/uniprot/Q4WE59)
+
+## AN8874.2 (1)
+* Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139); [Q5AS56](http://www.uniprot.org/uniprot/Q5AS56), [C8VLU8](http://www.uniprot.org/uniprot/C8VLU8)
+
+## CNC01680 (1)
+* Cryptococcus neoformans var. neoformans serotype D (strain JEC21 / ATCC MYA-565); [Q5KKV8](http://www.uniprot.org/uniprot/Q5KKV8), [Q55VC7](http://www.uniprot.org/uniprot/Q55VC7)
+
+## DKFZP459P0951 (1)
+* Pongo abelii; [Q5RBC2](http://www.uniprot.org/uniprot/Q5RBC2)
+
+## MYO19 (1)
+* Mus musculus; [Q5SV80](http://www.uniprot.org/uniprot/Q5SV80), [Q8BH54](http://www.uniprot.org/uniprot/Q8BH54), [Q9D2Z3](http://www.uniprot.org/uniprot/Q9D2Z3)
+
+## Y956_05281 (1)
+* Nipponia nippon; [A0A091US71](http://www.uniprot.org/uniprot/A0A091US71)
+
+## MAP1S (1)
+* Homo sapiens; [Q66K74](http://www.uniprot.org/uniprot/Q66K74), [B4DH53](http://www.uniprot.org/uniprot/B4DH53), [Q27QB1](http://www.uniprot.org/uniprot/Q27QB1), [Q6NXF1](http://www.uniprot.org/uniprot/Q6NXF1), [Q8N3L8](http://www.uniprot.org/uniprot/Q8N3L8), [Q8N3W5](http://www.uniprot.org/uniprot/Q8N3W5), [Q8NI88](http://www.uniprot.org/uniprot/Q8NI88), [Q96H94](http://www.uniprot.org/uniprot/Q96H94), [Q96IT4](http://www.uniprot.org/uniprot/Q96IT4), [Q96SP8](http://www.uniprot.org/uniprot/Q96SP8), [Q9BRC6](http://www.uniprot.org/uniprot/Q9BRC6), [Q9H928](http://www.uniprot.org/uniprot/Q9H928), [Q9NVK7](http://www.uniprot.org/uniprot/Q9NVK7)
+
+## YALI0_F16379G (1)
+* Yarrowia lipolytica (strain CLIB 122 / E 150); [Q6C1G8](http://www.uniprot.org/uniprot/Q6C1G8)
+
+## YALI0_B20240G (1)
+* Yarrowia lipolytica (strain CLIB 122 / E 150); [Q6CDY5](http://www.uniprot.org/uniprot/Q6CDY5)
+
+## RHOT1A (1)
+* Danio rerio; [Q6NVC5](http://www.uniprot.org/uniprot/Q6NVC5), [Q803L2](http://www.uniprot.org/uniprot/Q803L2)
+
+## AGOS_AAL174C (1)
+* Ashbya gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056); [Q75F90](http://www.uniprot.org/uniprot/Q75F90)
+
+## NCU09808 (1)
+* Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987); [Q7SDJ3](http://www.uniprot.org/uniprot/Q7SDJ3)
+
+## M959_15097 (1)
+* Chaetura pelagica; [A0A093BES2](http://www.uniprot.org/uniprot/A0A093BES2)
+
+## UXT (1)
+* Homo sapiens; [Q9UBK9](http://www.uniprot.org/uniprot/Q9UBK9), [B2R561](http://www.uniprot.org/uniprot/B2R561), [Q5JZG3](http://www.uniprot.org/uniprot/Q5JZG3), [Q9Y6E5](http://www.uniprot.org/uniprot/Q9Y6E5)
+
+## FFUJ_01514 (1)
+* Gibberella fujikuroi (strain CBS 195.34 / IMI 58289 / NRRL A-6831); [S0DIF9](http://www.uniprot.org/uniprot/S0DIF9)
+
+## FFUJ_01817 (1)
+* Gibberella fujikuroi (strain CBS 195.34 / IMI 58289 / NRRL A-6831); [S0DPQ0](http://www.uniprot.org/uniprot/S0DPQ0)
+
+## FFUJ_09971 (1)
+* Gibberella fujikuroi (strain CBS 195.34 / IMI 58289 / NRRL A-6831); [S0ELS1](http://www.uniprot.org/uniprot/S0ELS1)
+
+## D623_10017198 (1)
+* Myotis brandtii; [S7N2R5](http://www.uniprot.org/uniprot/S7N2R5)
+
+## SOCG_00353 (1)
+* Schizosaccharomyces octosporus (strain yFS286); [S9R2K6](http://www.uniprot.org/uniprot/S9R2K6)
+
+## SPOG_02152 (1)
+* Schizosaccharomyces cryophilus (strain OY26 / ATCC MYA-4695 / CBS 11777 / NBRC 106824 / NRRL Y48691); [S9VZ07](http://www.uniprot.org/uniprot/S9VZ07)
+
+## SPOG_02780 (1)
+* Schizosaccharomyces cryophilus (strain OY26 / ATCC MYA-4695 / CBS 11777 / NBRC 106824 / NRRL Y48691); [S9XA35](http://www.uniprot.org/uniprot/S9XA35)
+
+## MVLG_00138 (1)
+* Microbotryum violaceum (strain p1A1 Lamole); [U5GY67](http://www.uniprot.org/uniprot/U5GY67)
+
+## MVLG_01207 (1)
+* Microbotryum violaceum (strain p1A1 Lamole); [U5H1F0](http://www.uniprot.org/uniprot/U5H1F0)
+
+## MVLG_02893 (1)
+* Microbotryum violaceum (strain p1A1 Lamole); [U5H6J3](http://www.uniprot.org/uniprot/U5H6J3)
+
+## FVEG_01451 (1)
+* Gibberella moniliformis (strain M3125 / FGSC 7600); [W7LRM4](http://www.uniprot.org/uniprot/W7LRM4)
+
+## FVEG_09692 (1)
+* Gibberella moniliformis (strain M3125 / FGSC 7600); [W7MFS1](http://www.uniprot.org/uniprot/W7MFS1)
+
+## AFUA_1G13330 (1)
+* Neosartorya fumigata (strain ATCC MYA-4609 / Af293 / CBS 101355 / FGSC A1100); [E9R082](http://www.uniprot.org/uniprot/E9R082)
