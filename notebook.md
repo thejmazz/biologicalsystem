@@ -313,3 +313,11 @@ Kinesin-like protein
 * Interacts (via C-terminus end of the kinesin-motor domain) with CHP1; the interaction occurs in a calcium-dependent manner (By similarity). Interacts with KBP
 
 ![kif1b-string](img/kif1b-string.png)
+
+**UBB**
+
+Polyubiquitin-B
+
+human: [P0CG47](http://www.uniprot.org/uniprot/P0CG47)
+
+* in a ton of processes, as expected
