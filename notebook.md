@@ -451,7 +451,42 @@ Human: [A0A024R670](http://www.uniprot.org/uniprot/A0A024R670)
 
 * TM domain
 
-!(synj2bp-string)[img/synj2bp-string.png]
+!(synj2bp-string)[img/SYNJ2BP-string.png]
+
+### [GO:0000001][GO:0000001] (mitochondrion inheritance)
+
+* MDM12
+
+**MYO2**
+
+Myosin-2
+
+Yeast: [P19524](http://www.uniprot.org/uniprot/P19524)
+
+**YPT11**
+
+GTP-binding protein YPT11
+
+Yeast: [P48559](http://www.uniprot.org/uniprot/P48559)
+
+* Involved in the positive control of both endoplasmic reticulum (ER) and mitochondrion inheritance during cell divison. Required for the MYO2-dependent retention of newly inherited mitochondria at the bud tip in developing daughter cells. [UNIPROT]
+
+**MMR1**
+
+Mitochondrial MYO2 receptor-related protein 1
+
+Yeast: [Q06324](http://www.uniprot.org/uniprot/Q06324)
+
+* Involved in the guiding of mitochondrial tubules to the bud tip during cell division [UNIPROT]
+* Interacts with MYO2 and PCL7
+
+**ARP2**
+
+Actin-related protein 2
+
+Yeast: [P32381](http://www.uniprot.org/uniprot/P32381)
+
+* Functions as ATP-binding component of the Arp2/3 complex which is involved in regulation of actin polymerization and together with an activating nucleation-promoting factor (NPF) mediates the formation of branched actin networks. Seems to contact the pointed end of the daughter actin filament (By similarity). [UNIPROT]
 
 [GO:0051646]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051646
 [GO:0051659]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051659
