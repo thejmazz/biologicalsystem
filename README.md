@@ -130,7 +130,7 @@ Key associated GO terms (process ontology)
 
 Has 3 children
 
-* [GO:0051659][GO:0051659] (maintenance of mitochondrion localization) [25]
+* [GO:0051659][GO:0051659] (maintenance of mitochondrion localization) [188]
   * [GO:1990456][GO:1990456] (mitochondrion-ER tethering) [108]
 * [GO:0051654][GO:0051654] (establishment of mitochondrion localization) [457]
   * [GO:0034642][GO:0034642] (mitochondrial migration along actin filament) [3]

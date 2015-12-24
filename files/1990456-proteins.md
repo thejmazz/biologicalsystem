@@ -1,0 +1,176 @@
+
+## MMM1 (25)
+* Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1); [A1CM86](http://www.uniprot.org/uniprot/A1CM86)
+* Aspergillus niger (strain CBS 513.88 / FGSC A1513); [A2R4N0](http://www.uniprot.org/uniprot/A2R4N0)
+* Pyrenophora tritici-repentis (strain Pt-1C-BFP); [B2VVB9](http://www.uniprot.org/uniprot/B2VVB9)
+* Schizosaccharomyces japonicus (strain yFS275 / FY16936); [B6K6N3](http://www.uniprot.org/uniprot/B6K6N3)
+* Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / NRRL 3357 / JCM 12722 / SRRC 167); [B8NDR8](http://www.uniprot.org/uniprot/B8NDR8)
+* Komagataella pastoris (strain GS115 / ATCC 20864); [C4R892](http://www.uniprot.org/uniprot/C4R892)
+* Nectria haematococca (strain 77-13-4 / ATCC MYA-4622 / FGSC 9596 / MPVI); [C7Z9Y7](http://www.uniprot.org/uniprot/C7Z9Y7)
+* Puccinia graminis f. sp. tritici (strain CRL 75-36-700-3 / race SCCL); [E3K0I8](http://www.uniprot.org/uniprot/E3K0I8)
+* Colletotrichum graminicola (strain M1.001 / M2 / FGSC 10212); [E3QCS9](http://www.uniprot.org/uniprot/E3QCS9)
+* Sporisorium reilianum (strain SRZ2); [E6ZM03](http://www.uniprot.org/uniprot/E6ZM03)
+* Melampsora larici-populina (strain 98AG31 / pathotype 3-4-7); [F4S4Q0](http://www.uniprot.org/uniprot/F4S4Q0)
+* Hypocrea virens (strain Gv29-8 / FGSC 10586); [G9N6I7](http://www.uniprot.org/uniprot/G9N6I7)
+* Colletotrichum higginsianum (strain IMI 349063); [H1UXQ7](http://www.uniprot.org/uniprot/H1UXQ7)
+* Gibberella zeae (strain PH-1 / ATCC MYA-4620 / FGSC 9075 / NRRL 31084); [I1RFV5](http://www.uniprot.org/uniprot/I1RFV5)
+* Fusarium pseudograminearum (strain CS3096); [K3VWW9](http://www.uniprot.org/uniprot/K3VWW9)
+* Colletotrichum gloeosporioides (strain Nara gc5); [L2FC10](http://www.uniprot.org/uniprot/L2FC10)
+* Blumeria graminis f. sp. hordei (strain DH14); [N1JIJ0](http://www.uniprot.org/uniprot/N1JIJ0)
+* Colletotrichum orbiculare (strain 104-T / ATCC 96160 / CBS 514.97 / LARS 414 / MAFF 240422); [N4VYZ0](http://www.uniprot.org/uniprot/N4VYZ0)
+* Saccharomyces cerevisiae (strain ATCC 204508 / S288c); [P41800](http://www.uniprot.org/uniprot/P41800), [D6VXZ7](http://www.uniprot.org/uniprot/D6VXZ7)
+* Aspergillus oryzae (strain ATCC 42149 / RIB 40); [Q2U9A7](http://www.uniprot.org/uniprot/Q2U9A7)
+* Neosartorya fumigata (strain ATCC MYA-4609 / Af293 / CBS 101355 / FGSC A1100); [Q4WDE0](http://www.uniprot.org/uniprot/Q4WDE0)
+* Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139); [Q5AQA2](http://www.uniprot.org/uniprot/Q5AQA2), [C8V0W0](http://www.uniprot.org/uniprot/C8V0W0)
+* Gibberella fujikuroi (strain CBS 195.34 / IMI 58289 / NRRL A-6831); [S0E9Y1](http://www.uniprot.org/uniprot/S0E9Y1)
+* Schizosaccharomyces cryophilus (strain OY26 / ATCC MYA-4695 / CBS 11777 / NBRC 106824 / NRRL Y48691); [S9WX27](http://www.uniprot.org/uniprot/S9WX27)
+* Gibberella moniliformis (strain M3125 / FGSC 7600); [W7MFH3](http://www.uniprot.org/uniprot/W7MFH3)
+
+## MDM12 (23)
+* Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1); [A1CNY1](http://www.uniprot.org/uniprot/A1CNY1)
+* Aspergillus niger (strain CBS 513.88 / FGSC A1513); [A2QAU8](http://www.uniprot.org/uniprot/A2QAU8)
+* Neosartorya fumigata (strain CEA10 / CBS 144.89 / FGSC A1163); [B0XN24](http://www.uniprot.org/uniprot/B0XN24)
+* Pyrenophora tritici-repentis (strain Pt-1C-BFP); [B2W543](http://www.uniprot.org/uniprot/B2W543)
+* Schizosaccharomyces japonicus (strain yFS275 / FY16936); [B6K4Z5](http://www.uniprot.org/uniprot/B6K4Z5)
+* Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / NRRL 3357 / JCM 12722 / SRRC 167); [B8MZJ8](http://www.uniprot.org/uniprot/B8MZJ8)
+* Komagataella pastoris (strain GS115 / ATCC 20864); [C4R415](http://www.uniprot.org/uniprot/C4R415)
+* Colletotrichum graminicola (strain M1.001 / M2 / FGSC 10212); [E3Q4B7](http://www.uniprot.org/uniprot/E3Q4B7)
+* Leptosphaeria maculans (strain JN3 / isolate v23.1.3 / race Av1-4-5-6-7-8); [E5A270](http://www.uniprot.org/uniprot/E5A270)
+* Sporisorium reilianum (strain SRZ2); [E6ZX08](http://www.uniprot.org/uniprot/E6ZX08)
+* Zymoseptoria tritici (strain CBS 115943 / IPO323); [F9WXT7](http://www.uniprot.org/uniprot/F9WXT7)
+* Colletotrichum higginsianum (strain IMI 349063); [H1V8P7](http://www.uniprot.org/uniprot/H1V8P7)
+* Gibberella zeae (strain PH-1 / ATCC MYA-4620 / FGSC 9075 / NRRL 31084); [I1S4H6](http://www.uniprot.org/uniprot/I1S4H6)
+* Fusarium pseudograminearum (strain CS3096); [K3VKU0](http://www.uniprot.org/uniprot/K3VKU0)
+* Colletotrichum gloeosporioides (strain Nara gc5); [L2G9G3](http://www.uniprot.org/uniprot/L2G9G3)
+* Blumeria graminis f. sp. hordei (strain DH14); [N1JIQ5](http://www.uniprot.org/uniprot/N1JIQ5)
+* Colletotrichum orbiculare (strain 104-T / ATCC 96160 / CBS 514.97 / LARS 414 / MAFF 240422); [N4V4H8](http://www.uniprot.org/uniprot/N4V4H8)
+* Ustilago maydis (strain 521 / FGSC 9021); [Q4PEB4](http://www.uniprot.org/uniprot/Q4PEB4), [A0A0D1E2J7](http://www.uniprot.org/uniprot/A0A0D1E2J7)
+* Neosartorya fumigata (strain ATCC MYA-4609 / Af293 / CBS 101355 / FGSC A1100); [Q4WRX2](http://www.uniprot.org/uniprot/Q4WRX2)
+* Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139); [Q5BF59](http://www.uniprot.org/uniprot/Q5BF59), [C8VQF4](http://www.uniprot.org/uniprot/C8VQF4)
+* Saccharomyces cerevisiae (strain ATCC 204508 / S288c); [Q92328](http://www.uniprot.org/uniprot/Q92328), [D6W258](http://www.uniprot.org/uniprot/D6W258), [Q08064](http://www.uniprot.org/uniprot/Q08064)
+* Gibberella fujikuroi (strain CBS 195.34 / IMI 58289 / NRRL A-6831); [S0DKS4](http://www.uniprot.org/uniprot/S0DKS4)
+* Schizosaccharomyces cryophilus (strain OY26 / ATCC MYA-4695 / CBS 11777 / NBRC 106824 / NRRL Y48691); [S9VMJ4](http://www.uniprot.org/uniprot/S9VMJ4)
+
+## MDM10 (17)
+* Gibberella zeae; [A0A016PYY2](http://www.uniprot.org/uniprot/A0A016PYY2)
+* Komagataella pastoris (strain GS115 / ATCC 20864); [C4QWJ4](http://www.uniprot.org/uniprot/C4QWJ4)
+* Nectria haematococca (strain 77-13-4 / ATCC MYA-4622 / FGSC 9596 / MPVI); [C7Z9M3](http://www.uniprot.org/uniprot/C7Z9M3)
+* Puccinia graminis f. sp. tritici (strain CRL 75-36-700-3 / race SCCL); [E3K8T7](http://www.uniprot.org/uniprot/E3K8T7)
+* Colletotrichum graminicola (strain M1.001 / M2 / FGSC 10212); [E3Q2D2](http://www.uniprot.org/uniprot/E3Q2D2)
+* Leptosphaeria maculans (strain JN3 / isolate v23.1.3 / race Av1-4-5-6-7-8); [E4ZZ76](http://www.uniprot.org/uniprot/E4ZZ76)
+* Melampsora larici-populina (strain 98AG31 / pathotype 3-4-7); [F4S1G3](http://www.uniprot.org/uniprot/F4S1G3)
+* Zymoseptoria tritici (strain CBS 115943 / IPO323); [F9X4C9](http://www.uniprot.org/uniprot/F9X4C9)
+* Hypocrea virens (strain Gv29-8 / FGSC 10586); [G9MVX8](http://www.uniprot.org/uniprot/G9MVX8)
+* Colletotrichum higginsianum (strain IMI 349063); [H1VN63](http://www.uniprot.org/uniprot/H1VN63)
+* Gibberella zeae (strain PH-1 / ATCC MYA-4620 / FGSC 9075 / NRRL 31084); [I1RFV0](http://www.uniprot.org/uniprot/I1RFV0)
+* Fusarium pseudograminearum (strain CS3096); [K3VET1](http://www.uniprot.org/uniprot/K3VET1)
+* Blumeria graminis f. sp. hordei (strain DH14); [N1JHI9](http://www.uniprot.org/uniprot/N1JHI9)
+* Colletotrichum orbiculare (strain 104-T / ATCC 96160 / CBS 514.97 / LARS 414 / MAFF 240422); [N4VVG2](http://www.uniprot.org/uniprot/N4VVG2)
+* Saccharomyces cerevisiae (strain ATCC 204508 / S288c); [P18409](http://www.uniprot.org/uniprot/P18409), [D6VPK8](http://www.uniprot.org/uniprot/D6VPK8)
+* Ustilago maydis (strain 521 / FGSC 9021); [Q4PEP6](http://www.uniprot.org/uniprot/Q4PEP6), [A0A0D1CER6](http://www.uniprot.org/uniprot/A0A0D1CER6)
+* Gibberella fujikuroi (strain CBS 195.34 / IMI 58289 / NRRL A-6831); [S0E372](http://www.uniprot.org/uniprot/S0E372)
+
+## MDMB (8)
+* Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1); [A1CBT0](http://www.uniprot.org/uniprot/A1CBT0)
+* Aspergillus niger (strain CBS 513.88 / FGSC A1513); [A2R3N6](http://www.uniprot.org/uniprot/A2R3N6)
+* Neosartorya fumigata (strain CEA10 / CBS 144.89 / FGSC A1163); [B0Y240](http://www.uniprot.org/uniprot/B0Y240)
+* Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / NRRL 3357 / JCM 12722 / SRRC 167); [B8NM08](http://www.uniprot.org/uniprot/B8NM08)
+* Aspergillus terreus (strain NIH 2624 / FGSC A1156); [Q0CJH2](http://www.uniprot.org/uniprot/Q0CJH2)
+* Aspergillus oryzae (strain ATCC 42149 / RIB 40); [Q2U5V7](http://www.uniprot.org/uniprot/Q2U5V7)
+* Neosartorya fumigata (strain ATCC MYA-4609 / Af293 / CBS 101355 / FGSC A1100); [Q4WVV6](http://www.uniprot.org/uniprot/Q4WVV6)
+* Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139); [Q8J0L4](http://www.uniprot.org/uniprot/Q8J0L4), [C8V2X8](http://www.uniprot.org/uniprot/C8V2X8), [Q5AXS9](http://www.uniprot.org/uniprot/Q5AXS9)
+
+## GEM1 (6)
+* Saccharomyces cerevisiae (strain ATCC 204508 / S288c); [P39722](http://www.uniprot.org/uniprot/P39722), [D6VPG8](http://www.uniprot.org/uniprot/D6VPG8)
+* Aspergillus oryzae (strain ATCC 42149 / RIB 40); [Q2UM43](http://www.uniprot.org/uniprot/Q2UM43)
+* Gibberella zeae (strain PH-1 / ATCC MYA-4620 / FGSC 9075 / NRRL 31084); [Q4I2W2](http://www.uniprot.org/uniprot/Q4I2W2), [V6RLP7](http://www.uniprot.org/uniprot/V6RLP7)
+* Ustilago maydis (strain 521 / FGSC 9021); [Q4PB75](http://www.uniprot.org/uniprot/Q4PB75), [A0A0D1E4A5](http://www.uniprot.org/uniprot/A0A0D1E4A5)
+* Neosartorya fumigata (strain ATCC MYA-4609 / Af293 / CBS 101355 / FGSC A1100); [Q4WN24](http://www.uniprot.org/uniprot/Q4WN24)
+* Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139); [Q5B5L3](http://www.uniprot.org/uniprot/Q5B5L3), [C8V4P6](http://www.uniprot.org/uniprot/C8V4P6)
+
+## AN11G02760 (1)
+* Aspergillus niger (strain CBS 513.88 / FGSC A1513); [A2QVV3](http://www.uniprot.org/uniprot/A2QVV3)
+
+## AFUB_073850 (1)
+* Neosartorya fumigata (strain CEA10 / CBS 144.89 / FGSC A1163); [B0Y7H7](http://www.uniprot.org/uniprot/B0Y7H7)
+
+## PTRG_06002 (1)
+* Pyrenophora tritici-repentis (strain Pt-1C-BFP); [B2W864](http://www.uniprot.org/uniprot/B2W864)
+
+## PTRG_06818 (1)
+* Pyrenophora tritici-repentis (strain Pt-1C-BFP); [B2WA10](http://www.uniprot.org/uniprot/B2WA10)
+
+## SJAG_01929 (1)
+* Schizosaccharomyces japonicus (strain yFS275 / FY16936); [B6JZA2](http://www.uniprot.org/uniprot/B6JZA2)
+
+## AFLA_036590 (1)
+* Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / NRRL 3357 / JCM 12722 / SRRC 167); [B8N4F6](http://www.uniprot.org/uniprot/B8N4F6)
+
+## PAS_CHR3_0698 (1)
+* Komagataella pastoris (strain GS115 / ATCC 20864); [C4R5B1](http://www.uniprot.org/uniprot/C4R5B1)
+
+## NECHADRAFT_77817 (1)
+* Nectria haematococca (strain 77-13-4 / ATCC MYA-4622 / FGSC 9596 / MPVI); [C7YMB0](http://www.uniprot.org/uniprot/C7YMB0)
+
+## PGTG_12291 (1)
+* Puccinia graminis f. sp. tritici (strain CRL 75-36-700-3 / race SCCL); [E3KPV0](http://www.uniprot.org/uniprot/E3KPV0)
+
+## GLRG_05418 (1)
+* Colletotrichum graminicola (strain M1.001 / M2 / FGSC 10212); [E3QHB2](http://www.uniprot.org/uniprot/E3QHB2)
+
+## LEMA_P082460.1 (1)
+* Leptosphaeria maculans (strain JN3 / isolate v23.1.3 / race Av1-4-5-6-7-8); [E5A5W2](http://www.uniprot.org/uniprot/E5A5W2)
+
+## LEMA_P018630.1 (1)
+* Leptosphaeria maculans (strain JN3 / isolate v23.1.3 / race Av1-4-5-6-7-8); [E5AAP2](http://www.uniprot.org/uniprot/E5AAP2)
+
+## FVEG_02115 (1)
+* Gibberella moniliformis (strain M3125 / FGSC 7600); [W7M2P2](http://www.uniprot.org/uniprot/W7M2P2)
+
+## MYCGRDRAFT_71330 (1)
+* Zymoseptoria tritici (strain CBS 115943 / IPO323); [F9X9N5](http://www.uniprot.org/uniprot/F9X9N5)
+
+## MYCGRDRAFT_61558 (1)
+* Zymoseptoria tritici (strain CBS 115943 / IPO323); [F9XHL7](http://www.uniprot.org/uniprot/F9XHL7)
+
+## TRIVIDRAFT_67465 (1)
+* Hypocrea virens (strain Gv29-8 / FGSC 10586); [G9MPL1](http://www.uniprot.org/uniprot/G9MPL1)
+
+## FPSE_05662 (1)
+* Fusarium pseudograminearum (strain CS3096); [K3W0H5](http://www.uniprot.org/uniprot/K3W0H5)
+
+## CGGC5_5192 (1)
+* Colletotrichum gloeosporioides (strain Nara gc5); [L2G8U8](http://www.uniprot.org/uniprot/L2G8U8)
+
+## BGHDH14_BGH04907 (1)
+* Blumeria graminis f. sp. hordei (strain DH14); [N1JHH3](http://www.uniprot.org/uniprot/N1JHH3)
+
+## COB_09859 (1)
+* Colletotrichum orbiculare (strain 104-T / ATCC 96160 / CBS 514.97 / LARS 414 / MAFF 240422); [N4VCM2](http://www.uniprot.org/uniprot/N4VCM2)
+
+## ACLA_082780 (1)
+* Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1); [A1CTF0](http://www.uniprot.org/uniprot/A1CTF0)
+
+## MDM34 (1)
+* Saccharomyces cerevisiae (strain ATCC 204508 / S288c); [P53083](http://www.uniprot.org/uniprot/P53083), [D6VTT9](http://www.uniprot.org/uniprot/D6VTT9)
+
+## ATEG_05872 (1)
+* Aspergillus terreus (strain NIH 2624 / FGSC A1156); [Q0CKB2](http://www.uniprot.org/uniprot/Q0CKB2)
+
+## FFUJ_06065 (1)
+* Gibberella fujikuroi (strain CBS 195.34 / IMI 58289 / NRRL A-6831); [S0E7B9](http://www.uniprot.org/uniprot/S0E7B9)
+
+## MVLG_00138 (1)
+* Microbotryum violaceum (strain p1A1 Lamole); [U5GY67](http://www.uniprot.org/uniprot/U5GY67)
+
+## MVLG_02046 (1)
+* Microbotryum violaceum (strain p1A1 Lamole); [U5H3Z4](http://www.uniprot.org/uniprot/U5H3Z4)
+
+## MVLG_03330 (1)
+* Microbotryum violaceum (strain p1A1 Lamole); [U5H7W0](http://www.uniprot.org/uniprot/U5H7W0)
+
+## MVLG_04598 (1)
+* Microbotryum violaceum (strain p1A1 Lamole); [U5HBQ1](http://www.uniprot.org/uniprot/U5HBQ1)
+
+## MELLADRAFT_116192 (1)
+* Melampsora larici-populina (strain 98AG31 / pathotype 3-4-7); [F4RIP0](http://www.uniprot.org/uniprot/F4RIP0)
