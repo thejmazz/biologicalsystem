@@ -378,12 +378,6 @@ Mitochondrial distribution and morphology protein 12
 
 Yeast: [Q92328](http://www.uniprot.org/uniprot/Q92328)
 
-**MDM10**
-
-Mitochondrial distribution and morphology protein 10
-
-Yeast: [P18409](http://www.uniprot.org/uniprot/P18409)
-
 ### [GO:0051659][GO:0051659] (maintenance of mitochondrion localization)
 
 **ALB**
@@ -525,6 +519,46 @@ Caytaxin
 Human: [http://www.uniprot.org/uniprot/Q86WG3](http://www.uniprot.org/uniprot/Q86WG3)
 
 * Functions in the development of neural tissues, particularly the postnatal maturation of the cerebellar cortex. May play a role in neurotransmission through regulation of glutaminase/GLS, an enzyme responsible for the production in neurons of the glutamate neurotransmitter. Alternatively, may regulate the localization of mitochondria within axons and dendrites. [UNIPROT]
+
+### Summary of first pool
+
+I collected 28 genes from 10 GO terms on the first pass. These are,
+
+| Gene       | Description                                           |
+|:-----------|:------------------------------------------------------|
+| Rhot2      | Mitochondrial Rho GTPase 2                            |
+| Rhot1      | ""                                                    |
+| MAPT       | Microtubule-associated protein tau                    |
+| MAP1B      | Microtubule-associated protein 1B                     |
+| KIF1B      | Kinesin-like protein                                  |
+| UBB        | Polyubiquitin-B                                       |
+| AIM21      | Altered inheritance of mitochondria protein 21        |
+| Myo19      | Unconventional myosin-XIX                             |
+| MYO2       | Myosin-2                                              |
+| PVRL2      | Nectin-2                                              |
+| MDM10      | Mitochondrial distribution and morphology protein 10  |
+| MDM12      | Mitochondrial distribution and morphology protein 12  |
+| MILT       | Trafficking kinesin-binding protein milt              |
+| MMM1       | Maintenance of mitochondrial morphology protein 1     |
+| ALB        | Serum albumin                                         |
+| ATP2A1     | Sarcoplasmic/endoplasmic reticulum calcium ATPase 1   |
+| CLU1, CLUH | Clustered mitochondria protein homolog                |
+| LRRK2      | Leucine-rich repeat serine/threonine-protein kinase 2 |
+| BHLHA15    | Class A basic helix-loop-helix protein 15             |
+| SYNJ2BP    | Synaptojanin 2 binding protein, isoform CRA_a         |
+| YPT11      | GTP-binding protein YPT11                             |
+| MMR1       | Mitochondrial MYO2 receptor-related protein 1         |
+| ARP2       | Actin-related protein 2                               |
+| MTM1       | Myotubularin                                          |
+| MEF2A      | Myocyte-specific enhancer factor 2A                   |
+| MSTO1      | Protein misato homolog 1                              |
+| ATCAY      | Caytaxin                                              |
+
+Next steps will be to assign roles and create functional connections between
+these genes. Two interesting specific systems could be
+* mitochondrial localization in neurons
+* mitochondrial localization during cell division
+as genes from both of these specific systems have been found thus far.
 
 [GO:0051646]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051646
 [GO:0051659]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051659
