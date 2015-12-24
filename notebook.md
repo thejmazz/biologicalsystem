@@ -363,7 +363,7 @@ Fly: [Q960V3](http://www.uniprot.org/uniprot/Q960V3)
 
 ![milt-string](img/milt-string.png)
 
-### [GO:1990456][GO:1990456] (mitochondrion-ER tethering) [108]
+### [GO:1990456][GO:1990456] (mitochondrion-ER tethering)
 
 **MMM1**
 
@@ -382,7 +382,7 @@ Yeast: [Q92328](http://www.uniprot.org/uniprot/Q92328)
 
 Mitochondrial distribution and morphology protein 10
 
-Yeast: [P18409][http://www.uniprot.org/uniprot/P18409]
+Yeast: [P18409](http://www.uniprot.org/uniprot/P18409)
 
 ### [GO:0051659][GO:0051659] (maintenance of mitochondrion localization)
 
@@ -403,6 +403,55 @@ Human: [O14983](http://www.uniprot.org/uniprot/O14983)
 
 * Key regulator of striated muscle performance by acting as the major Ca2+ ATPase responsible for the reuptake of cytosolic Ca2+ into the sarcoplasmic reticulum. Catalyzes the hydrolysis of ATP coupled with the translocation of calcium from the cytosol to the sarcoplasmic reticulum lumen. Contributes to calcium sequestration involved in muscular excitation/contraction. [UNIPROT]
 * in a lot of processes
+
+### [GO:0048312][GO:0048312] (intracellular distribution of mitochondria)
+
+**CLU1**
+
+Clustered mitochondria protein homolog
+
+Yeast: [A0A023ZF76](http://www.uniprot.org/uniprot/A0A023ZF76)
+
+* mRNA-binding protein involved in proper cytoplasmic distribution of mitochondria
+* May associate with the eukaryotic translation initiation factor 3 (eIF-3) complex.
+* RNA binding [UNIPROT]
+
+**CLUH**
+
+Clustered mitochondria protein homolog
+
+Human: [I3L2B0](http://www.uniprot.org/uniprot/I3L2B0)
+[string](http://string-db.org/newstring_cgi/show_network_section.pl?identifier=9606.ENSP00000388872)
+KIAA0664 below:
+
+![cluh-string](img/cluh-string)
+
+**LRRK2**
+
+Leucine-rich repeat serine/threonine-protein kinase 2
+
+Human: [Q5S007](http://www.uniprot.org/uniprot/Q5S007)
+
+* Positively regulates autophagy through a calcium-dependent activation of the CaMKK/AMPK signaling pathway. The process involves activation of nicotinic acid adenine dinucleotide phosphate (NAADP) receptors, increase in lysosomal pH, and calcium release from lysosomes. Together with RAB29, plays a role in the retrograde trafficking pathway for recycling proteins, such as mannose 6 phosphate receptor (M6PR), between lysosomes and the Golgi apparatus in a retromer-dependent manner. Regulates neuronal process morphology in the intact central nervous system (CNS). Plays a role in synaptic vesicle trafficking. Phosphorylates PRDX3. Has GTPase activity. May play a role in the phosphorylation of proteins central to Parkinson disease. [UNIPROT]
+* lots of processes
+
+**BHLHA15**
+
+Class A basic helix-loop-helix protein 15
+
+Human: [Q7RTS1](http://www.uniprot.org/uniprot/Q7RTS1)
+
+* Plays a role in controlling the transcriptional activity of MYOD1, ensuring that expanding myoblast populations remain undifferentiated. Repression may occur through muscle-specific E-box occupancy by homodimers. May also negatively regulate bHLH-mediated transcription through an N-terminal repressor domain. Serves as a key regulator of acinar cell function, stability, and identity. Also required for normal organelle localization in exocrine cells and for mitochondrial calcium ion transport. May function as a unique regulator of gene expression in several different embryonic and postnatal cell lineages. Binds to the E-box consensus sequence 5'-CANNTG-3' (By similarity). [UNIPROT]
+
+**SYNJ2BP**
+
+Synaptojanin 2 binding protein, isoform CRA_a
+
+Human: [A0A024R670](http://www.uniprot.org/uniprot/A0A024R670)
+
+* TM domain
+
+!(synj2bp-string)[img/synj2bp-string.png]
 
 [GO:0051646]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051646
 [GO:0051659]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051659
