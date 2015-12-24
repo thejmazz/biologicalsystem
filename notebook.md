@@ -321,3 +321,23 @@ Polyubiquitin-B
 human: [P0CG47](http://www.uniprot.org/uniprot/P0CG47)
 
 * in a ton of processes, as expected
+
+### [GO:0034642][GO:0034642] (mitochondrial migration along actin filament)
+
+**AIM21**
+
+Altered inheritance of mitochondria protein 21
+
+Yeast: [P40563](http://www.uniprot.org/uniprot/P40563)
+
+* Involved in mitochondrial migration along actin filaments [UNIPROT]
+* cytoskeleton > actin patch
+* Interacts with ribosomes. Interacts with ABP1
+
+**Myo19**
+
+Unconventional myosin-XIX
+
+Mouse: [Q5SV80](http://www.uniprot.org/uniprot/Q5SV80)
+
+* mitochondrion outer membrane
