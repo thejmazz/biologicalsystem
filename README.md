@@ -134,7 +134,7 @@ Has 3 children
   * [GO:1990456][GO:1990456] (mitochondrion-ER tethering) [108]
 * [GO:0051654][GO:0051654] (establishment of mitochondrion localization) [457]
   * [GO:0034642][GO:0034642] (mitochondrial migration along actin filament) [3]
-  * [GO:0034643][GO:0034643] (establishment of mitochondrial localization, microtubule mediated) [25]
+  * [GO:0034643][GO:0034643] (establishment of mitochondrial localization, microtubule mediated) [339]
     * [GO:0034640][GO:0034640] (establishment of mitochondrion localization by microtubule attachment) [0]
     * [GO:0047497][GO:0047497] (mitochondrion transport along microtubule) [304]
   * [GO:0090146][GO:0090146] (establishment of mitochondrial localization involved in mitochondrial fission) [0]
