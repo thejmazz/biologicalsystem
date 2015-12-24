@@ -384,6 +384,25 @@ Mitochondrial distribution and morphology protein 10
 
 Yeast: [P18409][http://www.uniprot.org/uniprot/P18409]
 
+### [GO:0051659][GO:0051659] (maintenance of mitochondrion localization)
+
+**ALB**
+
+Serum albumin
+
+Human: [P02768](http://www.uniprot.org/uniprot/P02768)
+
+* Serum albumin, the main protein of plasma, has a good binding capacity for water, Ca2+, Na+, K+, fatty acids, hormones, bilirubin and drugs. Its main function is the regulation of the colloidal osmotic pressure of blood. Major zinc transporter in plasma, typically binds about 80% of all plasma zinc. [UNIPROT]
+* in a lot of processes..
+
+**ATP2A1**
+
+Sarcoplasmic/endoplasmic reticulum calcium ATPase 1
+
+Human: [O14983](http://www.uniprot.org/uniprot/O14983)
+
+* Key regulator of striated muscle performance by acting as the major Ca2+ ATPase responsible for the reuptake of cytosolic Ca2+ into the sarcoplasmic reticulum. Catalyzes the hydrolysis of ATP coupled with the translocation of calcium from the cytosol to the sarcoplasmic reticulum lumen. Contributes to calcium sequestration involved in muscular excitation/contraction. [UNIPROT]
+* in a lot of processes
 
 [GO:0051646]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051646
 [GO:0051659]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051659
