@@ -469,11 +469,14 @@ Next steps will be to assign roles and create functional connections between the
 - as genes from both of these specific systems have been found thus far.
 
 ## 2015/12/24
-Began by annotating the above with more details, retrieved from original notes and via further inspection:
+
+Began by annotating the above with more details, retrieved from original notes
+and via further inspection (and added notes for new ones):
 
 | Gene  | Location                                                                                                          | Functions                                                                   | Interactions                                                                                                                                                                                                                                                                                                                         | SR                                                                                   |
-|-------|-------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+|:------|:------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------|
 | Rhot2 | [Mitochondrion outer membrane][mot], [Single-pass type IV membrane protein][tm4] ([Fransson, 2003][fransson2003]) | calcium ion binding, GTPase activity (InterPro), GTP binding (UniProtKB-KW) | Colocalizes with **MGARP** at the mitochondria. Interacts with **TRAK1** ([Fransson, 2006][fransson2006]) and **TRAK2**, forming a link b/w mitochondria and the thafficking apparatus of the microtubules (by similarity).Colocalizes with **MGARP** at the mitochondria. Interacts with **TRAK1** ([Fransson, 2006][fransson2006]) | [ID:0000007] assemble components; [ID:0000019] set or [ID:0000022] integrate signals |
+| MGARP | Mitochondrion ([Zhou, 2011][zhou2011]), Mitochondrion outer membrane (by similarity)                              | Toplogical domain in cytop;asm and inner mitochondrial membrane             | RHOT1/Miro-1, TRAK1, TRAK2 (similarity). Rhot2/MIRO-2 ([Li, 2009][li2009])                                                                                                                                                                                                                                                           | [ID:0000008] localize compontents; [ID:0000020] regulate |                           |
 
 
 [obo-format]: http://oboformat.googlecode.com/svn/trunk/doc/GO.format.obo-1_2.html
@@ -487,6 +490,17 @@ Began by annotating the above with more details, retrieved from original notes a
 [tm4]: http://www.uniprot.org/locations/SL-9908
 [fransson2003]: http://www.jbc.org/content/278/8/6495
 [fransson2006]: http://www.ncbi.nlm.nih.gov/pubmed/16630562
+[zhou2011]: http://press.endocrine.org/doi/abs/10.1210/en.2011-0050
+[li2009]: http://dx.doi.org/10.1083/jcb.200811033
+
+**MGARP**
+
+Plays a role in the trafficking of mitochondria along microtubules. Regulates
+the kinesin-mediated axonal transport of mitochondria to nerve terminals along
+microtubules during hypoxia. Participates in the translocation of TRAK2/GRIF1
+from the cytoplasm to the mitochondrion. Also plays a role in steroidogenesis
+through maintenance of mitochondrial abundance and morphology (By similarity)
+
 
 
 
