@@ -254,6 +254,7 @@ Human: [Q8IXI1](http://www.uniprot.org/uniprot/Q8IXI1)
 [rhot2-string](http://string-db.org/newstring_cgi/show_network_section.pl?identifier=9606.ENSP00000321971)
 
 ![rhot2-string](img/rhot2-string.png)
+![rhot2-intact](img/rhot2-intact.png)
 
 **Rhot1**
 
@@ -565,13 +566,18 @@ as genes from both of these specific systems have been found thus far.
 Began by annotating the above with more details, retrieved from original notes
 and via further inspection:
 
-| Gene  | Location                                                                                                        | Functions                                                                   | Interaction                                                                                                                                                                                             |
-|-------|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Rhot2 | [Mitochondrion outer membrane][mot], [Single-pass type IV membrane protein][tm4] ([Franson, 2003][franson2003]) | calcium ion binding, GTPase activity (InterPro), GTP binding (UniProtKB-KW) | Colocalizes with **MGARP** and **RHOT2** at the mitochondria. Interacts with **TRAK1** and **TRAK2**, forming a link b/w mitochondria and the trafficking apparatus of the microtubules (by similarity) |
+| Gene  | Location                                    | Functions                   | Interaction                                                              | SR                                |
+|-------|---------------------------------------------|-----------------------------|--------------------------------------------------------------------------|-----------------------------------|
+| Rhot2 | [Mitochondrion outer membrane][mot],        | calcium ion binding,        | Colocalizes with **MGARP** at the mitochondria.                          | [ID:0000007] assemble components; |
+|       | [Single-pass type IV membrane protein][tm4] | GTPase activity (InterPro), | Interacts with **TRAK1** ([Fransson, 2006][fransson2006]) and **TRAK2**, | [ID:0000019] set or               |
+|       | ([Franson, 2003][franson2003])              | GTP binding (UniProtKB-KW)  | forming a link b/w mitochondria and the trafficking apparatus            | [ID:0000022] integrate signals    |
+|       |                                             |                             | of the microtubules (by similarity)                                      |                                   |
+
 
 [mot]: http://www.uniprot.org/locations/SL-0172
 [tm4]: http://www.uniprot.org/locations/SL-9908
 [franson2003]: http://www.jbc.org/content/278/8/6495
+[franson2006]: http://www.ncbi.nlm.nih.gov/pubmed/16630562
 
 [GO:0051646]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051646
 [GO:0051659]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051659
