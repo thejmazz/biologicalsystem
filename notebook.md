@@ -216,6 +216,11 @@ Human: [P10636](http://www.uniprot.org/uniprot/P10636)
 - cytosol, cell membrane, cytoskeleton
 - Interacts with PSMC2 through SQSTM1 (By similarity). Interacts with SQSTM1 when polyubiquitinated. Interacts with FKBP4 (By similarity). Binds to CSNK1D. Interacts with SGK1. Interacts with EPM2A; the interaction dephosphorylates MAPT at Ser-396. [UNIPROT]
 
+Abnormally hyper-phosphorylated in dementia. ([Yoshida, 2012][yoshida2012])
+Expressed in neurons, Isoform [PNS-tau](http://www.uniprot.org/uniprot/P10636#P10636) expressed in PNS.
+
+[yoshida2012]: http://dx.doi.org/10.1111/j.1471-4159.2011.07523.x
+
 ![mapt-string](img/mapt-string.png)
 
 **MAP1B**
@@ -478,7 +483,10 @@ and via further inspection (and added notes for new ones):
 | Rhot2/Rhot1 | Mitochondrion outer membrane, Single-pass type IV membrane protein ([Fransson, 2003][fransson2003]) | calcium ion binding, GTPase activity (InterPro), GTP binding (UniProtKB-KW) | Colocalizes with **MGARP** at the mitochondria. Interacts with **TRAK1** ([Fransson, 2006][fransson2006]) and **TRAK2**, forming a link b/w mitochondria and the thafficking apparatus of the microtubules (by similarity). | [ID:0000007] assemble components; [ID:0000019] set or [ID:0000022] integrate signals |
 | MGARP       | Mitochondrion ([Zhou, 2011][zhou2011]), Mitochondrion outer membrane (by similarity)                | Topological domain in cytop;asm and inner mitochondrial membrane            | RHOT1/Miro-1, TRAK1, TRAK2 (similarity). Rhot2/MIRO-2 ([Li, 2009][li2009])                                                                                                                                                  | [ID:0000008] localize compontents; [ID:0000020] regulate                             |
 | TRAK1/TRAK2 | Predominantly associated w/ early endosome. Colocalizes w/ MGARP at mitochondrion.                  | trafficking ([Webber. 2008][webber2008])                                    | O-GlcNAc transferase, Rhot1/Miro-1, Rhot2/Miro2 [Fransson, 2006][fransson2006], HGS, KIF5C                                                                                                                                  | [ID:0000021] output, [ID:0000017] transmit                                           |
+| MAPT        | cytosol, axons (mostly), association w/ membrane ([Maas, 2000][maas2000])                           | C binds axonal microtubules, N binds PM                                     | SGK1 ([Yang, 2006][yang2006])                                                                                                                                                                                               | assemble, localize, set                                                              |
 
+[yang2006]: http://dx.doi.org/10.1128/MCB.01017-06
+[maas2000]: http://dx.doi.org/10.1074/jbc.M000389200
 [obo-format]: http://oboformat.googlecode.com/svn/trunk/doc/GO.format.obo-1_2.html
 [graphql]: http://graphql.org
 [graphql-draft]: http://facebook.github.io/graphql/
