@@ -473,11 +473,11 @@ Next steps will be to assign roles and create functional connections between the
 Began by annotating the above with more details, retrieved from original notes
 and via further inspection (and added notes for new ones):
 
-| Gene  | Location                                                                                                          | Functions                                                                   | Interactions                                                                                                                                                                                                                                                                                                                         | SR                                                                                   |
-|:------|:------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------|
-| Rhot2 | [Mitochondrion outer membrane][mot], [Single-pass type IV membrane protein][tm4] ([Fransson, 2003][fransson2003]) | calcium ion binding, GTPase activity (InterPro), GTP binding (UniProtKB-KW) | Colocalizes with **MGARP** at the mitochondria. Interacts with **TRAK1** ([Fransson, 2006][fransson2006]) and **TRAK2**, forming a link b/w mitochondria and the thafficking apparatus of the microtubules (by similarity).Colocalizes with **MGARP** at the mitochondria. Interacts with **TRAK1** ([Fransson, 2006][fransson2006]) | [ID:0000007] assemble components; [ID:0000019] set or [ID:0000022] integrate signals |
-| MGARP | Mitochondrion ([Zhou, 2011][zhou2011]), Mitochondrion outer membrane (by similarity)                              | Toplogical domain in cytop;asm and inner mitochondrial membrane             | RHOT1/Miro-1, TRAK1, TRAK2 (similarity). Rhot2/MIRO-2 ([Li, 2009][li2009])                                                                                                                                                                                                                                                           | [ID:0000008] localize compontents; [ID:0000020] regulate |                           |
-
+| Gene        | Location                                                                                            | Functions                                                                   | Interactions                                                                                                                                                                                                                | SR                                                                                   |
+|:------------|:----------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------|
+| Rhot2/Rhot1 | Mitochondrion outer membrane, Single-pass type IV membrane protein ([Fransson, 2003][fransson2003]) | calcium ion binding, GTPase activity (InterPro), GTP binding (UniProtKB-KW) | Colocalizes with **MGARP** at the mitochondria. Interacts with **TRAK1** ([Fransson, 2006][fransson2006]) and **TRAK2**, forming a link b/w mitochondria and the thafficking apparatus of the microtubules (by similarity). | [ID:0000007] assemble components; [ID:0000019] set or [ID:0000022] integrate signals |
+| MGARP       | Mitochondrion ([Zhou, 2011][zhou2011]), Mitochondrion outer membrane (by similarity)                | Topological domain in cytop;asm and inner mitochondrial membrane            | RHOT1/Miro-1, TRAK1, TRAK2 (similarity). Rhot2/MIRO-2 ([Li, 2009][li2009])                                                                                                                                                  | [ID:0000008] localize compontents; [ID:0000020] regulate                             |
+| TRAK1/TRAK2 | Predominantly associated w/ early endosome. Colocalizes w/ MGARP at mitochondrion.                  | trafficking ([Webber. 2008][webber2008])                                    | O-GlcNAc transferase, Rhot1/Miro-1, Rhot2/Miro2 [Fransson, 2006][fransson2006], HGS, KIF5C                                                                                                                                  | [ID:0000021] output, [ID:0000017] transmit                                           |
 
 [obo-format]: http://oboformat.googlecode.com/svn/trunk/doc/GO.format.obo-1_2.html
 [graphql]: http://graphql.org
@@ -492,6 +492,7 @@ and via further inspection (and added notes for new ones):
 [fransson2006]: http://www.ncbi.nlm.nih.gov/pubmed/16630562
 [zhou2011]: http://press.endocrine.org/doi/abs/10.1210/en.2011-0050
 [li2009]: http://dx.doi.org/10.1083/jcb.200811033
+[webber2008]: http://dx.doi.org/10.1016/j.jmb.2008.07.045
 
 **MGARP**
 
@@ -500,6 +501,17 @@ the kinesin-mediated axonal transport of mitochondria to nerve terminals along
 microtubules during hypoxia. Participates in the translocation of TRAK2/GRIF1
 from the cytoplasm to the mitochondrion. Also plays a role in steroidogenesis
 through maintenance of mitochondrial abundance and morphology (By similarity)
+
+**TRAK1**
+
+Involved in the regulation of endosome-to-lysosome trafficking, including
+endocytic trafficking of EGF-EGFR complexes and GABA-A receptors.
+
+High expression in spinal cord. ([Zhang, 2009][zhang2009])
+
+[zhang2009]: http://dx.doi.org/10.1016/j.canlet.2008.09.031
+
+Discovered new GO term: [axon transport of mitochondrion](http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0019896)
 
 
 
