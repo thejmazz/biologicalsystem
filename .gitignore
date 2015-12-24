@@ -1,3 +1,4 @@
+*.swp
 .DS_Store
 gene_association.goa_human
 go-basic.obo

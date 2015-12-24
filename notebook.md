@@ -172,7 +172,7 @@ top three for [GO:0047497][GO:0047497]. I also notice the first two letters of
 each ID appear to form a "prefix" of sorts - perhaps it best to filter by these
 as well.
 
-### [GO:0047497][[GO:0047497]] mitochondrion transport along microtubule
+### [GO:0047497][GO:0047497] mitochondrion transport along microtubule
 
 **Mitochondrial Rho GTPase 2**
 
@@ -559,6 +559,19 @@ these genes. Two interesting specific systems could be
 * mitochondrial localization in neurons
 * mitochondrial localization during cell division
 as genes from both of these specific systems have been found thus far.
+
+## 2015/12/24
+
+Began by annotating the above with more details, retrieved from original notes
+and via further inspection:
+
+| Gene  | Location                                                                                                        | Functions                                                                   | Interaction                                                                                                                                                                                             |
+|-------|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Rhot2 | [Mitochondrion outer membrane][mot], [Single-pass type IV membrane protein][tm4] ([Franson, 2003][franson2003]) | calcium ion binding, GTPase activity (InterPro), GTP binding (UniProtKB-KW) | Colocalizes with **MGARP** and **RHOT2** at the mitochondria. Interacts with **TRAK1** and **TRAK2**, forming a link b/w mitochondria and the trafficking apparatus of the microtubules (by similarity) |
+
+[mot]: http://www.uniprot.org/locations/SL-0172
+[tm4]: http://www.uniprot.org/locations/SL-9908
+[franson2003]: http://www.jbc.org/content/278/8/6495
 
 [GO:0051646]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051646
 [GO:0051659]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051659
