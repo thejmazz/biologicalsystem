@@ -238,6 +238,34 @@ into smaller pipeables
 [GO:0048312]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0048312
 [GO:0000001]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0000001
 
-Generated [0047497-proteins.md](https://github.com/thejmazz/biologicalsystem/blob/master/files/0047497-proteins.md) markdown.
+Generated [markdown files](https://github.com/thejmazz/biologicalsystem/tree/master/files) by running
+gasket pipeline with different GO IDs.
 
 Some GO terms have no protein annotations!
+
+Noted down "popular genes" from each markdown dump.
+
+### [GO:0047497][GO:0047497] (mitochondrion transport along microtubule)
+
+**Rhot2**
+
+Mitochondrial Rho GTPase 2
+
+Human: [Q8IXI1](http://www.uniprot.org/uniprot/Q8IXI1)
+
+* Mitochondrial GTPase involved in mitochondrial trafficking. Probably involved
+  in control of anterograde transport of mitochondria and their subcellular
+  distribution (By similarity).
+* 3 NT binding domains, then 2 calcium binding domains, then 3 NT binding domains
+* 2 pubs. supporting subcellular location of
+  * mitochondrion outer membrane
+  * single-pass type IV membrane protein
+* InInteracts with the kinesin-binding proteins TRAK1/OIP106 and TRAK2/GRIF1,
+  forming a link between mitochondria and the trafficking apparatus of the
+  microtubules (by similarity) [UNIPROT]
+* Probably involved in control of anterograde transport of mitochondria and
+  their subcellular distribution (By similarity) [STRING]
+
+[rhot2-string](http://string-db.org/newstring_cgi/show_network_section.pl?identifier=9606.ENSP00000321971)
+
+![rhot2-string](img/rhot2-string.png)
