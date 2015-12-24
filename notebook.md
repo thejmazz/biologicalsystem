@@ -269,3 +269,11 @@ Human: [Q8IXI1](http://www.uniprot.org/uniprot/Q8IXI1)
 [rhot2-string](http://string-db.org/newstring_cgi/show_network_section.pl?identifier=9606.ENSP00000321971)
 
 ![rhot2-string](img/rhot2-string.png)
+
+**Rhot1**
+
+Human: [Q8IXI2](http://www.uniprot.org/uniprot/Q8IXI2)
+
+* colocalizes with MGARP and RHOT2 at the mitochondria
+
+![rhot1-string](img/rhot1-string)
