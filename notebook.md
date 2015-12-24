@@ -223,21 +223,6 @@ into smaller pipeables
 
 ![filtered-sorted](img/filtered-sorted.png)
 
-
-[GO:0051646]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051646
-[GO:0051659]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051659
-[GO:1990456]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:1990456
-[GO:0051654]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051654
-[GO:1990456]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:1990456
-[GO:0034643]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0034643
-[GO:0034640]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0034640
-[GO:0047497]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0047497
-[GO:0090146]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0090146
-[GO:0090147]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0090147
-[GO:0048311]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0048311
-[GO:0048312]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0048312
-[GO:0000001]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0000001
-
 Generated [markdown files](https://github.com/thejmazz/biologicalsystem/tree/master/files) by running
 gasket pipeline with different GO IDs.
 
@@ -341,3 +326,56 @@ Unconventional myosin-XIX
 Mouse: [Q5SV80](http://www.uniprot.org/uniprot/Q5SV80)
 
 * mitochondrion outer membrane
+
+### [GO:0034643][GO:0034643] (establishment of mitochondrial localization, microtubule mediated)
+
+* basically the same proteins as "mitochondrion transport along microtubule"
+
+### [GO:0051654][GO:0051654] (establishment of mitochondrion localization)
+
+**PVRL2**
+
+Nectin-2
+
+Human: [Q92692](http://www.uniprot.org/uniprot/Q92692)
+
+* probable cell adhesion protein
+* (Microbial infection) Acts as a receptor for herpes simplex virus 1 (HHV-1) mutant Rid1, herpes simplex virus 1 (HHV-2) and pseudorabies virus (PRV)
+* annotated as 0051654 by ensemble electronic annotation
+
+**MDM10**
+
+Mitochondrial distribution and morphology protine 10
+
+Yeast: [P18409](http://www.uniprot.org/uniprot/P18409)
+
+* Component of the ERMES/MDM complex, which serves as a molecular tether to connect the endoplasmic reticulum and mitochondria. Components of this complex are involved in the control of mitochondrial shape and protein biogenesis and may function in phospholipid exchange. MDM10 is involved in the late assembly steps of the general translocase of the mitochondrial outer membrane (TOM complex). Functions in the TOM40-specific route of the assembly of outer membrane beta-barrel proteins, including the association of TOM40 with the receptor TOM22 and small TOM proteins. Can associate with the SAM(core) complex as well as the MDM12-MMM1 complex, both involved in late steps of the major beta-barrel assembly pathway, that is responsible for biogenesis of all outer membrane beta-barrel proteins. May act as a switch that shuttles between both complexes and channels precursor proteins into the TOM40-specific pathway. Plays a role in mitochondrial morphology and in the inheritance of mitochondria [UNIPROT]
+* Component of the ER-mitochondria encounter structure (ERMES) or MDM complex, composed of MMM1, MDM10, MDM12 and MDM34. Associates with the mitochondrial outer membrane sorting assembly machinery SAM(core) complex, which consists of SAM35, SAM37 and SAM50, to form a SAM(holo) complex.
+
+**MILT**
+
+Trafficking kinesin-binding protein milt
+
+Fly: [Q960V3](http://www.uniprot.org/uniprot/Q960V3)
+
+* Required for kinesin-mediated axonal transport of mitochondria to nerve terminals. The oocyte acquires the majority of its mitochondria by competitive bidirectional transport along microtubules mediated by the Milton adapter. Mitochondria enter the young oocyte en mass from interconnected germ cells to generate the large aggregate known as the Balbiani body. Milt and Miro form an essential protein complex that links Khc to mitochondria for light chain-independent, anterograde transport of mitochondria [UNIPROT]
+* Interacts with Miro. Note=Mitochondrial transport by milt and Khc is independent of Klc.
+
+![milt-string](img/milt-string.png)
+
+
+
+
+[GO:0051646]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051646
+[GO:0051659]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051659
+[GO:1990456]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:1990456
+[GO:0051654]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051654
+[GO:1990456]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:1990456
+[GO:0034643]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0034643
+[GO:0034640]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0034640
+[GO:0047497]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0047497
+[GO:0090146]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0090146
+[GO:0090147]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0090147
+[GO:0048311]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0048311
+[GO:0048312]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0048312
+[GO:0000001]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0000001
