@@ -471,34 +471,10 @@ Next steps will be to assign roles and create functional connections between the
 ## 2015/12/24
 Began by annotating the above with more details, retrieved from original notes and via further inspection:
 
-<table>
-    <tbody>
-        <tr>
-            <th> Gene </th>
-            <th> Location </th>
-            <th> Functions </th>
-            <th> Interactions </th>
-            <th> SR </th>
-        </tr>
-        <tr>
-            <td> Rhot2s </td>
-            <td>
-               [Mitochondrion outer membrane][mot], [Single-pass type IV membrane protein][tm4] ([Fransson, 2003][fransson2003])
-            </td>
-            <td>
-              calcium ion binding, GTPase activity (InterPro), GTP binding (UniProtKB-KW)
-            </td>
-            <td>
-              Colocalizes with **MGARP** at the mitochondria. 
-              Interacts with **TRAK1** ([Fransson, 2006][fransson2006]) and **TRAK2**, forming a link b/w mitochondria and the thafficking apparatus of the microtubules (by similarity).
-            </td>
-            <td>
-              [ID:0000007] assemble components; 
-              [ID:0000019] set or [ID:0000022] integrate signals
-            </td>
-        </tr>
-    </tbody>
-</table>
+| Gene  | Location                                                                                                          | Functions                                                                   | Interactions                                                                                                                                                                                                                                                                                                                         | SR                                                                                   |
+|-------|-------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| Rhot2 | [Mitochondrion outer membrane][mot], [Single-pass type IV membrane protein][tm4] ([Fransson, 2003][fransson2003]) | calcium ion binding, GTPase activity (InterPro), GTP binding (UniProtKB-KW) | Colocalizes with **MGARP** at the mitochondria. Interacts with **TRAK1** ([Fransson, 2006][fransson2006]) and **TRAK2**, forming a link b/w mitochondria and the thafficking apparatus of the microtubules (by similarity).Colocalizes with **MGARP** at the mitochondria. Interacts with **TRAK1** ([Fransson, 2006][fransson2006]) | [ID:0000007] assemble components; [ID:0000019] set or [ID:0000022] integrate signals |
+
 
 [obo-format]: http://oboformat.googlecode.com/svn/trunk/doc/GO.format.obo-1_2.html
 [graphql]: http://graphql.org
