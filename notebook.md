@@ -559,8 +559,54 @@ cortex. When overexpressed, induces membrane ruffling accompanied by the
 accumulation of actin filaments along the altered plasma membrane (By
 similarity). Activates specifically RAC1, but not CDC42 and RHOA [UNIPROT]
 
+### Papers Notes
 
+__Atypical Rho GTPases Have Roles in Mitochondrial Homeostasis and Apoptosis*__
+_Åsa Fransson, Aino Ruusala, and Pontus Aspenstrom, 2002._
 
+- Miro-1/2 atypical: tandem GTP binding domains separated by a linker region containing EF hand motifs
+- present in mitochondria by immunolocalization
+- overexpression -> mitochondrial network aggregation, increased apoptotic rate
+
+__The GTPase dMiro Is Required for Axonal Transport of Mitochondria to Drosophila Synapses__
+_Xiufang Guo,1,6,7 Greg T. Macleod,1,5,7
+Andrea Wellington,1 Fangle Hu,1,3
+Sarvari Panchumarthi,1,3 Miriam Schoenfield,1,4 Leo Marin,5 Milton P. Charlton,5
+Harold L. Atwood,5 and Konrad E. Zinsmaier, 2005_
+
+- mitochondria in mutants accumulate in parallel rows in neuronal somata
+- gain of function causes abnormal accumulation in distal synaptic boutons of neuromascular junctions
+
+__The atypical Rho GTPases Miro-1 and Miro-2 have essential roles in mitochondrial trafficking__
+_Åsa Fransson, Aino Ruusala, and Pontus Aspenstrom, 2006._
+
+- Miro GTPase has C-term TM domain -> targeting to mitochondria
+- "clustering of mitochondria" from last paper, two distinct phenotypes:
+  - aggregated mitochondria (requires GTPase, but not EF hands)
+  - thread-like mitochondria (probably defects in trafficking)
+- Miro1 interactions with kinesin-binding proteins __GRIF-1__ and __OIP106__
+- suggests Miro GTPases form link b/w mitochondria and trafficking apparatus
+
+__GTPase dependent recruitment of Grif-1 by Miro1 regulates mitochondrial trafficking in hippocampal neurons__
+_Andrew F. MacAskill a, Kieran Brickley b, F. Anne Stephenson b, Josef T. Kittler, 2008_
+
+- local cellular energy demands, buffering intracellular calcium
+- kinesin -> mitochondrial trafficking has been demostrated (src?)
+- kinesin adapter Grif-1
+- "protein trafficking complex" Grif-1+Miro1 detected in mammalian brain, localised to neuronal mitochondria
+- Miro1 expression++ -> recruits Grif-1 to mitochondria
+
+__The Miro GTPases: At the heart of the mitochondrial transport machinery__
+_Katarina Reis, Åsa Fransson, and Pontus Aspenstrom, 2009._
+
+- Miro GTPases essential regulators of mitochondrial morphogenesis and trafficking
+- Ca2+ dep. sensors
+- diseases caused by deregulated mitochondrial dynamics
+
+__Serum- and Glucocorticoid-Inducible Kinase 1 (SGK1) Increases Neurite Formation through Microtubule Depolymerization by SGK1 and by SGK1 Phosphorylation of tau__
+_Ying C. Yang,1 Cheng H. Lin,2 and Eminy H. Y. Lee1, 2006._
+
+* SGK1 depolymerizes MTs, indirectly depolymerized MTs through phosphorylation of tau at Ser214
 
 [go:0051646]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051646
 [go:0051659]: http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0051659
