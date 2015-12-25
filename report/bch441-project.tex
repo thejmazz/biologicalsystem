@@ -32,6 +32,8 @@
 \def \SyRO {\href{https://github.com/hyginn/SyRO}{github.com/hyginn/SyRO}}
 \def \firstpool {\href{https://github.com/thejmazz/biologicalsystem/blob/master/notebook.md\#user-content-summary-of-first-pool}{notebook}}
 
+\newcommand{\uniprot}[1]{\href{http://www.uniprot.org/uniprot/#1}{#1}}
+
 \begin{document}
 
 \title{
@@ -175,6 +177,34 @@ UNIPROT, IntAct, and STRING. Those genes which did not make the cut can be seen
 through the \textit{Summary of first pool} in my \firstpool.
 
 \section{Gene Collection}
+
+\rowcolors{2}{white}{gray!25}
+\begin{tabularx}{\linewidth}{l l X X}
+  \textit{Gene} & \textit{Accession} & \textit{Name} & \textit{SyRO} \\
+  RHOT2 & \uniprot{Q8IXI1} & Mitochondrial Rho GTPase 2 & integrate, assemble \\
+  RHOT1 & \uniprot{Q8IXI2} & Mitochondrial Rho GTPase 1 & integrate, assemble \\
+  MGARP & \uniprot{Q8TDB4} & Mitochondria-localized glutamic acid-rich protein & regulate, localize components \\
+  TRAK1 & \uniprot{Q9UPV9} & Trafficking kinesin-binding protein 1 & transmit \\
+  TRAK2 & \uniprot{Q8IU62} & Trafficking protein, kinesin binding 2 & transmit \\
+  MAPT & \uniprot{P10636} & Microtubule-associated protein tau & dissassemble, localize, set \\
+  MAP1B & \uniprot{P46821} & Microtubule-associated protein 1B & assemble, integrate signals \\
+  TIAM2 & \uniprot{Q8IVF5} & T-lymphoma invasion and metastasis-inducing protein 2 & localize, modify, integrate signals \\
+  TTL & \uniprot{Q8NG68} & Tubulin--tyrosine ligase & modify, assemble \\
+  GAN & \uniprot{Q9H2C0} & Gigaxonin & decompose, tag, regulate \\
+  KIF1B & \uniprot{O60333} & Kinesin-like protein KIF1B & transmit, transform, maintain \\
+  AIM21 & \uniprot{P40563} (yeast) & Altered inheritance of mitochondria protein 21 & assemble, localize, integrate, transmit \\
+  MYO19 & \uniprot{Q5SV80} (mouse) & Unconventional myosin-XIX & maintain, transform \\
+  MDM10 & \uniprot{P18409} (yeast) & Mitochondrial distribution and morphology protein 10 & regulate, integrate, assemble, localize \\
+  PFDNS & \uniprot{Q99471} & Prefoldin subunit 5 & regulate, integrate, assemble, localize \\
+  MDM12 & \uniprot{Q92328} (yeast) & Mitochondrial distribution and morphology protein 12 & regulate, integrate, assemble, localize \\
+  MILT & \uniprot{Q960V3} (fly) & Trafficking kinesin-binding protein milt & assemble, localize, output, set \\
+  CLUH & \uniprot{I3L2B0} & Clustered mitochondria protein homolog & localize, set \\
+  BHLHA15 & \uniprot{Q7RTS1} & Class A basic helix-loop-helix protein 15 & synthesize, assemble, set \\
+  MTM1 & \uniprot{Q13496} & Myotubularin & set, localize, modify \\
+  MSTO1 & \uniprot{Q9BUK6} & Protein misato homolog 1 & set, maintain, transform \\
+  ATCAY & \uniprot{Q86WG3} & Caytaxin & regulate, assemble, transmit \\
+  KLCA1 & \uniprot{Q07866} & Kinesin light chain 1 & integrate, assemble \\
+\end{tabularx}
 
 \bibliography{biblio}
 
