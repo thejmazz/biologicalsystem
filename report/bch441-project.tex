@@ -29,6 +29,9 @@
 \def \goidm {\href{http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0048312}{GO:0048312} (intracellular distribution of mitochondria)}
 \def \gomi {\href{http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0000001}{GO:0000001} (mitochondrion inheritance)}
 
+\def \SyRO {\href{https://github.com/hyginn/SyRO}{github.com/hyginn/SyRO}}
+\def \firstpool {\href{https://github.com/thejmazz/biologicalsystem/blob/master/notebook.md\#user-content-summary-of-first-pool}{notebook}}
+
 \begin{document}
 
 \title{
@@ -50,8 +53,10 @@ Cover image (mitochondrion in Purkinje neuron) by Atlas of Ultrastructural Neuro
 }
 \end{center}
 
+\tableofcontents
+
 \begin{bottompar}
-\section*{Introduction}
+\section{Introduction}
 
 The ``powerhouse of the cell'' as it is so commonly called, the mitochondria is
 one of the most vital organelles in eukaryotes. This structure is thought to
@@ -65,7 +70,7 @@ localized within the cell as well.
 \end{bottompar}
 
 Images of isolated mitochondria were first observed in \citeyear{Lincoln1979}
-by \cite{Lincoln1979}:
+by \citeauthor{Lincoln1979}:
 
 \begin{center}
   \includegraphics[width=0.6\linewidth]{rhodamine-mitochondria}
@@ -76,16 +81,16 @@ globular to filamentous to networked structures. As well, the authors observed
 movement during 15-30 sec intervals, between fluorescent and phase-contrast
 photographs.
 
-It goes without a citation to say that the primary role of a mitochondrion is to
-supply energy to the cell in the form of ATP units, through the electron
-transport chain among the cristae. Where is that energy needed? Consider highly
-polar and elongated cells such as neurons. The cell body of a neuron is distant
-from its synaptic endings, where as it happens, large amounts of energy are
-required for neurotransmitter release and absorption. Following, we will
-investigate the \textbf{system} whose \textbf{functional role} is the
-\textbf{localization of mitochondrion within neurons}.
+The primary role of a mitochondrion is to supply energy to the cell in the form
+of ATP units, through the electron transport chain among the cristae. Where is
+that energy needed? Consider highly polar and elongated cells such as neurons.
+The cell body of a neuron is distant from its synaptic endings, where as it
+happens, large amounts of energy are required for neurotransmitter release and
+absorption. Following, we will investigate the \textbf{system} whose
+\textbf{functional role} is the \textbf{localization of mitochondrion within
+neurons}.
 
-\section*{The System}
+\section{The System}
 
 \begin{tabularx}{\linewidth}{l X}
   \textit{Name} & Localization/Trafficking of mitochondrion within neurons \\
@@ -131,21 +136,45 @@ movement in all cell types, there was a decent amount of related literature
 available, some elements of its processes had been recently elecidated, and it
 has important neurophysiological consequences. A review by \cite{Reis2009}
 explored the atypical Miro GTPases and their role in transporting mitochondria
-in neurons. The authors note that aberrant mitochondrial dynamics can contribute
+in neurons. The authors note that abnormal mitochondrial dynamics can contribute
 to Amyotropic Lateral Sclerosis (ALS), Huntington's, Parkinson's, and
 Alzheimer's diseases. A more recent experiment by \cite{Loss2015} examines the
 role of TRAK1 and TRAK2 kinesin adaptor proteins which link mitochondria to
 kinesin motor proteins. Furthermore, Miro proeins are expressed in a large
-variety of cell types, extending this current analysis to new domains
-\citep{Reis2009}.
+variety of cell types, potentially extending this current analysis to new
+domains \citep{Reis2009}.
 
-\subsection*{System Role Ontology}
+\subsection{Systems Role Ontology}
 
-With this goal in mind, I fetched, filtered, and discovered
-a set of genes for which are involved and cooperate in achieving this functional
-role.
+To define this system in a structured manner, I considered its functionality
+in the context of the Systems Roles Ontology, which can be found at \SyRO:
 
-\section*{Gene Collection}
+\begin{center}
+  \includegraphics[width=1\linewidth]{SyRO-2015-10-27}
+\end{center}
+
+\begin{tabularx}{\linewidth}{l l X}
+  \textit{\textcolor{grey}{Name}} & \textit{\textcolor{grey}{ID}} & \textit{\textcolor{grey}{Context Within Neuronal Mitochondrion Localization}} \\
+  \textbf{input} & \texttt{16} & compounds or signals prompting the directed movement of mitochondrion \\
+  \textbf{integrate signals} & \texttt{22} & machinery which directs input signals/compounds to the system \\
+  \textbf{output} & \texttt{21} & mitocondrion transport towards synaptic endings \\
+  \textbf{regulate} & \texttt{20} & components which ensure regular mitochondrial motility \\
+  \textbf{set} & \texttt{19} & preparing the functional units, ``setting the stage'' as it were  \\
+  \textbf{transform} & \texttt{18} & altering the system status so that it may be reversed, stopped, reinstated \\
+  \textbf{transmit} & \texttt{17} & the physical machinery to move mitochondria \\
+\end{tabularx} \\
+
+These functions collaborate to produce the \textbf{functional role} of
+localizing mitochondria \textbf{for the proper functioning of neural
+communication}. I will define the bounds of this system as any genes which can
+be annotated with the functional role annotations above. Structural role
+annotations will be considered second to function, and will be used largely to
+describe how that component physically determines its function. With this goal
+in mind, I fetched and filtered data from the Gene Ontology Consortium, QuickGO,
+UNIPROT, IntAct, and STRING. Those genes which did not make the cut can be seen
+through the \textit{Summary of first pool} in my \firstpool.
+
+\section{Gene Collection}
 
 \bibliography{biblio}
 
