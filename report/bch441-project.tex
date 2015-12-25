@@ -47,6 +47,7 @@ Neuronal Mitochondrion Trafficking \\
 
 \maketitle
 
+\begin{bottompar}
 \begin{center}
 \textit{
 The source code, notebook, and data pipeline can be found at
@@ -54,10 +55,11 @@ The source code, notebook, and data pipeline can be found at
 Cover image (mitochondrion in Purkinje neuron) by Atlas of Ultrastructural Neurocytology\footnote{\href{http://synapses.clm.utexas.edu/atlas/1_1_2_8.stm}{synapses.clm.utexas.edu/atlas/1\_1\_2\_8.stm}}
 }
 \end{center}
+\end{bottompar}
 
 \tableofcontents
 
-\begin{bottompar}
+
 \section{Introduction}
 
 The ``powerhouse of the cell'' as it is so commonly called, the mitochondria is
@@ -68,8 +70,6 @@ might expect its proper functioning to be absolutely vital, that is, knock-out
 mutants will not survive. This is true - but as we will see, it is not just the
 performance of this organelle which is centrally important, but where it is
 localized within the cell as well.
-
-\end{bottompar}
 
 Images of isolated mitochondria were first observed in \citeyear{Lincoln1979}
 by \citeauthor{Lincoln1979}:
@@ -184,10 +184,10 @@ through the \textit{Summary of first pool} in my \firstpool.
   RHOT2 & \uniprot{Q8IXI1} & Mitochondrial Rho GTPase 2 & integrate, assemble \\
   RHOT1 & \uniprot{Q8IXI2} & Mitochondrial Rho GTPase 1 & integrate, assemble \\
   MGARP & \uniprot{Q8TDB4} & Mitochondria-localized glutamic acid-rich protein & regulate, localize components \\
-  TRAK1 & \uniprot{Q9UPV9} & Trafficking kinesin-binding protein 1 & transmit \\
-  TRAK2 & \uniprot{Q8IU62} & Trafficking protein, kinesin binding 2 & transmit \\
-  MAPT & \uniprot{P10636} & Microtubule-associated protein tau & dissassemble, localize, set \\
-  MAP1B & \uniprot{P46821} & Microtubule-associated protein 1B & assemble, integrate signals \\
+  TRAK1 & \uniprot{Q9UPV9} & Trafficking kinesin-binding protein 1 & set \\
+  TRAK2 & \uniprot{Q8IU62} & Trafficking kinesin-binding protein 2 & set \\
+  MAPT & \uniprot{P10636} & Microtubule-associated protein tau & set, localize \\
+  MAP1B & \uniprot{P46821} & Microtubule-associated protein 1B & set, assemble, integrate signals \\
   TIAM2 & \uniprot{Q8IVF5} & T-lymphoma invasion and metastasis-inducing protein 2 & localize, modify, integrate signals \\
   TTL & \uniprot{Q8NG68} & Tubulin--tyrosine ligase & modify, assemble \\
   GAN & \uniprot{Q9H2C0} & Gigaxonin & decompose, tag, regulate \\
@@ -205,6 +205,66 @@ through the \textit{Summary of first pool} in my \firstpool.
   ATCAY & \uniprot{Q86WG3} & Caytaxin & regulate, assemble, transmit \\
   KLCA1 & \uniprot{Q07866} & Kinesin light chain 1 & integrate, assemble \\
 \end{tabularx}
+
+\subsection{Signal Integration}
+
+\subsubsection{RHOT2 \textit{Mitochondrial Rho GTPase 2}}
+
+\subsubsection{RHOT1 \textit{Mitochondrial Rho GTPase 1}}
+
+Ability to bind to TRAK1 not Ca2+ dep.
+
+\subsubsection{TIAM2 \textit{T-lymphoma invasion and metastasis-inducing protein 2}}
+
+\subsection{Set}
+
+\subsubsection{SYBU \textit{Syntabulin}}
+
+\subsubsection{MAPT \textit{Microtubule-associated protein tau}}
+
+\subsubsection{MAP1B \textit{Microtubule-associated protein 1B}}
+
+\subsubsection{CLU1 \textit{Clustered mitochondria protein homolog}}
+
+\subsubsection{MTM1 \textit{Myotubularin}}
+
+\subsection{Transmit}
+
+\subsubsection{TRAK1 \textit{Trafficking kinesin-binding protein 1}}
+
+Contains coiled-coiled domain.
+
+\subsubsection{TRAK2 \textit{Trafficking kinesin-binding protein 2}}
+
+Interact with GABA-A receptors.
+
+\subsubsection{BHLHA15 \textit{Class A basic helix-loop-helix protein 15}}
+
+\subsubsection{GABA \textit{Gamma-amino-N-butyrate transaminase}}
+
+\subsection{Transform}
+
+\subsubsection{TTL \textit{Tubulin--tyrosine ligase}}
+
+\subsubsection{GAN \textit{Gigaxonin}}
+
+\subsection{Regulate}
+
+\subsubsection{MGARP \textit{Mitochondria-localized glutamic acid-rich protein}}
+
+\subsubsection{MSTO1 \textit{Protein misato homolog 1}}
+
+\subsubsection{ATCAY \textit{Caytaxin}}
+
+\subsubsection{SNPH \textit{Syntaphilin}}
+
+\subsection{Output}
+
+\subsubsection{KIF1B \textit{Kinesin-like protein KIF1B}}
+
+\subsubsection{KIF5B \textit{Kinesin-1 heavy chain}}
+
+\subsubsection{KLC1 \textit{Kinesin light chain 1}}
 
 \bibliography{biblio}
 
