@@ -5,3 +5,12 @@ go-basic.obo
 node_modules
 data.dat
 files/*-proteins.json
+*.toc
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.pyg
+*.bbl
+*.blg
