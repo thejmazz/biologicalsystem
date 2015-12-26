@@ -43,7 +43,7 @@ Neuronal Mitochondrion Trafficking \\
 \small{\textit{BCH441 Project: Defining a System}}
 }
 \author{Julian Mazzitelli}
-\date{Dec. 25, 2015}
+\date{\today}
 
 \maketitle
 
@@ -179,7 +179,7 @@ through the \textit{Summary of first pool} in my \firstpool.
 \section{Gene Collection}
 
 \rowcolors{2}{white}{gray!25}
-\begin{tabularx}{\linewidth}{l l X X}
+\begin{tabularx}{\linewidth}{l l l X}
   \textit{Gene} & \textit{Accession} & \textit{Name} & \textit{SyRO} \\
   ATCAY & \uniprot{Q86WG3} & Caytaxin & regulate \\
   BHLHA15 & \uniprot{Q7RTS1} & Class A basic helix-loop-helix protein 15 & transmit \\
@@ -194,7 +194,6 @@ through the \textit{Summary of first pool} in my \firstpool.
   MGARP & \uniprot{Q8TDB4} & Mitochondria-localized glutamic acid-rich protein & regulate \\
   MTM1 & \uniprot{Q13496} & Myotubularin & set \\
   MSTO1 & \uniprot{Q9BUK6} & Protein misato homolog 1 & regulate \\
-  PFDNS & \uniprot{Q99471} & Prefoldin subunit 5 & regulate, integrate, assemble, localize \\
   RHOT1 & \uniprot{Q8IXI2} & Mitochondrial Rho GTPase 1 & integrate signals \\
   RHOT2 & \uniprot{Q8IXI1} & Mitochondrial Rho GTPase 2 & integrate signals \\
   SNPH & \uniprot{O15079} & Syntaphilin & regulate \\
@@ -207,63 +206,157 @@ through the \textit{Summary of first pool} in my \firstpool.
 
 \subsection{Signal Integration}
 
-\subsubsection{RHOT1 \textit{Mitochondrial Rho GTPase 1}}
+\subsubsection{RHOT1, RHOT2 \textit{Mitochondrial Rho GTPase 1, 2}}
 
-Ability to bind to TRAK1 not Ca2+ dep.
+RHOT1 and RHOT2, which are also known as MIRO1 and MIRO2, were first reported as
+a new family of Rho GTPases with in \citeyear{Fransson2003} by
+\citeauthor{Fransson2003}. An NCBI CDD search presents us with a two GTPase
+domains each terminus, with two EF hands in between. The C terminal TM domain
+targets this protein to the mitochondria.
 
-\subsubsection{RHOT2 \textit{Mitochondrial Rho GTPase 2}}
+\begin{figure}[h]
+  \includegraphics[width=1.0\linewidth]{Rhot-CDD}
+\end{figure}
 
+NTPases are a large superfamily and operate in a large variety of systems. The
+on/off state of these proteins confers their ability to integrate signals into a
+pathway. In this way we can observe that whichever is activiting Rhot, Rhot is
+integrating that signal downwards to its effector. \citeauthor{Fransson2003}
+also observed an interesting property: overexpression of Miro1/Val-13 led to
+an aggregation of the mitochondrial network. The same authors separated this
+response into two distinct phenotypes later in \citeyear{Fransson2006}. They
+observed that Miro-1 induced aggregration and thread-like mitochondria, whereas
+Miro-2 only induced aggregation. \citeauthor{Fransson2006} also demonstrated
+interactions of Miro with GRIF-1 (TRAK2) and OIP106 (TRAK1), trafficking
+kinesin binding proteins.
+
+% Ability to bind to TRAK1 not Ca2+ dep.
+
+% TODO move to regulation?
 \subsubsection{TIAM2 \textit{T-lymphoma invasion and metastasis-inducing protein 2}}
+
+TIAM2 regulates the activity of RHO-like proteins (UNIPROT). This is confirmed
+with the existence of a GEF domain from the CDD.
+
+\begin{figure}[h]
+  \includegraphics[width=1.0\linewidth]{TIAM2-CDD}
+\end{figure}
+
+In this way TIAM2 has the ability to activate Rhot. TIAM2 has also been shown to
+promote the migration of neurons in the cerebral cortex (UNIPROT).
 
 \subsection{Set}
 
 \subsubsection{CLUH \textit{Clustered mitochondria protein homolog}}
 
+A CDD search with CLU1 from yeast presents the CLU domain (CLUstered
+mitochondria). This domain is required for mitochondrial positioning and
+transport; improper function can lead to mitochondrion clustering at the
+microtubule plus ends (CDD).
+
 \subsubsection{MAP1B \textit{Microtubule-associated protein 1B}}
+
+By similarity, MAP1B facilitates tyrosination of $\alpha$-tubulin in
+neuronal microtubules. Interacts with TIAM2 and TTL (UNIPROT). IntAct
+suggests an interaction with GAN.
+
+\begin{center}
+  \includegraphics[width=0.5\linewidth]{MAP1B-IntAct}
+\end{center}
 
 \subsubsection{MAPT \textit{Microtubule-associated protein tau}}
 
+CDD for MAPT presents tubulin binding repeat domains. MAPT is expected to
+stablize microtubules and potentially establish and maintain neuronal polarity
+(UNIPROT).
+
+\begin{center}
+  \includegraphics[width=1.0\linewidth]{MAPT-CDD}
+\end{center}
+
 \subsubsection{MTM1 \textit{Myotubularin}}
 
+\cite{Hnia2011} observed that decreased MTM1 expression and mutations
+induced abnormal mitochondrial positioning, shape, dynamics, and function.
+
 \subsubsection{SYBU \textit{Syntabulin}}
+
+SYBU belongs to a kinesin motor-adapter complex. It is critical for forward
+axonal transport (UNIPROT). STRING demonstrates binding interactions with
+KIF5B, which in turn binds with KIF5A and TRAK2, of which both bind TRAK1.
+
+\begin{center}
+  \includegraphics[width=0.5\linewidth]{SYBU-STRING}
+\end{center}
 
 \subsection{Transmit}
 
 \subsubsection{BHLHA15 \textit{Class A basic helix-loop-helix protein 15}}
 
+Required for mitochondrial calcium ion transport (UNIPROT).
+
 \subsubsection{GABA \textit{Gamma-amino-N-butyrate transaminase}}
+
+GABA is located within the mitochondrial matrix (UNIPROT).
 
 \subsubsection{TRAK1 \textit{Trafficking kinesin-binding protein 1}}
 
-Contains coiled-coiled domain.
+Trafficking of GABA-A receptors (UNIPROT). Contains coiled-coiled domain. STRING
+corroborates with interactions for SYBU above.
+
+\begin{center}
+  \includegraphics[width=0.5\linewidth]{SYBU-STRING}
+\end{center}
 
 \subsubsection{TRAK2 \textit{Trafficking kinesin-binding protein 2}}
 
-Interact with GABA-A receptors.
+% TODO explore Milton
+Milton domain. Interact with GABA-A receptors.
 
 \subsection{Transform}
 
 \subsubsection{GAN \textit{Gigaxonin}}
 
+Controls degredation of MAP1B and MAP1S; critical for neuronal maintenance and
+surival (UNIPROT).
+
 \subsubsection{TTL \textit{Tubulin--tyrosine ligase}}
+
+ATP + detyrosinated alpha-tubulin + L-tyrosine = alpha-tubulin + ADP + phosphate
 
 \subsection{Regulate}
 
 \subsubsection{ATCAY \textit{Caytaxin}}
 
+May regulate the localization of mitochondria within axons and dendrites
+(UNIPROT).
+
 \subsubsection{MGARP \textit{Mitochondria-localized glutamic acid-rich protein}}
+
+Regulates kinesin-mediated axonal transport of mitochondria to nerve terminals.
+Translocation of TRAK2 from cytoplasm to mitochondrion.
 
 \subsubsection{MSTO1 \textit{Protein misato homolog 1}}
 
+Regulation of mitochondrial dist. and morphology.
+
 \subsubsection{SNPH \textit{Syntaphilin}}
+
+Inhibits SNARE complex formation by absorbing free syntaxin-1.
 
 \subsection{Output}
 
 \subsubsection{KIF1B \textit{Kinesin-like protein KIF1B}}
 
+MT + end directed motility.
+
 \subsubsection{KIF5B \textit{Kinesin-1 heavy chain}}
 
+Kinesin heavy chain.
+
 \subsubsection{KLC1 \textit{Kinesin light chain 1}}
+
+Kinesin light chain.
 
 \bibliography{biblio}
 
