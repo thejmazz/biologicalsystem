@@ -151,9 +151,11 @@ domains \citep{Reis2009}.
 To define this system in a structured manner, I considered its functionality
 in the context of the Systems Roles Ontology, which can be found at \SyRO:
 
-\begin{center}
-  \includegraphics[width=1\linewidth]{SyRO-2015-10-27}
-\end{center}
+\begin{figure}[h]
+  \centering
+    \includegraphics[width=1\linewidth]{SyRO-2015-10-27}
+  \caption{Systems Roles Ontology}
+\end{figure}
 
 \begin{tabularx}{\linewidth}{l l X}
   \textit{\textcolor{grey}{Name}} & \textit{\textcolor{grey}{ID}} & \textit{\textcolor{grey}{Context Within Neuronal Mitochondrion Localization}} \\
@@ -217,7 +219,9 @@ domains at each terminus, with two EF hands in between. The C terminal TM domain
 targets this protein to the mitochondria.
 
 \begin{figure}[h]
-  \includegraphics[width=1.0\linewidth]{Rhot-CDD}
+  \centering
+    \includegraphics[width=1.0\linewidth]{Rhot-CDD}
+  \caption{RHOT1 Domains, CDD}
 \end{figure}
 
 NTPases are a large superfamily and operate in a large variety of systems. The
@@ -243,7 +247,10 @@ with the existence of a GEF domain from the CDD.
 
 \begin{figure}[h]
   \includegraphics[width=1.0\linewidth]{TIAM2-CDD}
+  \caption{TIAM2 Domains, CDD}
 \end{figure}
+
+
 
 In this way TIAM2 has the ability to activate Rhot. TIAM2 has also been shown to
 promote the migration of neurons in the cerebral cortex (UNIPROT).
@@ -257,9 +264,10 @@ mitochondria). This domain is required for mitochondrial positioning and
 transport; improper function can lead to mitochondrion clustering at the
 microtubule plus ends (CDD). Another uncharactized CLU domain is present.
 
-\begin{center}
+\begin{figure}[h]
   \includegraphics[width=1.0\linewidth]{CLU1-CDD}
-\end{center}
+  \caption{CLU1 Domains (Yeast), CDD}
+\end{figure}
 
 \subsubsection{MAP1B \textit{Microtubule-associated protein 1B}}
 
@@ -267,9 +275,11 @@ By similarity, MAP1B facilitates tyrosination of $\alpha$-tubulin in
 neuronal microtubules. Interacts with TIAM2 and TTL (UNIPROT). IntAct
 suggests an interaction with GAN.
 
-\begin{center}
-  \includegraphics[width=0.5\linewidth]{MAP1B-IntAct}
-\end{center}
+\begin{figure}[h]
+  \centering
+    \includegraphics[width=0.5\linewidth]{MAP1B-IntAct}
+  \caption{MAP1B Protein-Protein Interactions, IntAct}
+\end{figure}
 
 \subsubsection{MAPT \textit{Microtubule-associated protein tau}}
 
@@ -277,9 +287,10 @@ CDD for MAPT presents tubulin binding repeat domains. MAPT is expected to
 stablize microtubules and potentially establish and maintain neuronal polarity
 (UNIPROT).
 
-\begin{center}
+\begin{figure}[h]
   \includegraphics[width=1.0\linewidth]{MAPT-CDD}
-\end{center}
+  \caption{MAPT Domains, CDD}
+\end{figure}
 
 \subsubsection{MTM1 \textit{Myotubularin}}
 
@@ -292,9 +303,11 @@ SYBU belongs to a kinesin motor-adapter complex. It is critical for forward
 axonal transport (UNIPROT). STRING demonstrates binding interactions with
 KIF5B, which in turn binds with KIF5A and TRAK2, of which both bind TRAK1.
 
-\begin{center}
-  \includegraphics[width=0.5\linewidth]{SYBU-STRING}
-\end{center}
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.4\linewidth]{SYBU-STRING}
+  \caption{SYBU Protein-Protein Interactions, STRING}
+\end{figure}
 
 \cite{Reis2009} note that syntabulin has been found to interact with kinesin
 heavy chain in hippocampal neurons.
@@ -322,10 +335,15 @@ transport of mitochondria in axons.  The closest human equivalents are TRAK1
 and TRAK2, which each contain a coiled-coiled domain. Below are the TRAK1 and
 TRAK2 CDD results.
 
-\begin{center}
+\begin{figure}[h]
   \includegraphics[width=1.0\linewidth]{TRAK1-CDD}
+  \caption{TRAK1 Domains, CDD}
+\end{figure}
+
+\begin{figure}[h]
   \includegraphics[width=1.0\linewidth]{TRAK2-CDD}
-\end{center}
+  \caption{TRAK2 Domains, CDD}
+\end{figure}
 
 The Milton domain is credited for recruitment of kinesin heavy chain to the
 mitochondria (CDD). TRAK1 and TRAK2 have demonstrated interactions with
@@ -336,10 +354,11 @@ involved in the regulation of trafficking GABA receptors.
 STRING corroborates with interactions for SYBU above. As well make note of the
 identified binding between TRAK2, MGARP and RHOT1.
 
-\begin{center}
+\begin{figure}[h]
   \includegraphics[width=0.45\linewidth]{TRAK1-STRING}
   \includegraphics[width=0.45\linewidth]{TRAK2-STRING}
-\end{center}
+  \caption{TRAK1 and TRAK2 Protein-Protein Interactions, STRING}
+\end{figure}
 
 \subsection{Transform}
 
@@ -348,9 +367,11 @@ identified binding between TRAK2, MGARP and RHOT1.
 \cite{Allen2005} observed that GAN interacts with the light chain of MAP1B.
 IntAct also suggests this interaction.
 
-\begin{center}
+\begin{figure}[h]
+  \centering
   \includegraphics[width=0.25\linewidth]{GAN-IntAct}
-\end{center}
+  \caption{GAN Protein-Protein Interactions, IntAct}
+\end{figure}
 
 When \citeauthor{Allen2005} deleted sequences for binding to GAN from MAP1B,
 the N terminus of MAP1B was not ubiquitinated. This suggests that GAN plays
@@ -374,9 +395,10 @@ UNIPROT suggests it may regulate the localization of mitochondria within
 axons and dendrites. A CDD search presents the SEC14p-like lipid binding
 domain, found in lipid regulated proteins such as RhoGAPs and RhoGEFs.
 
-\begin{center}
+\begin{figure}[h]
   \includegraphics[width=1.0\linewidth]{ATCAY-CDD}
-\end{center}
+  \caption{ATCAY Domains, CDD}
+\end{figure}
 
 In this way it is possible ATCAY may perform a similar function to TIAM2.
 
@@ -387,16 +409,19 @@ MGARP is annoted as an
 mitochondrial outer membrane}, inferred by sequence or structural similarity by
 UniProtKB. By STRING we can see that it binds with RHOT1 and TRAK2.
 
-\begin{center}
+\begin{figure}[h]
+  \centering
   \includegraphics[width=0.35\linewidth]{MGARP-STRING}
-\end{center}
+  \caption{MGARP Protein-Protein Interactions, STRING}
+\end{figure}
 
 The CDD describes a ``mitochondrion localization sequence" as well, supporting
 its description as a component of the mitochondrial outer membrane.
 
-\begin{center}
+\begin{figure}[h]
   \includegraphics[width=1.0\linewidth]{MGARP-CDD}
-\end{center}
+  \caption{MGARP Domains, CDD}
+\end{figure}
 
 It is suggested, by similarity, to translocate TRAK2 from cytoplasm to
 mitochondrion (UNIPROT). In this way, we see that RHOT1, RHOT2, TRAK1, TRAK2 and
@@ -407,9 +432,10 @@ MGARP all localize at the mitochondrion.
 Misato localizes to the outer membrane of mitochondria. It contains a tubulin
 like domain and is responsible for mitochondrial fission and localization (CDD).
 
-\begin{center}
+\begin{figure}[h]
   \includegraphics[width=1.0\linewidth]{MSTO1-CDD}
-\end{center}
+  \caption{MSTO1 Domains, CDD}
+\end{figure}
 
 \subsubsection{SNPH \textit{Syntaphilin}}
 
