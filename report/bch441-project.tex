@@ -204,14 +204,16 @@ through the \textit{Summary of first pool} in my \firstpool.
   TTL & \uniprot{Q8NG68} & Tubulin--tyrosine ligase & transform \\
 \end{tabularx}
 
+\section{Documentation}
+
 \subsection{Signal Integration}
 
 \subsubsection{RHOT1, RHOT2 \textit{Mitochondrial Rho GTPase 1, 2}}
 
 RHOT1 and RHOT2, which are also known as MIRO1 and MIRO2, were first reported as
 a new family of Rho GTPases with in \citeyear{Fransson2003} by
-\citeauthor{Fransson2003}. An NCBI CDD search presents us with a two GTPase
-domains each terminus, with two EF hands in between. The C terminal TM domain
+\citeauthor{Fransson2003}. An NCBI CDD search presents us with two GTPase
+domains at each terminus, with two EF hands in between. The C terminal TM domain
 targets this protein to the mitochondria.
 
 \begin{figure}[h]
@@ -228,7 +230,8 @@ response into two distinct phenotypes later in \citeyear{Fransson2006}. They
 observed that Miro-1 induced aggregration and thread-like mitochondria, whereas
 Miro-2 only induced aggregation. \citeauthor{Fransson2006} also demonstrated
 interactions of Miro with GRIF-1 (TRAK2) and OIP106 (TRAK1), trafficking
-kinesin binding proteins.
+kinesin binding proteins. The EF hands can bind calcium,
+disrupting interactions with TRAK \citep{Reis2009}.
 
 % Ability to bind to TRAK1 not Ca2+ dep.
 
@@ -252,7 +255,11 @@ promote the migration of neurons in the cerebral cortex (UNIPROT).
 A CDD search with CLU1 from yeast presents the CLU domain (CLUstered
 mitochondria). This domain is required for mitochondrial positioning and
 transport; improper function can lead to mitochondrion clustering at the
-microtubule plus ends (CDD).
+microtubule plus ends (CDD). Another uncharactized CLU domain is present.
+
+\begin{center}
+  \includegraphics[width=1.0\linewidth]{CLU1-CDD}
+\end{center}
 
 \subsubsection{MAP1B \textit{Microtubule-associated protein 1B}}
 
@@ -289,74 +296,169 @@ KIF5B, which in turn binds with KIF5A and TRAK2, of which both bind TRAK1.
   \includegraphics[width=0.5\linewidth]{SYBU-STRING}
 \end{center}
 
+\cite{Reis2009} note that syntabulin has been found to interact with kinesin
+heavy chain in hippocampal neurons.
+
 \subsection{Transmit}
 
 \subsubsection{BHLHA15 \textit{Class A basic helix-loop-helix protein 15}}
 
-Required for mitochondrial calcium ion transport (UNIPROT).
+Required for mitochondrial calcium ion transport (UNIPROT). Ensembl electronic
+annotation has tagged BHLHA15 with the biological process
+\href{http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0019722}{calcium-mediated
+signalling}. This protein is expressed specifically in brain, liver,
+spleen and skeletal muscle (UNIPROT).
 
 \subsubsection{GABA \textit{Gamma-amino-N-butyrate transaminase}}
 
-GABA is located within the mitochondrial matrix (UNIPROT).
+GABA is located within the mitochondrial matrix (UNIPROT). Does not appear
+particularly involved on its own, yet we will see it interacts with TRAK1 and
+TRAK2.
 
-\subsubsection{TRAK1 \textit{Trafficking kinesin-binding protein 1}}
+\subsubsection{TRAK1, TRAK2 \textit{Trafficking kinesin-binding protein 1, 2}}
 
-Trafficking of GABA-A receptors (UNIPROT). Contains coiled-coiled domain. STRING
-corroborates with interactions for SYBU above.
+\cite{Reis2009} identify Milton as an adapter protein required for the
+transport of mitochondria in axons.  The closest human equivalents are TRAK1
+and TRAK2, which each contain a coiled-coiled domain. Below are the TRAK1 and
+TRAK2 CDD results.
 
 \begin{center}
-  \includegraphics[width=0.5\linewidth]{SYBU-STRING}
+  \includegraphics[width=1.0\linewidth]{TRAK1-CDD}
+  \includegraphics[width=1.0\linewidth]{TRAK2-CDD}
 \end{center}
 
-\subsubsection{TRAK2 \textit{Trafficking kinesin-binding protein 2}}
+The Milton domain is credited for recruitment of kinesin heavy chain to the
+mitochondria (CDD). TRAK1 and TRAK2 have demonstrated interactions with
+GABA receptors \citep{Resi2009}. It was previously noted that GABA is located
+within the mitochondrion and mitochondrial matrix. UNIPROT mentions TRAK is
+involved in the regulation of trafficking GABA receptors.
 
-% TODO explore Milton
-Milton domain. Interact with GABA-A receptors.
+STRING corroborates with interactions for SYBU above. As well make note of the
+identified binding between TRAK2, MGARP and RHOT1.
+
+\begin{center}
+  \includegraphics[width=0.45\linewidth]{TRAK1-STRING}
+  \includegraphics[width=0.45\linewidth]{TRAK2-STRING}
+\end{center}
 
 \subsection{Transform}
 
 \subsubsection{GAN \textit{Gigaxonin}}
 
-Controls degredation of MAP1B and MAP1S; critical for neuronal maintenance and
-surival (UNIPROT).
+\cite{Allen2005} observed that GAN interacts with the light chain of MAP1B.
+IntAct also suggests this interaction.
+
+\begin{center}
+  \includegraphics[width=0.25\linewidth]{GAN-IntAct}
+\end{center}
+
+When \citeauthor{Allen2005} deleted sequences for binding to GAN from MAP1B,
+the N terminus of MAP1B was not ubiquitinated. This suggests that GAN plays
+a regulatory role with MAP1B, and since MAP1B facilitates forward movement
+of mitochondria along microtubules, GAN has the potential to arrest this
+process.
 
 \subsubsection{TTL \textit{Tubulin--tyrosine ligase}}
 
-ATP + detyrosinated alpha-tubulin + L-tyrosine = alpha-tubulin + ADP + phosphate
+ATP + detyrosinated $\alpha$-tubulin + L-tyrosine = $\alpha$-tubulin + ADP +
+phosphate (UNIPROT). TTL is involved in microtubule organization, given its
+modifications to $\alpha$-tubulin, a primary component of microtubules.
 
 \subsection{Regulate}
 
 \subsubsection{ATCAY \textit{Caytaxin}}
 
-May regulate the localization of mitochondria within axons and dendrites
-(UNIPROT).
+Has been annotated with \href{http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0019894}{kinesin binding}
+GO molecular function (UniProtKB, inferred from physical interaction).
+UNIPROT suggests it may regulate the localization of mitochondria within
+axons and dendrites. A CDD search presents the SEC14p-like lipid binding
+domain, found in lipid regulated proteins such as RhoGAPs and RhoGEFs.
+
+\begin{center}
+  \includegraphics[width=1.0\linewidth]{ATCAY-CDD}
+\end{center}
+
+In this way it is possible ATCAY may perform a similar function to TIAM2.
 
 \subsubsection{MGARP \textit{Mitochondria-localized glutamic acid-rich protein}}
 
-Regulates kinesin-mediated axonal transport of mitochondria to nerve terminals.
-Translocation of TRAK2 from cytoplasm to mitochondrion.
+MGARP is annoted as an
+\href{http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0031307}{integral component of
+mitochondrial outer membrane}, inferred by sequence or structural similarity by
+UniProtKB. By STRING we can see that it binds with RHOT1 and TRAK2.
+
+\begin{center}
+  \includegraphics[width=0.35\linewidth]{MGARP-STRING}
+\end{center}
+
+The CDD describes a ``mitochondrion localization sequence" as well, supporting
+its description as a component of the mitochondrial outer membrane.
+
+\begin{center}
+  \includegraphics[width=1.0\linewidth]{MGARP-CDD}
+\end{center}
+
+It is suggested, by similarity, to translocate TRAK2 from cytoplasm to
+mitochondrion (UNIPROT). In this way, we see that RHOT1, RHOT2, TRAK1, TRAK2 and
+MGARP all localize at the mitochondrion.
 
 \subsubsection{MSTO1 \textit{Protein misato homolog 1}}
 
-Regulation of mitochondrial dist. and morphology.
+Misato localizes to the outer membrane of mitochondria. It contains a tubulin
+like domain and is responsible for mitochondrial fission and localization (CDD).
+
+\begin{center}
+  \includegraphics[width=1.0\linewidth]{MSTO1-CDD}
+\end{center}
 
 \subsubsection{SNPH \textit{Syntaphilin}}
 
-Inhibits SNARE complex formation by absorbing free syntaxin-1.
+Syntaphilin is brain specific and found in synapses (UNIPROT). Syntaphilin
+has been found co-localized with mitochondria, where it has been proposed
+to act as receptor for docking for mitochondria in axons. Furthermore, deletion
+of the SNPH gene has resulted in increased mitochondrial motility and reduced
+mitochondrial density in axons \citep{Reis2009}.
 
 \subsection{Output}
 
-\subsubsection{KIF1B \textit{Kinesin-like protein KIF1B}}
+\subsubsection{KIF1B, KIF5B, KLC1 \textit{Kinesin-like protein KIF1B, heavy chain, light chain}}
 
-MT + end directed motility.
+Kinesin activity is the final output of these system. We have seen KIF1B, KIF5B
+interact with TRAK1 through binding interactions. Kinesin-like protein KIF1B,
+kinesin heavy chain, and kinesin light chain will carry mitochondria towards
+the plus end of the microtubule. Due to microtubule arrangement in the cell
+handled by other processes, this will be towards the synapses, away from the
+cell body.
 
-\subsubsection{KIF5B \textit{Kinesin-1 heavy chain}}
+\section{Data Pipeline}
 
-Kinesin heavy chain.
+For this project, I implemented a data pipeline using
+\href{http://dat-data.com}{dat} and
+\href{https://github.com/datproject/gasket}{gasket}. I wrote a small module
+which wraps the QuickGO REST API and provides responses in \texttt{Promise} and
+\texttt{Stream} format:
+\href{https://github.com/thejmazz/bionode-quickgo}{github.com/thejmazz/bionode-quickgo}.
+I plan on submitting this to the bionode project and publishing on npm. The CLI
+for bionode-quickgo was used in my gasket pipeline:
 
-\subsubsection{KLC1 \textit{Kinesin light chain 1}}
+\inputminted[fontsize=\small]{json}{"../gasket.json"}
 
-Kinesin light chain.
+This pipeline will take a GO ID, get its annotation from QuickGO in the
+specified format, get the Uniprot XML for each protein, bundle all of these into
+one object separated into arrays by gene name, sort by number of proteins per
+gene, and then output a neatly formatted markdown file complete with links to
+Uniprot. I found this essential in getting an idea of the proteins
+representative of each GO term. Data is intermediately stored in the version
+controlled file storage program dat. Currently, this pipeline requires manual
+editing to perform on a new GO term. With a modern text editor this can be done
+quickly for all occurences, yet it is not satisfactory. I had begun writing
+\href{https://github.com/thejmazz/bionode-obo}{github.com/thejmazz/bionode-obo},
+a streaming OBO 1.2 parser, but could not complete it in time. I would've liked
+to specify a GO term, and have the above pipeline run for each child term,
+recursively. It would be interesting to implement a web interface composed of
+``nodes'' and ``pipes'' to interface with biological databases and file types,
+much like how complex shaders (see: \href{http://imgur.com/a/CQUIL}{Procudural
+Material Monkeys}) are created in programs like Blender.
 
 \bibliography{biblio}
 

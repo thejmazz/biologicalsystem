@@ -1,12 +1,8 @@
 {
   "get-annotations": [
-    "bionode-quickgo -a --goid GO:0019896 --format tsv",
+    "bionode-quickgo --gannotation --goid GO:0019896 --format tsv",
     "node src/parse-tsv.js",
     "dat import - -d GO0019896-annotations"
-  ],
-  "filter-proteins": [
-    "dat export -d GO0019896-annotations",
-    "node src/filter-proteins.js"
   ],
   "get-uniprot": [
     "dat export -d GO0019896-annotations",
