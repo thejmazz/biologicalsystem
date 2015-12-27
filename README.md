@@ -19,9 +19,15 @@ npm link
 
 ## Final Report
 
-[report]
+[bch441-project.pdf]
 
-[report]: https://github.com/thejmazz/biologicalsystem/raw/master/report/bch441-project.pdf
+[bch441-project.pdf]: https://github.com/thejmazz/biologicalsystem/raw/master/report/bch441-project.pdf
+
+## Notebook
+
+[Notebook]
+
+[Notebook]: https://github.com/thejmazz/biologicalsystem/blob/master/notebook.md
 
 ## Task
 
