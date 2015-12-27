@@ -17,6 +17,12 @@ cd bionode-quickgo
 npm link
 ```
 
+## Final Report
+
+[report]
+
+[report]: https://github.com/thejmazz/biologicalsystem/raw/master/report/bch441-project.pdf
+
 ## Task
 
 *Adapted (heavily) from [Bioinformatics Project: Defining a System][project-page]*
@@ -109,7 +115,7 @@ See the [System Roles Ontology][SyRO]:
 
 [SyRO]: https://github.com/hyginn/SyRO
 
-## The System (5 points)
+## The System
 
 **Name**
 
@@ -176,16 +182,3 @@ Some good looking non-human genes:
 
 [A0A010QYJ2]: http://www.uniprot.org/uniprot/A0A010QYJ2
 [A0A016PYY2]: http://www.uniprot.org/uniprot/A0A016PYY2
-
-## Compiling a list of genes (12 points)
-
-### [GO:0047497][GO:0047497] (mitochondrion transport along microtubule)
-
-```
-The directed movement of a mitochondrion along a microtubule, mediated by
-motor proteins
-```
-
-
-
-## Documentation (9 points)
